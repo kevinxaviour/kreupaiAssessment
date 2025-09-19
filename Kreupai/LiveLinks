@@ -1,0 +1,6 @@
+ML Prediction Steamlit link: https://laligapredictionkreupai.streamlit.app/
+Laliga Match Performance Tableau dashboard: https://public.tableau.com/app/profile/kevin.xaviour2907/vizzes
+Player Performace Dashboard: https://public.tableau.com/app/profile/kevin.xaviour2907/viz/PlayerPerformance_17582189182090/Dashboard1
+
+API link=http://fastapi-env.eba-nhjpadgm.ap-south-1.elasticbeanstalk.com/team_stats/{home_team_id}/{opponent_team_id}
+example usage=http://fastapi-env.eba-nhjpadgm.ap-south-1.elasticbeanstalk.com/team_stats/53/52
