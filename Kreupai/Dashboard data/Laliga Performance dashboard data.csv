@@ -1,0 +1,1521 @@
+matchid,matchname,season,match_dt,teamid,teamname,opponentid,opponentname,ishome,goals_scored,goals_conceded,result
+10,Las Palmas vs Mallorca,2023-24,08-15-2023 12:00,51,Mallorca,838,Las Palmas,0,1,1,D
+11,Mallorca vs Villarreal,2023-24,08-19-2023 09:50,51,Mallorca,839,Villarreal,1,0,1,L
+24,Granada vs Mallorca,2023-24,08-27-2023 18:33,51,Mallorca,925,Granada,0,2,3,L
+37,Mallorca vs Athletic Club,2023-24,09-04-2023 13:48,51,Mallorca,53,Athletic Club,1,0,0,D
+42,Celta Vigo vs Mallorca,2023-24,09-17-2023 16:54,51,Mallorca,62,Celta Vigo,0,1,0,W
+59,Mallorca vs Barcelona,2023-24,09-27-2023 09:30,51,Mallorca,65,Barcelona,1,2,2,D
+68,Rayo Vallecano vs Mallorca,2023-24,10-01-2023 16:41,51,Mallorca,64,Rayo Vallecano,0,2,2,D
+79,Mallorca vs Valencia,2023-24,10-08-2023 13:14,51,Mallorca,55,Valencia,1,1,1,D
+88,Real Sociedad vs Mallorca,2023-24,10-22-2023 08:42,51,Mallorca,68,Real Sociedad,0,0,1,L
+99,Mallorca vs Getafe,2023-24,10-29-2023 11:57,51,Mallorca,819,Getafe,1,0,0,D
+127,Atletico vs Mallorca,2023-24,11-26-2023 15:57,51,Mallorca,63,Atletico,0,0,1,L
+133,Mallorca vs Cadiz,2023-24,11-30-2023 13:14,51,Mallorca,1354,Cadiz,1,1,1,D
+139,Mallorca vs Deportivo Alaves,2023-24,12-04-2023 09:57,51,Mallorca,60,Deportivo Alaves,1,0,0,D
+147,Mallorca vs Sevilla,2023-24,12-11-2023 08:44,51,Mallorca,67,Sevilla,1,1,0,W
+157,Almeria vs Mallorca,2023-24,12-18-2023 09:19,51,Mallorca,1799,Almeria,0,0,0,D
+161,Real Betis vs Mallorca,2023-24,12-18-2023 13:54,51,Mallorca,54,Real Betis,0,0,2,L
+173,Mallorca vs Osasuna,2023-24,12-22-2023 08:44,51,Mallorca,131,Osasuna,1,3,2,W
+180,Real Madrid vs Mallorca,2023-24,01-04-2024 10:04,51,Mallorca,52,Real Madrid,0,0,1,L
+184,Girona vs Mallorca,2023-24,01-06-2024 19:38,51,Mallorca,2783,Girona,0,3,5,L
+189,Mallorca vs Celta Vigo,2023-24,01-14-2024 07:08,51,Mallorca,62,Celta Vigo,1,1,1,D
+198,Villarreal vs Mallorca,2023-24,01-21-2024 07:25,51,Mallorca,839,Villarreal,0,1,1,D
+210,Mallorca vs Real Betis,2023-24,01-28-2024 10:27,51,Mallorca,54,Real Betis,1,0,1,L
+220,Athletic Club vs Mallorca,2023-24,02-03-2024 08:52,51,Mallorca,53,Athletic Club,0,0,4,L
+237,Mallorca vs Rayo Vallecano,2023-24,02-12-2024 07:59,51,Mallorca,64,Rayo Vallecano,1,2,1,W
+248,Mallorca vs Real Sociedad,2023-24,02-19-2024 08:42,51,Mallorca,68,Real Sociedad,1,1,2,L
+251,Deportivo Alaves vs Mallorca,2023-24,02-25-2024 11:31,51,Mallorca,60,Deportivo Alaves,0,1,1,D
+265,Mallorca vs Girona,2023-24,03-04-2024 07:24,51,Mallorca,2783,Girona,1,1,0,W
+269,Barcelona vs Mallorca,2023-24,03-09-2024 08:33,51,Mallorca,65,Barcelona,0,0,1,L
+280,Mallorca vs Granada,2023-24,03-17-2024 06:01,51,Mallorca,925,Granada,1,1,0,W
+292,Valencia vs Mallorca,2023-24,03-31-2024 14:41,51,Mallorca,55,Valencia,0,0,0,D
+303,Mallorca vs Real Madrid,2023-24,04-14-2024 11:56,51,Mallorca,52,Real Madrid,1,0,1,L
+318,Sevilla vs Mallorca,2023-24,04-23-2024 07:37,51,Mallorca,67,Sevilla,0,1,2,L
+325,Cadiz vs Mallorca,2023-24,04-29-2024 07:54,51,Mallorca,1354,Cadiz,0,1,1,D
+334,Mallorca vs Atletico,2023-24,05-05-2024 14:35,51,Mallorca,63,Atletico,1,0,1,L
+341,Mallorca vs Las Palmas,2023-24,05-12-2024 11:50,51,Mallorca,838,Las Palmas,1,1,0,W
+349,Osasuna vs Mallorca,2023-24,05-15-2024 07:18,51,Mallorca,131,Osasuna,0,1,1,D
+361,Mallorca vs Almeria,2023-24,05-20-2024 10:00,51,Mallorca,1799,Almeria,1,2,2,D
+376,Getafe vs Mallorca,2023-24,05-27-2024 01:34,51,Mallorca,819,Getafe,0,2,1,W
+385,Mallorca vs Real Madrid,2024-25,08-19-2024 10:33,51,Mallorca,52,Real Madrid,1,1,1,D
+390,Osasuna vs Mallorca,2024-25,08-25-2024 11:33,51,Mallorca,131,Osasuna,0,0,1,L
+398,Mallorca vs Sevilla,2024-25,08-28-2024 07:17,51,Mallorca,67,Sevilla,1,0,0,D
+409,Leganes vs Mallorca,2024-25,09-01-2024 14:23,51,Mallorca,825,Leganes,0,1,0,W
+416,Mallorca vs Villarreal,2024-25,09-15-2024 06:49,51,Mallorca,839,Villarreal,1,1,2,L
+425,Mallorca vs Real Sociedad,2024-25,09-18-2024 09:55,51,Mallorca,68,Real Sociedad,1,1,0,W
+436,Real Betis vs Mallorca,2024-25,09-24-2024 06:38,51,Mallorca,54,Real Betis,0,2,1,W
+444,Real Valladolid vs Mallorca,2024-25,09-28-2024 00:58,51,Mallorca,58,Real Valladolid,0,2,1,W
+458,Espanyol vs Mallorca,2024-25,10-06-2024 09:51,51,Mallorca,70,Espanyol,0,1,2,L
+468,Mallorca vs Rayo Vallecano,2024-25,10-21-2024 07:16,51,Mallorca,64,Rayo Vallecano,1,1,0,W
+478,Mallorca vs Athletic Club,2024-25,10-29-2024 07:09,51,Mallorca,53,Athletic Club,1,0,0,D
+481,Deportivo Alaves vs Mallorca,2024-25,11-02-2024 09:35,51,Mallorca,60,Deportivo Alaves,0,0,1,L
+494,Mallorca vs Atletico,2024-25,11-11-2024 12:35,51,Mallorca,63,Atletico,1,0,1,L
+507,Las Palmas vs Mallorca,2024-25,11-24-2024 10:21,51,Mallorca,838,Las Palmas,0,3,2,W
+513,Mallorca vs Valencia,2024-25,11-30-2024 18:09,51,Mallorca,55,Valencia,1,2,1,W
+524,Mallorca vs Barcelona,2024-25,12-04-2024 11:05,51,Mallorca,65,Barcelona,1,1,5,L
+526,Celta Vigo vs Mallorca,2024-25,12-07-2024 10:26,51,Mallorca,62,Celta Vigo,0,0,2,L
+537,Mallorca vs Girona,2024-25,12-15-2024 05:22,51,Mallorca,2783,Girona,1,2,1,W
+548,Getafe vs Mallorca,2024-25,12-22-2024 04:52,51,Mallorca,819,Getafe,0,1,0,W
+573,Villarreal vs Mallorca,2024-25,01-21-2025 04:58,51,Mallorca,839,Villarreal,0,0,4,L
+577,Mallorca vs Real Betis,2024-25,01-26-2025 05:19,51,Mallorca,54,Real Betis,1,0,1,L
+588,Atletico vs Mallorca,2024-25,02-02-2025 10:07,51,Mallorca,63,Atletico,0,0,2,L
+606,Mallorca vs Osasuna,2024-25,02-11-2025 08:25,51,Mallorca,131,Osasuna,1,1,1,D
+615,Mallorca vs Las Palmas,2024-25,02-17-2025 12:45,51,Mallorca,838,Las Palmas,1,3,1,W
+624,Sevilla vs Mallorca,2024-25,02-25-2025 06:14,51,Mallorca,67,Sevilla,0,1,1,D
+632,Mallorca vs Deportivo Alaves,2024-25,03-03-2025 10:35,51,Mallorca,60,Deportivo Alaves,1,1,1,D
+639,Athletic Club vs Mallorca,2024-25,03-10-2025 12:46,51,Mallorca,53,Athletic Club,0,1,1,D
+645,Mallorca vs Espanyol,2024-25,03-16-2025 09:03,51,Mallorca,70,Espanyol,1,2,1,W
+659,Valencia vs Mallorca,2024-25,03-31-2025 08:09,51,Mallorca,55,Valencia,0,0,1,L
+667,Mallorca vs Celta Vigo,2024-25,04-06-2025 11:45,51,Mallorca,62,Celta Vigo,1,1,2,L
+675,Real Sociedad vs Mallorca,2024-25,04-13-2025 06:37,51,Mallorca,68,Real Sociedad,0,2,0,W
+686,Mallorca vs Leganes,2024-25,04-20-2025 09:08,51,Mallorca,825,Leganes,1,0,0,D
+694,Barcelona vs Mallorca,2024-25,04-23-2025 11:22,51,Mallorca,65,Barcelona,0,0,1,L
+713,Girona vs Mallorca,2024-25,05-06-2025 10:43,51,Mallorca,2783,Girona,0,0,1,L
+719,Mallorca vs Real Valladolid,2024-25,05-11-2025 14:55,51,Mallorca,58,Real Valladolid,1,2,1,W
+730,Real Madrid vs Mallorca,2024-25,05-15-2025 14:04,51,Mallorca,52,Real Madrid,0,1,2,L
+738,Mallorca vs Getafe,2024-25,05-19-2025 11:22,51,Mallorca,819,Getafe,1,1,2,L
+751,Rayo Vallecano vs Mallorca,2024-25,05-25-2025 15:19,51,Mallorca,64,Rayo Vallecano,0,0,0,D
+4,Athletic Club vs Real Madrid,2023-24,08-13-2023 14:26,52,Real Madrid,53,Athletic Club,0,2,0,W
+14,Almeria vs Real Madrid,2023-24,08-20-2023 17:33,52,Real Madrid,1799,Almeria,0,3,1,W
+22,Celta Vigo vs Real Madrid,2023-24,08-26-2023 13:30,52,Real Madrid,62,Celta Vigo,0,1,0,W
+33,Real Madrid vs Getafe,2023-24,09-03-2023 16:14,52,Real Madrid,819,Getafe,1,2,1,W
+47,Real Madrid vs Real Sociedad,2023-24,09-18-2023 11:33,52,Real Madrid,68,Real Sociedad,1,2,1,W
+56,Atletico vs Real Madrid,2023-24,09-25-2023 12:48,52,Real Madrid,63,Atletico,0,1,3,L
+60,Real Madrid vs Las Palmas,2023-24,09-28-2023 08:09,52,Real Madrid,838,Las Palmas,1,2,0,W
+78,Real Madrid vs Osasuna,2023-24,10-08-2023 12:47,52,Real Madrid,131,Osasuna,1,4,0,W
+84,Girona vs Real Madrid,2023-24,10-10-2023 14:51,52,Real Madrid,2783,Girona,0,3,0,W
+90,Sevilla vs Real Madrid,2023-24,10-22-2023 12:25,52,Real Madrid,67,Sevilla,0,1,1,D
+98,Barcelona vs Real Madrid,2023-24,10-29-2023 08:59,52,Real Madrid,65,Barcelona,0,2,1,W
+112,Real Madrid vs Rayo Vallecano,2023-24,11-06-2023 09:58,52,Real Madrid,64,Rayo Vallecano,1,0,0,D
+115,Real Madrid vs Valencia,2023-24,11-12-2023 11:13,52,Real Madrid,55,Valencia,1,5,1,W
+129,Cadiz vs Real Madrid,2023-24,11-27-2023 08:44,52,Real Madrid,1354,Cadiz,0,3,0,W
+137,Real Madrid vs Granada,2023-24,12-03-2023 11:11,52,Real Madrid,925,Granada,1,2,0,W
+145,Real Betis vs Real Madrid,2023-24,12-10-2023 11:51,52,Real Madrid,54,Real Betis,0,1,1,D
+158,Real Madrid vs Villarreal,2023-24,12-18-2023 10:33,52,Real Madrid,839,Villarreal,1,4,1,W
+171,Deportivo Alaves vs Real Madrid,2023-24,12-22-2023 07:24,52,Real Madrid,60,Deportivo Alaves,0,1,0,W
+180,Real Madrid vs Mallorca,2023-24,01-04-2024 10:04,52,Real Madrid,51,Mallorca,1,1,0,W
+201,Real Madrid vs Almeria,2023-24,01-22-2024 05:30,52,Real Madrid,1799,Almeria,1,3,2,W
+208,Las Palmas vs Real Madrid,2023-24,01-28-2024 08:46,52,Real Madrid,838,Las Palmas,0,2,1,W
+219,Getafe vs Real Madrid,2023-24,02-02-2024 09:32,52,Real Madrid,819,Getafe,0,2,0,W
+228,Real Madrid vs Atletico,2023-24,02-05-2024 12:41,52,Real Madrid,63,Atletico,1,1,1,D
+232,Real Madrid vs Girona,2023-24,02-11-2024 10:04,52,Real Madrid,2783,Girona,1,4,0,W
+246,Rayo Vallecano vs Real Madrid,2023-24,02-19-2024 08:30,52,Real Madrid,64,Rayo Vallecano,0,1,1,D
+257,Real Madrid vs Sevilla,2023-24,02-26-2024 10:19,52,Real Madrid,67,Sevilla,1,1,0,W
+263,Valencia vs Real Madrid,2023-24,03-03-2024 14:40,52,Real Madrid,55,Valencia,0,2,2,D
+276,Real Madrid vs Celta Vigo,2023-24,03-11-2024 08:55,52,Real Madrid,62,Celta Vigo,1,4,0,W
+281,Osasuna vs Real Madrid,2023-24,03-17-2024 10:48,52,Real Madrid,131,Osasuna,0,4,2,W
+297,Real Madrid vs Athletic Club,2023-24,04-01-2024 13:08,52,Real Madrid,53,Athletic Club,1,2,0,W
+303,Mallorca vs Real Madrid,2023-24,04-14-2024 11:56,52,Real Madrid,51,Mallorca,0,1,0,W
+317,Real Madrid vs Barcelona,2023-24,04-22-2024 15:16,52,Real Madrid,65,Barcelona,1,3,2,W
+320,Real Sociedad vs Real Madrid,2023-24,04-27-2024 10:05,52,Real Madrid,68,Real Sociedad,0,1,0,W
+332,Real Madrid vs Cadiz,2023-24,05-05-2024 14:10,52,Real Madrid,1354,Cadiz,1,3,0,W
+351,Real Madrid vs Deportivo Alaves,2023-24,05-15-2024 08:08,52,Real Madrid,60,Deportivo Alaves,1,5,0,W
+364,Villarreal vs Real Madrid,2023-24,05-20-2024 11:37,52,Real Madrid,839,Villarreal,0,4,4,D
+368,Granada vs Real Madrid,2023-24,05-20-2024 16:12,52,Real Madrid,925,Granada,0,4,0,W
+375,Real Madrid vs Real Betis,2023-24,05-26-2024 10:19,52,Real Madrid,54,Real Betis,1,0,0,D
+385,Mallorca vs Real Madrid,2024-25,08-19-2024 10:33,52,Real Madrid,51,Mallorca,0,1,1,D
+394,Real Madrid vs Real Valladolid,2024-25,08-26-2024 08:01,52,Real Madrid,58,Real Valladolid,1,3,0,W
+404,Las Palmas vs Real Madrid,2024-25,08-30-2024 12:33,52,Real Madrid,838,Las Palmas,0,1,1,D
+412,Real Madrid vs Real Betis,2024-25,09-02-2024 11:07,52,Real Madrid,54,Real Betis,1,2,0,W
+418,Real Sociedad vs Real Madrid,2024-25,09-15-2024 13:41,52,Real Madrid,68,Real Sociedad,0,2,0,W
+438,Real Madrid vs Deportivo Alaves,2024-25,09-25-2024 10:40,52,Real Madrid,60,Deportivo Alaves,1,3,2,W
+450,Atletico vs Real Madrid,2024-25,09-30-2024 05:17,52,Real Madrid,63,Atletico,0,1,1,D
+455,Real Madrid vs Villarreal,2024-25,10-06-2024 01:49,52,Real Madrid,839,Villarreal,1,2,0,W
+466,Celta Vigo vs Real Madrid,2024-25,10-20-2024 12:40,52,Real Madrid,62,Celta Vigo,0,2,1,W
+473,Real Madrid vs Barcelona,2024-25,10-27-2024 13:26,52,Real Madrid,65,Barcelona,1,0,4,L
+489,Real Madrid vs Osasuna,2024-25,11-10-2024 03:07,52,Real Madrid,131,Osasuna,1,4,0,W
+497,Real Madrid vs Espanyol,2024-25,11-13-2024 14:18,52,Real Madrid,70,Espanyol,1,4,1,W
+511,Leganes vs Real Madrid,2024-25,11-25-2024 09:38,52,Real Madrid,825,Leganes,0,3,0,W
+521,Real Madrid vs Getafe,2024-25,12-02-2024 09:01,52,Real Madrid,819,Getafe,1,2,0,W
+525,Athletic Club vs Real Madrid,2024-25,12-05-2024 12:03,52,Real Madrid,53,Athletic Club,0,1,2,L
+529,Girona vs Real Madrid,2024-25,12-08-2024 13:09,52,Real Madrid,2783,Girona,0,3,0,W
+539,Rayo Vallecano vs Real Madrid,2024-25,12-15-2024 07:35,52,Real Madrid,64,Rayo Vallecano,0,3,3,D
+555,Valencia vs Real Madrid,2024-25,01-06-2025 13:13,52,Real Madrid,55,Valencia,0,2,1,W
+574,Real Madrid vs Las Palmas,2024-25,01-22-2025 09:25,52,Real Madrid,838,Las Palmas,1,4,1,W
+580,Real Valladolid vs Real Madrid,2024-25,01-26-2025 12:57,52,Real Madrid,58,Real Valladolid,0,3,0,W
+590,Espanyol vs Real Madrid,2024-25,02-02-2025 11:18,52,Real Madrid,70,Espanyol,0,0,1,L
+600,Real Madrid vs Atletico,2024-25,02-09-2025 12:37,52,Real Madrid,63,Atletico,1,1,1,D
+609,Osasuna vs Real Madrid,2024-25,02-16-2025 10:22,52,Real Madrid,131,Osasuna,0,1,1,D
+622,Real Madrid vs Girona,2024-25,02-24-2025 09:47,52,Real Madrid,2783,Girona,1,2,0,W
+628,Real Betis vs Real Madrid,2024-25,03-02-2025 13:45,52,Real Madrid,54,Real Betis,0,1,2,L
+638,Real Madrid vs Rayo Vallecano,2024-25,03-10-2025 10:54,52,Real Madrid,64,Rayo Vallecano,1,2,1,W
+647,Villarreal vs Real Madrid,2024-25,03-16-2025 16:53,52,Real Madrid,839,Villarreal,0,2,1,W
+657,Real Madrid vs Leganes,2024-25,03-30-2025 13:32,52,Real Madrid,825,Leganes,1,3,2,W
+666,Real Madrid vs Valencia,2024-25,04-06-2025 10:59,52,Real Madrid,55,Valencia,1,1,2,L
+680,Deportivo Alaves vs Real Madrid,2024-25,04-14-2025 08:44,52,Real Madrid,60,Deportivo Alaves,0,1,0,W
+692,Real Madrid vs Athletic Club,2024-25,04-21-2025 17:09,52,Real Madrid,53,Athletic Club,1,1,0,W
+703,Getafe vs Real Madrid,2024-25,05-01-2025 15:20,52,Real Madrid,819,Getafe,0,1,0,W
+710,Real Madrid vs Celta Vigo,2024-25,05-05-2025 10:31,52,Real Madrid,62,Celta Vigo,1,3,2,W
+723,Barcelona vs Real Madrid,2024-25,05-12-2025 12:20,52,Real Madrid,65,Barcelona,0,3,4,L
+730,Real Madrid vs Mallorca,2024-25,05-15-2025 14:04,52,Real Madrid,51,Mallorca,1,2,1,W
+744,Sevilla vs Real Madrid,2024-25,05-19-2025 16:36,52,Real Madrid,67,Sevilla,0,2,0,W
+746,Real Madrid vs Real Sociedad,2024-25,05-25-2025 01:26,52,Real Madrid,68,Real Sociedad,1,2,0,W
+756,Real Madrid vs Sevilla,2024-25,06-02-2025 23:13,52,Real Madrid,67,Sevilla,1,4,2,W
+4,Athletic Club vs Real Madrid,2023-24,08-13-2023 14:26,53,Athletic Club,52,Real Madrid,1,0,2,L
+15,Osasuna vs Athletic Club,2023-24,08-20-2023 18:56,53,Athletic Club,131,Osasuna,0,2,0,W
+28,Athletic Club vs Real Betis,2023-24,08-28-2023 13:57,53,Athletic Club,54,Real Betis,1,4,2,W
+37,Mallorca vs Athletic Club,2023-24,09-04-2023 13:48,53,Athletic Club,51,Mallorca,0,0,0,D
+40,Athletic Club vs Cadiz,2023-24,09-17-2023 10:10,53,Athletic Club,1354,Cadiz,1,3,0,W
+49,Deportivo Alaves vs Athletic Club,2023-24,09-23-2023 11:03,53,Athletic Club,60,Deportivo Alaves,0,2,0,W
+61,Athletic Club vs Getafe,2023-24,09-28-2023 09:36,53,Athletic Club,819,Getafe,1,2,2,D
+69,Real Sociedad vs Athletic Club,2023-24,10-01-2023 17:48,53,Athletic Club,68,Real Sociedad,0,0,3,L
+75,Athletic Club vs Almeria,2023-24,10-07-2023 08:19,53,Athletic Club,1799,Almeria,1,3,0,W
+102,Barcelona vs Athletic Club,2023-24,10-30-2023 10:04,53,Athletic Club,65,Barcelona,0,0,1,L
+104,Athletic Club vs Valencia,2023-24,10-30-2023 11:38,53,Athletic Club,55,Valencia,1,2,2,D
+111,Villarreal vs Athletic Club,2023-24,11-06-2023 08:29,53,Athletic Club,839,Villarreal,0,3,2,W
+113,Athletic Club vs Celta Vigo,2023-24,11-11-2023 14:19,53,Athletic Club,62,Celta Vigo,1,4,3,W
+132,Girona vs Athletic Club,2023-24,11-28-2023 13:13,53,Athletic Club,2783,Girona,0,1,1,D
+136,Athletic Club vs Rayo Vallecano,2023-24,12-03-2023 10:12,53,Athletic Club,64,Rayo Vallecano,1,4,0,W
+153,Athletic Club vs Atletico,2023-24,12-17-2023 10:11,53,Athletic Club,63,Atletico,1,2,0,W
+167,Athletic Club vs Las Palmas,2023-24,12-21-2023 11:09,53,Athletic Club,838,Las Palmas,1,1,0,W
+186,Sevilla vs Athletic Club,2023-24,01-08-2024 12:20,53,Athletic Club,67,Sevilla,0,2,0,W
+192,Athletic Club vs Real Sociedad,2023-24,01-14-2024 11:06,53,Athletic Club,68,Real Sociedad,1,2,1,W
+199,Valencia vs Athletic Club,2023-24,01-21-2024 08:40,53,Athletic Club,55,Valencia,0,0,1,L
+203,Granada vs Athletic Club,2023-24,01-22-2024 07:21,53,Athletic Club,925,Granada,0,1,1,D
+211,Cadiz vs Athletic Club,2023-24,01-29-2024 05:14,53,Athletic Club,1354,Cadiz,0,0,0,D
+220,Athletic Club vs Mallorca,2023-24,02-03-2024 08:52,53,Athletic Club,51,Mallorca,1,4,0,W
+239,Almeria vs Athletic Club,2023-24,02-13-2024 06:33,53,Athletic Club,1799,Almeria,0,0,0,D
+249,Athletic Club vs Girona,2023-24,02-20-2024 08:24,53,Athletic Club,2783,Girona,1,3,2,W
+254,Real Betis vs Athletic Club,2023-24,02-26-2024 08:48,53,Athletic Club,54,Real Betis,0,1,3,L
+267,Athletic Club vs Barcelona,2023-24,03-04-2024 10:11,53,Athletic Club,65,Barcelona,1,0,0,D
+275,Las Palmas vs Athletic Club,2023-24,03-11-2024 08:50,53,Athletic Club,838,Las Palmas,0,2,0,W
+283,Athletic Club vs Deportivo Alaves,2023-24,03-17-2024 13:15,53,Athletic Club,60,Deportivo Alaves,1,2,0,W
+297,Real Madrid vs Athletic Club,2023-24,04-01-2024 13:08,53,Athletic Club,52,Real Madrid,0,0,2,L
+307,Athletic Club vs Villarreal,2023-24,04-15-2024 11:24,53,Athletic Club,839,Villarreal,1,1,1,D
+310,Athletic Club vs Granada,2023-24,04-20-2024 12:01,53,Athletic Club,925,Granada,1,1,1,D
+324,Atletico vs Athletic Club,2023-24,04-28-2024 15:36,53,Athletic Club,63,Atletico,0,1,3,L
+330,Getafe vs Athletic Club,2023-24,05-04-2024 09:22,53,Athletic Club,819,Getafe,0,2,0,W
+343,Athletic Club vs Osasuna,2023-24,05-12-2024 13:38,53,Athletic Club,131,Osasuna,1,2,2,D
+354,Celta Vigo vs Athletic Club,2023-24,05-16-2024 09:38,53,Athletic Club,62,Celta Vigo,0,1,2,L
+362,Athletic Club vs Sevilla,2023-24,05-20-2024 11:03,53,Athletic Club,67,Sevilla,1,2,0,W
+374,Rayo Vallecano vs Athletic Club,2023-24,05-26-2024 09:20,53,Athletic Club,64,Rayo Vallecano,0,1,0,W
+381,Athletic Club vs Getafe,2024-25,08-16-2024 09:00,53,Athletic Club,819,Getafe,1,1,1,D
+391,Barcelona vs Athletic Club,2024-25,08-25-2024 11:50,53,Athletic Club,65,Barcelona,0,1,2,L
+400,Athletic Club vs Valencia,2024-25,08-29-2024 11:06,53,Athletic Club,55,Valencia,1,1,0,W
+408,Athletic Club vs Atletico,2024-25,09-01-2024 13:25,53,Athletic Club,63,Atletico,1,0,1,L
+423,Las Palmas vs Athletic Club,2024-25,09-16-2024 11:07,53,Athletic Club,838,Las Palmas,0,3,2,W
+427,Leganes vs Athletic Club,2024-25,09-20-2024 08:23,53,Athletic Club,825,Leganes,0,2,0,W
+432,Athletic Club vs Celta Vigo,2024-25,09-23-2024 11:50,53,Athletic Club,62,Celta Vigo,1,3,1,W
+459,Girona vs Athletic Club,2024-25,10-07-2024 03:17,53,Athletic Club,2783,Girona,0,1,2,L
+464,Athletic Club vs Espanyol,2024-25,10-20-2024 06:58,53,Athletic Club,70,Espanyol,1,4,1,W
+478,Mallorca vs Athletic Club,2024-25,10-29-2024 07:09,53,Athletic Club,51,Mallorca,0,0,0,D
+486,Athletic Club vs Real Betis,2024-25,11-04-2024 07:03,53,Athletic Club,54,Real Betis,1,1,1,D
+492,Real Valladolid vs Athletic Club,2024-25,11-11-2024 10:44,53,Athletic Club,58,Real Valladolid,0,1,1,D
+510,Athletic Club vs Real Sociedad,2024-25,11-25-2024 07:29,53,Athletic Club,68,Real Sociedad,1,1,0,W
+520,Rayo Vallecano vs Athletic Club,2024-25,12-02-2024 08:40,53,Athletic Club,64,Rayo Vallecano,0,2,1,W
+525,Athletic Club vs Real Madrid,2024-25,12-05-2024 12:03,53,Athletic Club,52,Real Madrid,1,2,1,W
+530,Athletic Club vs Villarreal,2024-25,12-09-2024 06:13,53,Athletic Club,839,Villarreal,1,2,0,W
+542,Deportivo Alaves vs Athletic Club,2024-25,12-16-2024 08:35,53,Athletic Club,60,Deportivo Alaves,0,1,1,D
+552,Osasuna vs Athletic Club,2024-25,12-22-2024 23:54,53,Athletic Club,131,Osasuna,0,2,1,W
+571,Celta Vigo vs Athletic Club,2024-25,01-20-2025 07:35,53,Athletic Club,62,Celta Vigo,0,2,1,W
+575,Athletic Club vs Sevilla,2024-25,01-23-2025 14:22,53,Athletic Club,67,Sevilla,1,1,1,D
+583,Athletic Club vs Leganes,2024-25,01-27-2025 07:22,53,Athletic Club,825,Leganes,1,0,0,D
+592,Real Betis vs Athletic Club,2024-25,02-03-2025 07:46,53,Athletic Club,54,Real Betis,0,2,2,D
+599,Athletic Club vs Girona,2024-25,02-09-2025 09:39,53,Athletic Club,2783,Girona,1,3,0,W
+613,Espanyol vs Athletic Club,2024-25,02-17-2025 05:27,53,Athletic Club,70,Espanyol,0,1,1,D
+621,Athletic Club vs Real Valladolid,2024-25,02-24-2025 09:05,53,Athletic Club,58,Real Valladolid,1,7,1,W
+629,Atletico vs Athletic Club,2024-25,03-02-2025 15:01,53,Athletic Club,63,Atletico,0,0,1,L
+639,Athletic Club vs Mallorca,2024-25,03-10-2025 12:46,53,Athletic Club,51,Mallorca,1,1,1,D
+648,Sevilla vs Athletic Club,2024-25,03-17-2025 10:06,53,Athletic Club,67,Sevilla,0,1,0,W
+662,Athletic Club vs Osasuna,2024-25,03-31-2025 10:51,53,Athletic Club,131,Osasuna,1,0,0,D
+671,Villarreal vs Athletic Club,2024-25,04-07-2025 13:02,53,Athletic Club,839,Villarreal,0,0,0,D
+682,Athletic Club vs Rayo Vallecano,2024-25,04-14-2025 11:58,53,Athletic Club,64,Rayo Vallecano,1,3,1,W
+692,Real Madrid vs Athletic Club,2024-25,04-21-2025 17:09,53,Athletic Club,52,Real Madrid,0,0,1,L
+695,Athletic Club vs Las Palmas,2024-25,04-24-2025 07:29,53,Athletic Club,838,Las Palmas,1,1,0,W
+712,Real Sociedad vs Athletic Club,2024-25,05-05-2025 13:08,53,Athletic Club,68,Real Sociedad,0,0,0,D
+722,Athletic Club vs Deportivo Alaves,2024-25,05-12-2025 10:46,53,Athletic Club,60,Deportivo Alaves,1,1,0,W
+734,Getafe vs Athletic Club,2024-25,05-16-2025 11:08,53,Athletic Club,819,Getafe,0,2,0,W
+743,Valencia vs Athletic Club,2024-25,05-19-2025 13:56,53,Athletic Club,55,Valencia,0,1,0,W
+753,Athletic Club vs Barcelona,2024-25,05-26-2025 11:12,53,Athletic Club,65,Barcelona,1,0,3,L
+6,Villarreal vs Real Betis,2023-24,08-14-2023 12:16,54,Real Betis,839,Villarreal,0,2,1,W
+18,Real Betis vs Atletico,2023-24,08-21-2023 14:49,54,Real Betis,63,Atletico,1,0,0,D
+28,Athletic Club vs Real Betis,2023-24,08-28-2023 13:57,54,Real Betis,53,Athletic Club,0,2,4,L
+35,Real Betis vs Rayo Vallecano,2023-24,09-03-2023 19:10,54,Real Betis,64,Rayo Vallecano,1,1,0,W
+43,Barcelona vs Real Betis,2023-24,09-17-2023 19:45,54,Real Betis,65,Barcelona,0,0,5,L
+55,Real Betis vs Cadiz,2023-24,09-25-2023 12:23,54,Real Betis,1354,Cadiz,1,1,1,D
+63,Granada vs Real Betis,2023-24,09-29-2023 08:29,54,Real Betis,925,Granada,0,1,1,D
+72,Real Betis vs Valencia,2023-24,10-02-2023 12:43,54,Real Betis,55,Valencia,1,3,0,W
+81,Deportivo Alaves vs Real Betis,2023-24,10-09-2023 10:57,54,Real Betis,60,Deportivo Alaves,0,1,1,D
+89,Getafe vs Real Betis,2023-24,10-22-2023 11:09,54,Real Betis,819,Getafe,0,1,1,D
+101,Real Betis vs Osasuna,2023-24,10-30-2023 09:43,54,Real Betis,131,Osasuna,1,2,1,W
+116,Sevilla vs Real Betis,2023-24,11-13-2023 09:29,54,Real Betis,67,Sevilla,0,1,1,D
+130,Real Betis vs Las Palmas,2023-24,11-27-2023 10:00,54,Real Betis,838,Las Palmas,1,1,0,W
+141,Almeria vs Real Betis,2023-24,12-04-2023 14:37,54,Real Betis,1799,Almeria,0,0,0,D
+145,Real Betis vs Real Madrid,2023-24,12-10-2023 11:51,54,Real Betis,52,Real Madrid,1,1,1,D
+156,Real Sociedad vs Real Betis,2023-24,12-18-2023 08:55,54,Real Betis,68,Real Sociedad,0,0,0,D
+161,Real Betis vs Mallorca,2023-24,12-18-2023 13:54,54,Real Betis,51,Mallorca,1,2,0,W
+169,Real Betis vs Girona,2023-24,12-22-2023 01:46,54,Real Betis,2783,Girona,1,1,1,D
+179,Celta Vigo vs Real Betis,2023-24,01-04-2024 08:39,54,Real Betis,62,Celta Vigo,0,1,2,L
+190,Real Betis vs Granada,2023-24,01-14-2024 08:37,54,Real Betis,925,Granada,1,1,0,W
+204,Real Betis vs Barcelona,2023-24,01-22-2024 11:20,54,Real Betis,65,Barcelona,1,2,4,L
+210,Mallorca vs Real Betis,2023-24,01-28-2024 10:27,54,Real Betis,51,Mallorca,0,1,0,W
+226,Real Betis vs Getafe,2023-24,02-05-2024 07:25,54,Real Betis,819,Getafe,1,1,1,D
+230,Cadiz vs Real Betis,2023-24,02-10-2024 08:19,54,Real Betis,1354,Cadiz,0,2,0,W
+247,Real Betis vs Deportivo Alaves,2023-24,02-19-2024 08:37,54,Real Betis,60,Deportivo Alaves,1,0,0,D
+254,Real Betis vs Athletic Club,2023-24,02-26-2024 08:48,54,Real Betis,53,Athletic Club,1,3,1,W
+266,Atletico vs Real Betis,2023-24,03-04-2024 09:44,54,Real Betis,63,Atletico,0,1,2,L
+277,Real Betis vs Villarreal,2023-24,03-11-2024 10:07,54,Real Betis,839,Villarreal,1,2,3,L
+288,Rayo Vallecano vs Real Betis,2023-24,03-18-2024 08:31,54,Real Betis,64,Rayo Vallecano,0,0,2,L
+296,Girona vs Real Betis,2023-24,04-01-2024 11:40,54,Real Betis,2783,Girona,0,2,3,L
+300,Real Betis vs Celta Vigo,2023-24,04-13-2024 07:14,54,Real Betis,62,Celta Vigo,1,2,1,W
+319,Valencia vs Real Betis,2023-24,04-24-2024 16:05,54,Real Betis,55,Valencia,0,2,1,W
+328,Real Betis vs Sevilla,2023-24,04-29-2024 11:56,54,Real Betis,67,Sevilla,1,1,1,D
+335,Osasuna vs Real Betis,2023-24,05-06-2024 09:50,54,Real Betis,131,Osasuna,0,2,0,W
+347,Real Betis vs Almeria,2023-24,05-13-2024 13:25,54,Real Betis,1799,Almeria,1,3,2,W
+356,Las Palmas vs Real Betis,2023-24,05-17-2024 08:14,54,Real Betis,838,Las Palmas,0,2,2,D
+367,Real Betis vs Real Sociedad,2023-24,05-20-2024 13:02,54,Real Betis,68,Real Sociedad,1,0,2,L
+375,Real Madrid vs Real Betis,2023-24,05-26-2024 10:19,54,Real Betis,52,Real Madrid,0,0,0,D
+396,Deportivo Alaves vs Real Betis,2024-25,08-26-2024 09:52,54,Real Betis,60,Deportivo Alaves,0,0,0,D
+412,Real Madrid vs Real Betis,2024-25,09-02-2024 11:07,54,Real Betis,52,Real Madrid,0,0,2,L
+415,Real Betis vs Leganes,2024-25,09-14-2024 08:15,54,Real Betis,825,Leganes,1,2,0,W
+426,Real Betis vs Getafe,2024-25,09-19-2024 04:56,54,Real Betis,819,Getafe,1,2,1,W
+436,Real Betis vs Mallorca,2024-25,09-24-2024 06:38,54,Real Betis,51,Mallorca,1,1,2,L
+442,Las Palmas vs Real Betis,2024-25,09-27-2024 08:16,54,Real Betis,838,Las Palmas,0,1,1,D
+449,Real Betis vs Espanyol,2024-25,09-29-2024 19:30,54,Real Betis,70,Espanyol,1,1,0,W
+461,Sevilla vs Real Betis,2024-25,10-07-2024 17:29,54,Real Betis,67,Sevilla,0,0,1,L
+465,Osasuna vs Real Betis,2024-25,10-20-2024 11:32,54,Real Betis,131,Osasuna,0,2,1,W
+476,Real Betis vs Atletico,2024-25,10-28-2024 11:41,54,Real Betis,63,Atletico,1,1,0,W
+486,Athletic Club vs Real Betis,2024-25,11-04-2024 07:03,54,Real Betis,53,Athletic Club,0,1,1,D
+499,Real Betis vs Celta Vigo,2024-25,11-13-2024 15:47,54,Real Betis,62,Celta Vigo,1,2,2,D
+505,Valencia vs Real Betis,2024-25,11-24-2024 06:43,54,Real Betis,55,Valencia,0,2,4,L
+522,Real Sociedad vs Real Betis,2024-25,12-02-2024 09:55,54,Real Betis,68,Real Sociedad,0,0,2,L
+527,Real Betis vs Barcelona,2024-25,12-08-2024 11:10,54,Real Betis,65,Barcelona,1,2,2,D
+540,Villarreal vs Real Betis,2024-25,12-16-2024 06:47,54,Real Betis,839,Villarreal,0,2,1,W
+553,Real Betis vs Rayo Vallecano,2024-25,12-23-2024 06:36,54,Real Betis,64,Rayo Vallecano,1,1,1,D
+560,Real Valladolid vs Real Betis,2024-25,01-12-2025 08:12,54,Real Betis,58,Real Valladolid,0,0,1,L
+569,Real Betis vs Deportivo Alaves,2024-25,01-19-2025 11:40,54,Real Betis,60,Deportivo Alaves,1,1,3,L
+577,Mallorca vs Real Betis,2024-25,01-26-2025 05:19,54,Real Betis,51,Mallorca,0,1,0,W
+592,Real Betis vs Athletic Club,2024-25,02-03-2025 07:46,54,Real Betis,53,Athletic Club,1,2,2,D
+598,Celta Vigo vs Real Betis,2024-25,02-09-2025 07:11,54,Real Betis,62,Celta Vigo,0,2,3,L
+614,Real Betis vs Real Sociedad,2024-25,02-17-2025 11:40,54,Real Betis,68,Real Sociedad,1,3,0,W
+628,Real Betis vs Real Madrid,2024-25,03-02-2025 13:45,54,Real Betis,52,Real Madrid,1,2,1,W
+640,Real Betis vs Las Palmas,2024-25,03-10-2025 12:58,54,Real Betis,838,Las Palmas,1,1,0,W
+652,Leganes vs Real Betis,2024-25,03-20-2025 12:30,54,Real Betis,825,Leganes,0,3,2,W
+661,Real Betis vs Sevilla,2024-25,03-31-2025 10:28,54,Real Betis,67,Sevilla,1,2,1,W
+668,Barcelona vs Real Betis,2024-25,04-06-2025 12:35,54,Real Betis,65,Barcelona,0,1,1,D
+681,Real Betis vs Villarreal,2024-25,04-14-2025 10:50,54,Real Betis,839,Villarreal,1,1,2,L
+693,Girona vs Real Betis,2024-25,04-22-2025 19:30,54,Real Betis,2783,Girona,0,3,1,W
+699,Real Betis vs Real Valladolid,2024-25,04-25-2025 12:11,54,Real Betis,58,Real Valladolid,1,5,1,W
+711,Espanyol vs Real Betis,2024-25,05-05-2025 12:39,54,Real Betis,70,Espanyol,0,2,1,W
+724,Real Betis vs Osasuna,2024-25,05-12-2025 14:31,54,Real Betis,131,Osasuna,1,1,1,D
+731,Rayo Vallecano vs Real Betis,2024-25,05-16-2025 06:55,54,Real Betis,64,Rayo Vallecano,0,2,2,D
+739,Atletico vs Real Betis,2024-25,05-19-2025 12:02,54,Real Betis,63,Atletico,0,1,4,L
+745,Real Betis vs Valencia,2024-25,05-24-2025 10:55,54,Real Betis,55,Valencia,1,1,1,D
+755,Getafe vs Real Betis,2024-25,05-28-2025 11:31,54,Real Betis,819,Getafe,0,2,1,W
+757,Real Betis vs Girona,2024-25,06-03-2025 17:13,54,Real Betis,2783,Girona,1,1,1,D
+2,Sevilla vs Valencia,2023-24,08-12-2023 10:13,55,Valencia,67,Sevilla,0,2,1,W
+12,Valencia vs Las Palmas,2023-24,08-19-2023 15:18,55,Valencia,838,Las Palmas,1,1,0,W
+27,Valencia vs Osasuna,2023-24,08-28-2023 13:53,55,Valencia,131,Osasuna,1,1,2,L
+34,Deportivo Alaves vs Valencia,2023-24,09-03-2023 18:00,55,Valencia,60,Deportivo Alaves,0,0,1,L
+41,Valencia vs Atletico,2023-24,09-17-2023 14:42,55,Valencia,63,Atletico,1,3,0,W
+52,Almeria vs Valencia,2023-24,09-24-2023 18:28,55,Valencia,1799,Almeria,0,2,2,D
+72,Real Betis vs Valencia,2023-24,10-02-2023 12:43,55,Valencia,54,Real Betis,0,0,3,L
+79,Mallorca vs Valencia,2023-24,10-08-2023 13:14,55,Valencia,51,Mallorca,0,1,1,D
+94,Valencia vs Cadiz,2023-24,10-24-2023 10:25,55,Valencia,1354,Cadiz,1,2,0,W
+104,Athletic Club vs Valencia,2023-24,10-30-2023 11:38,55,Valencia,53,Athletic Club,0,2,2,D
+115,Real Madrid vs Valencia,2023-24,11-12-2023 11:13,55,Valencia,52,Real Madrid,0,1,5,L
+119,Valencia vs Granada,2023-24,11-14-2023 12:20,55,Valencia,925,Granada,1,1,0,W
+126,Valencia vs Celta Vigo,2023-24,11-26-2023 15:45,55,Valencia,62,Celta Vigo,1,0,0,D
+135,Girona vs Valencia,2023-24,12-03-2023 08:00,55,Valencia,2783,Girona,0,1,2,L
+143,Getafe vs Valencia,2023-24,12-09-2023 07:09,55,Valencia,819,Getafe,0,0,1,L
+155,Valencia vs Barcelona,2023-24,12-17-2023 11:36,55,Valencia,65,Barcelona,1,1,1,D
+163,Rayo Vallecano vs Valencia,2023-24,12-20-2023 05:31,55,Valencia,64,Rayo Vallecano,0,1,0,W
+176,Valencia vs Villarreal,2023-24,01-03-2024 12:29,55,Valencia,839,Villarreal,1,3,1,W
+185,Valencia vs Real Sociedad,2023-24,01-06-2024 19:40,55,Valencia,68,Real Sociedad,1,0,1,L
+194,Cadiz vs Valencia,2023-24,01-15-2024 11:24,55,Valencia,1354,Cadiz,0,4,1,W
+199,Valencia vs Athletic Club,2023-24,01-21-2024 08:40,55,Valencia,53,Athletic Club,1,1,0,W
+214,Atletico vs Valencia,2023-24,01-29-2024 08:39,55,Valencia,63,Atletico,0,0,2,L
+221,Valencia vs Almeria,2023-24,02-03-2024 22:06,55,Valencia,1799,Almeria,1,2,1,W
+234,Las Palmas vs Valencia,2023-24,02-11-2024 12:18,55,Valencia,838,Las Palmas,0,0,2,L
+243,Valencia vs Sevilla,2023-24,02-18-2024 13:08,55,Valencia,67,Sevilla,1,0,0,D
+263,Valencia vs Real Madrid,2023-24,03-03-2024 14:40,55,Valencia,52,Real Madrid,1,2,2,D
+270,Valencia vs Getafe,2023-24,03-10-2024 06:38,55,Valencia,819,Getafe,1,1,0,W
+284,Villarreal vs Valencia,2023-24,03-18-2024 06:46,55,Valencia,839,Villarreal,0,0,1,L
+292,Valencia vs Mallorca,2023-24,03-31-2024 14:41,55,Valencia,51,Mallorca,1,0,0,D
+299,Granada vs Valencia,2023-24,04-05-2024 06:23,55,Valencia,925,Granada,0,1,0,W
+309,Osasuna vs Valencia,2023-24,04-16-2024 13:45,55,Valencia,131,Osasuna,0,1,0,W
+319,Valencia vs Real Betis,2023-24,04-24-2024 16:05,55,Valencia,54,Real Betis,1,1,2,L
+329,Barcelona vs Valencia,2023-24,04-30-2024 02:19,55,Valencia,65,Barcelona,0,2,4,L
+336,Valencia vs Deportivo Alaves,2023-24,05-06-2024 10:33,55,Valencia,60,Deportivo Alaves,1,0,1,L
+346,Valencia vs Rayo Vallecano,2023-24,05-13-2024 11:18,55,Valencia,64,Rayo Vallecano,1,0,0,D
+358,Real Sociedad vs Valencia,2023-24,05-17-2024 13:11,55,Valencia,68,Real Sociedad,0,0,1,L
+369,Valencia vs Girona,2023-24,05-21-2024 14:48,55,Valencia,2783,Girona,1,1,3,L
+378,Celta Vigo vs Valencia,2023-24,05-27-2024 11:10,55,Valencia,62,Celta Vigo,0,2,2,D
+383,Valencia vs Barcelona,2024-25,08-18-2024 09:23,55,Valencia,65,Barcelona,1,1,2,L
+388,Celta Vigo vs Valencia,2024-25,08-24-2024 05:42,55,Valencia,62,Celta Vigo,0,1,3,L
+400,Athletic Club vs Valencia,2024-25,08-29-2024 11:06,55,Valencia,53,Athletic Club,0,0,1,L
+407,Valencia vs Villarreal,2024-25,09-01-2024 13:21,55,Valencia,839,Villarreal,1,1,1,D
+420,Atletico vs Valencia,2024-25,09-16-2024 00:43,55,Valencia,63,Atletico,0,0,3,L
+431,Valencia vs Girona,2024-25,09-22-2024 13:03,55,Valencia,2783,Girona,1,2,0,W
+437,Valencia vs Osasuna,2024-25,09-25-2024 00:55,55,Valencia,131,Osasuna,1,0,0,D
+446,Real Sociedad vs Valencia,2024-25,09-28-2024 23:18,55,Valencia,68,Real Sociedad,0,0,3,L
+453,Leganes vs Valencia,2024-25,10-04-2024 22:06,55,Valencia,825,Leganes,0,0,0,D
+471,Valencia vs Las Palmas,2024-25,10-23-2024 15:13,55,Valencia,838,Las Palmas,1,2,3,L
+475,Getafe vs Valencia,2024-25,10-28-2024 08:49,55,Valencia,819,Getafe,0,1,1,D
+505,Valencia vs Real Betis,2024-25,11-24-2024 06:43,55,Valencia,54,Real Betis,1,4,2,W
+513,Mallorca vs Valencia,2024-25,11-30-2024 18:09,55,Valencia,51,Mallorca,0,1,2,L
+528,Valencia vs Rayo Vallecano,2024-25,12-08-2024 11:58,55,Valencia,64,Rayo Vallecano,1,0,1,L
+536,Real Valladolid vs Valencia,2024-25,12-14-2024 04:16,55,Valencia,58,Real Valladolid,0,0,1,L
+546,Espanyol vs Valencia,2024-25,12-19-2024 08:56,55,Valencia,70,Espanyol,0,1,1,D
+551,Valencia vs Deportivo Alaves,2024-25,12-22-2024 22:44,55,Valencia,60,Deportivo Alaves,1,2,2,D
+555,Valencia vs Real Madrid,2024-25,01-06-2025 13:13,55,Valencia,52,Real Madrid,1,1,2,L
+562,Sevilla vs Valencia,2024-25,01-12-2025 10:29,55,Valencia,67,Sevilla,0,1,1,D
+584,Barcelona vs Valencia,2024-25,01-27-2025 08:49,55,Valencia,65,Barcelona,0,1,7,L
+594,Valencia vs Celta Vigo,2024-25,02-03-2025 17:05,55,Valencia,62,Celta Vigo,1,2,1,W
+602,Valencia vs Leganes,2024-25,02-10-2025 04:14,55,Valencia,825,Leganes,1,2,0,W
+610,Villarreal vs Valencia,2024-25,02-16-2025 11:28,55,Valencia,839,Villarreal,0,1,1,D
+619,Valencia vs Atletico,2024-25,02-23-2025 11:41,55,Valencia,63,Atletico,1,0,3,L
+636,Valencia vs Real Valladolid,2024-25,03-09-2025 13:45,55,Valencia,58,Real Valladolid,1,2,1,W
+646,Girona vs Valencia,2024-25,03-16-2025 11:13,55,Valencia,2783,Girona,0,1,1,D
+659,Valencia vs Mallorca,2024-25,03-31-2025 08:09,55,Valencia,51,Mallorca,1,1,0,W
+666,Real Madrid vs Valencia,2024-25,04-06-2025 10:59,55,Valencia,52,Real Madrid,0,2,1,W
+674,Valencia vs Sevilla,2024-25,04-12-2025 11:47,55,Valencia,67,Sevilla,1,1,0,W
+685,Rayo Vallecano vs Valencia,2024-25,04-20-2025 07:41,55,Valencia,64,Rayo Vallecano,0,1,1,D
+702,Valencia vs Espanyol,2024-25,05-01-2025 15:00,55,Valencia,70,Espanyol,1,1,1,D
+708,Las Palmas vs Valencia,2024-25,05-04-2025 15:09,55,Valencia,838,Las Palmas,0,3,2,W
+716,Valencia vs Getafe,2024-25,05-11-2025 10:27,55,Valencia,819,Getafe,1,3,0,W
+728,Deportivo Alaves vs Valencia,2024-25,05-15-2025 07:20,55,Valencia,60,Deportivo Alaves,0,0,1,L
+743,Valencia vs Athletic Club,2024-25,05-19-2025 13:56,55,Valencia,53,Athletic Club,1,0,1,L
+745,Real Betis vs Valencia,2024-25,05-24-2025 10:55,55,Valencia,54,Real Betis,0,1,1,D
+759,Osasuna vs Valencia,2024-25,07-29-2025 13:30,55,Valencia,131,Osasuna,0,3,3,D
+760,Valencia vs Real Sociedad,2024-25,08-01-2025 09:24,55,Valencia,68,Real Sociedad,1,1,0,W
+386,Real Valladolid vs Espanyol,2024-25,08-20-2024 06:59,58,Real Valladolid,70,Espanyol,1,1,0,W
+394,Real Madrid vs Real Valladolid,2024-25,08-26-2024 08:01,58,Real Valladolid,52,Real Madrid,0,0,3,L
+405,Barcelona vs Real Valladolid,2024-25,09-01-2024 07:48,58,Real Valladolid,65,Barcelona,0,0,7,L
+421,Celta Vigo vs Real Valladolid,2024-25,09-16-2024 07:04,58,Real Valladolid,62,Celta Vigo,0,1,3,L
+429,Real Valladolid vs Real Sociedad,2024-25,09-22-2024 09:10,58,Real Valladolid,68,Real Sociedad,1,0,0,D
+444,Real Valladolid vs Mallorca,2024-25,09-28-2024 00:58,58,Real Valladolid,51,Mallorca,1,1,2,L
+456,Real Valladolid vs Rayo Vallecano,2024-25,10-06-2024 02:56,58,Real Valladolid,64,Rayo Vallecano,1,1,2,L
+463,Deportivo Alaves vs Real Valladolid,2024-25,10-19-2024 13:05,58,Real Valladolid,60,Deportivo Alaves,0,3,2,W
+492,Real Valladolid vs Athletic Club,2024-25,11-11-2024 10:44,58,Real Valladolid,53,Athletic Club,1,1,1,D
+498,Sevilla vs Real Valladolid,2024-25,11-13-2024 15:30,58,Real Valladolid,67,Sevilla,0,1,2,L
+502,Real Valladolid vs Leganes,2024-25,11-16-2024 22:24,58,Real Valladolid,825,Leganes,1,0,0,D
+503,Real Valladolid vs Villarreal,2024-25,11-16-2024 23:17,58,Real Valladolid,839,Villarreal,1,1,2,L
+504,Getafe vs Real Valladolid,2024-25,11-23-2024 05:06,58,Real Valladolid,819,Getafe,0,0,2,L
+517,Real Valladolid vs Atletico,2024-25,12-01-2024 09:09,58,Real Valladolid,63,Atletico,1,0,5,L
+535,Las Palmas vs Real Valladolid,2024-25,12-13-2024 10:36,58,Real Valladolid,838,Las Palmas,0,1,2,L
+536,Real Valladolid vs Valencia,2024-25,12-14-2024 04:16,58,Real Valladolid,55,Valencia,1,1,0,W
+547,Girona vs Real Valladolid,2024-25,12-21-2024 04:46,58,Real Valladolid,2783,Girona,0,0,3,L
+560,Real Valladolid vs Real Betis,2024-25,01-12-2025 08:12,58,Real Valladolid,54,Real Betis,1,1,0,W
+566,Espanyol vs Real Valladolid,2024-25,01-18-2025 10:20,58,Real Valladolid,70,Espanyol,0,1,2,L
+580,Real Valladolid vs Real Madrid,2024-25,01-26-2025 12:57,58,Real Valladolid,52,Real Madrid,1,0,3,L
+589,Villarreal vs Real Valladolid,2024-25,02-02-2025 10:39,58,Real Valladolid,839,Villarreal,0,1,5,L
+596,Osasuna vs Real Valladolid,2024-25,02-06-2025 21:33,58,Real Valladolid,131,Osasuna,0,0,1,L
+597,Rayo Vallecano vs Real Valladolid,2024-25,02-08-2025 11:00,58,Real Valladolid,64,Rayo Vallecano,0,0,1,L
+612,Real Valladolid vs Sevilla,2024-25,02-17-2025 03:58,58,Real Valladolid,67,Sevilla,1,0,4,L
+621,Athletic Club vs Real Valladolid,2024-25,02-24-2025 09:05,58,Real Valladolid,53,Athletic Club,0,1,7,L
+626,Real Valladolid vs Las Palmas,2024-25,03-01-2025 09:20,58,Real Valladolid,838,Las Palmas,1,1,1,D
+636,Valencia vs Real Valladolid,2024-25,03-09-2025 13:45,58,Real Valladolid,55,Valencia,0,1,2,L
+644,Real Valladolid vs Celta Vigo,2024-25,03-16-2025 05:48,58,Real Valladolid,62,Celta Vigo,1,0,1,L
+654,Real Sociedad vs Real Valladolid,2024-25,03-30-2025 09:02,58,Real Valladolid,68,Real Sociedad,0,1,2,L
+672,Real Valladolid vs Getafe,2024-25,04-07-2025 13:46,58,Real Valladolid,819,Getafe,1,0,4,L
+683,Atletico vs Real Valladolid,2024-25,04-15-2025 10:21,58,Real Valladolid,63,Atletico,0,2,4,L
+689,Real Valladolid vs Osasuna,2024-25,04-21-2025 11:52,58,Real Valladolid,131,Osasuna,1,2,3,L
+699,Real Betis vs Real Valladolid,2024-25,04-25-2025 12:11,58,Real Valladolid,54,Real Betis,0,1,5,L
+709,Real Valladolid vs Barcelona,2024-25,05-04-2025 15:41,58,Real Valladolid,65,Barcelona,1,1,2,L
+719,Mallorca vs Real Valladolid,2024-25,05-11-2025 14:55,58,Real Valladolid,51,Mallorca,0,1,2,L
+725,Real Valladolid vs Girona,2024-25,05-14-2025 05:41,58,Real Valladolid,2783,Girona,1,0,1,L
+736,Real Valladolid vs Deportivo Alaves,2024-25,05-19-2025 10:05,58,Real Valladolid,60,Deportivo Alaves,1,0,1,L
+747,Leganes vs Real Valladolid,2024-25,05-25-2025 04:54,58,Real Valladolid,825,Leganes,0,0,3,L
+8,Cadiz vs Deportivo Alaves,2023-24,08-15-2023 07:43,60,Deportivo Alaves,1354,Cadiz,0,0,1,L
+19,Deportivo Alaves vs Sevilla,2023-24,08-22-2023 06:45,60,Deportivo Alaves,67,Sevilla,1,4,3,W
+29,Getafe vs Deportivo Alaves,2023-24,08-29-2023 09:49,60,Deportivo Alaves,819,Getafe,0,0,1,L
+34,Deportivo Alaves vs Valencia,2023-24,09-03-2023 18:00,60,Deportivo Alaves,55,Valencia,1,1,0,W
+39,Rayo Vallecano vs Deportivo Alaves,2023-24,09-16-2023 10:11,60,Deportivo Alaves,64,Rayo Vallecano,0,0,2,L
+49,Deportivo Alaves vs Athletic Club,2023-24,09-23-2023 11:03,60,Deportivo Alaves,53,Athletic Club,1,0,2,L
+64,Celta Vigo vs Deportivo Alaves,2023-24,09-29-2023 13:27,60,Deportivo Alaves,62,Celta Vigo,0,1,1,D
+71,Deportivo Alaves vs Osasuna,2023-24,10-02-2023 08:39,60,Deportivo Alaves,131,Osasuna,1,0,2,L
+81,Deportivo Alaves vs Real Betis,2023-24,10-09-2023 10:57,60,Deportivo Alaves,54,Real Betis,1,1,1,D
+95,Villarreal vs Deportivo Alaves,2023-24,10-24-2023 12:32,60,Deportivo Alaves,839,Villarreal,0,1,1,D
+105,Atletico vs Deportivo Alaves,2023-24,10-30-2023 12:58,60,Deportivo Alaves,63,Atletico,0,1,2,L
+117,Barcelona vs Deportivo Alaves,2023-24,11-13-2023 09:30,60,Deportivo Alaves,65,Barcelona,0,1,2,L
+123,Deportivo Alaves vs Granada,2023-24,11-25-2023 07:03,60,Deportivo Alaves,925,Granada,1,3,1,W
+139,Mallorca vs Deportivo Alaves,2023-24,12-04-2023 09:57,60,Deportivo Alaves,51,Mallorca,0,0,0,D
+144,Deportivo Alaves vs Las Palmas,2023-24,12-10-2023 07:50,60,Deportivo Alaves,838,Las Palmas,1,0,1,L
+162,Girona vs Deportivo Alaves,2023-24,12-19-2023 06:58,60,Deportivo Alaves,2783,Girona,0,0,3,L
+171,Deportivo Alaves vs Real Madrid,2023-24,12-22-2023 07:24,60,Deportivo Alaves,52,Real Madrid,1,0,1,L
+175,Real Sociedad vs Deportivo Alaves,2023-24,01-03-2024 10:23,60,Deportivo Alaves,68,Real Sociedad,0,1,1,D
+188,Sevilla vs Deportivo Alaves,2023-24,01-13-2024 06:25,60,Deportivo Alaves,67,Sevilla,0,3,2,W
+195,Deportivo Alaves vs Almeria,2023-24,01-15-2024 13:22,60,Deportivo Alaves,1799,Almeria,1,1,0,W
+196,Deportivo Alaves vs Cadiz,2023-24,01-20-2024 05:45,60,Deportivo Alaves,1354,Cadiz,1,1,0,W
+206,Almeria vs Deportivo Alaves,2023-24,01-27-2024 07:29,60,Deportivo Alaves,1799,Almeria,0,3,0,W
+223,Deportivo Alaves vs Barcelona,2023-24,02-04-2024 12:47,60,Deportivo Alaves,65,Barcelona,1,1,3,L
+233,Deportivo Alaves vs Villarreal,2023-24,02-11-2024 12:18,60,Deportivo Alaves,839,Villarreal,1,1,1,D
+247,Real Betis vs Deportivo Alaves,2023-24,02-19-2024 08:37,60,Deportivo Alaves,54,Real Betis,0,0,0,D
+251,Deportivo Alaves vs Mallorca,2023-24,02-25-2024 11:31,60,Deportivo Alaves,51,Mallorca,1,1,1,D
+268,Osasuna vs Deportivo Alaves,2023-24,03-05-2024 07:35,60,Deportivo Alaves,131,Osasuna,0,0,1,L
+274,Deportivo Alaves vs Rayo Vallecano,2023-24,03-11-2024 06:09,60,Deportivo Alaves,64,Rayo Vallecano,1,1,0,W
+283,Athletic Club vs Deportivo Alaves,2023-24,03-17-2024 13:15,60,Deportivo Alaves,53,Athletic Club,0,0,2,L
+294,Deportivo Alaves vs Real Sociedad,2023-24,04-01-2024 07:01,60,Deportivo Alaves,68,Real Sociedad,1,0,1,L
+306,Granada vs Deportivo Alaves,2023-24,04-15-2024 07:15,60,Deportivo Alaves,925,Granada,0,0,2,L
+316,Deportivo Alaves vs Atletico,2023-24,04-22-2024 13:39,60,Deportivo Alaves,63,Atletico,1,2,0,W
+323,Deportivo Alaves vs Celta Vigo,2023-24,04-28-2024 15:03,60,Deportivo Alaves,62,Celta Vigo,1,3,0,W
+336,Valencia vs Deportivo Alaves,2023-24,05-06-2024 10:33,60,Deportivo Alaves,55,Valencia,0,1,0,W
+340,Deportivo Alaves vs Girona,2023-24,05-11-2024 08:13,60,Deportivo Alaves,2783,Girona,1,2,2,D
+351,Real Madrid vs Deportivo Alaves,2023-24,05-15-2024 08:08,60,Deportivo Alaves,52,Real Madrid,0,0,5,L
+359,Deportivo Alaves vs Getafe,2023-24,05-19-2024 13:37,60,Deportivo Alaves,819,Getafe,1,1,0,W
+377,Las Palmas vs Deportivo Alaves,2023-24,05-27-2024 04:41,60,Deportivo Alaves,838,Las Palmas,0,1,1,D
+382,Celta Vigo vs Deportivo Alaves,2024-25,08-17-2024 08:24,60,Deportivo Alaves,62,Celta Vigo,0,1,2,L
+396,Deportivo Alaves vs Real Betis,2024-25,08-26-2024 09:52,60,Deportivo Alaves,54,Real Betis,1,0,0,D
+402,Real Sociedad vs Deportivo Alaves,2024-25,08-29-2024 19:15,60,Deportivo Alaves,68,Real Sociedad,0,2,1,W
+410,Deportivo Alaves vs Las Palmas,2024-25,09-02-2024 09:29,60,Deportivo Alaves,838,Las Palmas,1,2,0,W
+417,Espanyol vs Deportivo Alaves,2024-25,09-15-2024 10:16,60,Deportivo Alaves,70,Espanyol,0,2,3,L
+428,Deportivo Alaves vs Sevilla,2024-25,09-21-2024 12:38,60,Deportivo Alaves,67,Sevilla,1,2,1,W
+438,Real Madrid vs Deportivo Alaves,2024-25,09-25-2024 10:40,60,Deportivo Alaves,52,Real Madrid,0,2,3,L
+445,Getafe vs Deportivo Alaves,2024-25,09-28-2024 20:28,60,Deportivo Alaves,819,Getafe,0,0,2,L
+462,Deportivo Alaves vs Barcelona,2024-25,10-08-2024 13:54,60,Deportivo Alaves,65,Barcelona,1,0,3,L
+463,Deportivo Alaves vs Real Valladolid,2024-25,10-19-2024 13:05,60,Deportivo Alaves,58,Real Valladolid,1,2,3,L
+479,Rayo Vallecano vs Deportivo Alaves,2024-25,10-30-2024 15:43,60,Deportivo Alaves,64,Rayo Vallecano,0,0,1,L
+481,Deportivo Alaves vs Mallorca,2024-25,11-02-2024 09:35,60,Deportivo Alaves,51,Mallorca,1,1,0,W
+490,Villarreal vs Deportivo Alaves,2024-25,11-10-2024 12:03,60,Deportivo Alaves,839,Villarreal,0,0,3,L
+506,Atletico vs Deportivo Alaves,2024-25,11-24-2024 09:32,60,Deportivo Alaves,63,Atletico,0,1,2,L
+515,Deportivo Alaves vs Leganes,2024-25,12-01-2024 07:46,60,Deportivo Alaves,825,Leganes,1,1,1,D
+532,Osasuna vs Deportivo Alaves,2024-25,12-09-2024 11:42,60,Deportivo Alaves,131,Osasuna,0,2,2,D
+542,Deportivo Alaves vs Athletic Club,2024-25,12-16-2024 08:35,60,Deportivo Alaves,53,Athletic Club,1,1,1,D
+551,Valencia vs Deportivo Alaves,2024-25,12-22-2024 22:44,60,Deportivo Alaves,55,Valencia,0,2,2,D
+559,Deportivo Alaves vs Girona,2024-25,01-12-2025 07:11,60,Deportivo Alaves,2783,Girona,1,0,1,L
+569,Real Betis vs Deportivo Alaves,2024-25,01-19-2025 11:40,60,Deportivo Alaves,54,Real Betis,0,3,1,W
+585,Deportivo Alaves vs Celta Vigo,2024-25,01-28-2025 08:35,60,Deportivo Alaves,62,Celta Vigo,1,1,1,D
+591,Barcelona vs Deportivo Alaves,2024-25,02-03-2025 05:15,60,Deportivo Alaves,65,Barcelona,0,0,1,L
+604,Deportivo Alaves vs Getafe,2024-25,02-10-2025 07:25,60,Deportivo Alaves,819,Getafe,1,0,1,L
+608,Leganes vs Deportivo Alaves,2024-25,02-16-2025 04:38,60,Deportivo Alaves,825,Leganes,0,3,3,D
+625,Deportivo Alaves vs Espanyol,2024-25,02-25-2025 18:58,60,Deportivo Alaves,70,Espanyol,1,0,1,L
+632,Mallorca vs Deportivo Alaves,2024-25,03-03-2025 10:35,60,Deportivo Alaves,51,Mallorca,0,1,1,D
+635,Deportivo Alaves vs Villarreal,2024-25,03-09-2025 10:08,60,Deportivo Alaves,839,Villarreal,1,1,0,W
+643,Las Palmas vs Deportivo Alaves,2024-25,03-15-2025 07:51,60,Deportivo Alaves,838,Las Palmas,0,2,2,D
+656,Deportivo Alaves vs Rayo Vallecano,2024-25,03-30-2025 13:14,60,Deportivo Alaves,64,Rayo Vallecano,1,0,2,L
+665,Girona vs Deportivo Alaves,2024-25,04-06-2025 08:20,60,Deportivo Alaves,2783,Girona,0,1,0,W
+680,Deportivo Alaves vs Real Madrid,2024-25,04-14-2025 08:44,60,Deportivo Alaves,52,Real Madrid,1,0,1,L
+691,Sevilla vs Deportivo Alaves,2024-25,04-21-2025 15:53,60,Deportivo Alaves,67,Sevilla,0,1,1,D
+704,Deportivo Alaves vs Real Sociedad,2024-25,05-01-2025 15:27,60,Deportivo Alaves,68,Real Sociedad,1,1,0,W
+706,Deportivo Alaves vs Atletico,2024-25,05-04-2025 08:37,60,Deportivo Alaves,63,Atletico,1,0,0,D
+722,Athletic Club vs Deportivo Alaves,2024-25,05-12-2025 10:46,60,Deportivo Alaves,53,Athletic Club,0,0,1,L
+728,Deportivo Alaves vs Valencia,2024-25,05-15-2025 07:20,60,Deportivo Alaves,55,Valencia,1,1,0,W
+736,Real Valladolid vs Deportivo Alaves,2024-25,05-19-2025 10:05,60,Deportivo Alaves,58,Real Valladolid,0,1,0,W
+750,Deportivo Alaves vs Osasuna,2024-25,05-25-2025 08:47,60,Deportivo Alaves,131,Osasuna,1,1,1,D
+5,Celta Vigo vs Osasuna,2023-24,08-14-2023 12:13,62,Celta Vigo,131,Osasuna,1,0,2,L
+13,Real Sociedad vs Celta Vigo,2023-24,08-20-2023 13:40,62,Celta Vigo,68,Real Sociedad,0,1,1,D
+22,Celta Vigo vs Real Madrid,2023-24,08-26-2023 13:30,62,Celta Vigo,52,Real Madrid,1,0,1,L
+31,Almeria vs Celta Vigo,2023-24,09-02-2023 13:42,62,Celta Vigo,1799,Almeria,0,3,2,W
+42,Celta Vigo vs Mallorca,2023-24,09-17-2023 16:54,62,Celta Vigo,51,Mallorca,1,0,1,L
+51,Barcelona vs Celta Vigo,2023-24,09-24-2023 16:27,62,Celta Vigo,65,Barcelona,0,2,3,L
+64,Celta Vigo vs Deportivo Alaves,2023-24,09-29-2023 13:27,62,Celta Vigo,60,Deportivo Alaves,1,1,1,D
+73,Las Palmas vs Celta Vigo,2023-24,10-03-2023 12:42,62,Celta Vigo,838,Las Palmas,0,1,2,L
+82,Celta Vigo vs Getafe,2023-24,10-09-2023 12:39,62,Celta Vigo,819,Getafe,1,2,2,D
+91,Celta Vigo vs Atletico,2023-24,10-22-2023 15:34,62,Celta Vigo,63,Atletico,1,0,3,L
+96,Girona vs Celta Vigo,2023-24,10-28-2023 11:31,62,Celta Vigo,2783,Girona,0,0,1,L
+109,Celta Vigo vs Sevilla,2023-24,11-05-2023 15:23,62,Celta Vigo,67,Sevilla,1,1,1,D
+113,Athletic Club vs Celta Vigo,2023-24,11-11-2023 14:19,62,Celta Vigo,53,Athletic Club,0,3,4,L
+126,Valencia vs Celta Vigo,2023-24,11-26-2023 15:45,62,Celta Vigo,55,Valencia,0,0,0,D
+142,Celta Vigo vs Cadiz,2023-24,12-05-2023 10:06,62,Celta Vigo,1354,Cadiz,1,1,1,D
+150,Rayo Vallecano vs Celta Vigo,2023-24,12-12-2023 11:37,62,Celta Vigo,64,Rayo Vallecano,0,0,0,D
+152,Celta Vigo vs Granada,2023-24,12-16-2023 23:27,62,Celta Vigo,925,Granada,1,1,0,W
+168,Villarreal vs Celta Vigo,2023-24,12-21-2023 12:29,62,Celta Vigo,839,Villarreal,0,2,3,L
+179,Celta Vigo vs Real Betis,2023-24,01-04-2024 08:39,62,Celta Vigo,54,Real Betis,1,2,1,W
+189,Mallorca vs Celta Vigo,2023-24,01-14-2024 07:08,62,Celta Vigo,51,Mallorca,0,1,1,D
+200,Celta Vigo vs Real Sociedad,2023-24,01-21-2024 10:08,62,Celta Vigo,68,Real Sociedad,1,0,1,L
+212,Celta Vigo vs Girona,2023-24,01-29-2024 05:50,62,Celta Vigo,2783,Girona,1,0,1,L
+227,Osasuna vs Celta Vigo,2023-24,02-05-2024 08:45,62,Celta Vigo,131,Osasuna,0,3,0,W
+235,Getafe vs Celta Vigo,2023-24,02-12-2024 04:26,62,Celta Vigo,819,Getafe,0,2,3,L
+244,Celta Vigo vs Barcelona,2023-24,02-18-2024 13:12,62,Celta Vigo,65,Barcelona,1,1,2,L
+255,Cadiz vs Celta Vigo,2023-24,02-26-2024 08:53,62,Celta Vigo,1354,Cadiz,0,2,2,D
+259,Celta Vigo vs Almeria,2023-24,03-02-2024 10:09,62,Celta Vigo,1799,Almeria,1,1,0,W
+276,Real Madrid vs Celta Vigo,2023-24,03-11-2024 08:55,62,Celta Vigo,52,Real Madrid,0,0,4,L
+286,Sevilla vs Celta Vigo,2023-24,03-18-2024 06:58,62,Celta Vigo,67,Sevilla,0,2,1,W
+295,Celta Vigo vs Rayo Vallecano,2023-24,04-01-2024 09:58,62,Celta Vigo,64,Rayo Vallecano,1,0,0,D
+300,Real Betis vs Celta Vigo,2023-24,04-13-2024 07:14,62,Celta Vigo,54,Real Betis,0,1,2,L
+311,Celta Vigo vs Las Palmas,2023-24,04-21-2024 00:44,62,Celta Vigo,838,Las Palmas,1,4,1,W
+323,Deportivo Alaves vs Celta Vigo,2023-24,04-28-2024 15:03,62,Celta Vigo,60,Deportivo Alaves,0,0,3,L
+337,Celta Vigo vs Villarreal,2023-24,05-06-2024 10:39,62,Celta Vigo,839,Villarreal,1,3,2,W
+345,Atletico vs Celta Vigo,2023-24,05-13-2024 10:05,62,Celta Vigo,63,Atletico,0,0,1,L
+354,Celta Vigo vs Athletic Club,2023-24,05-16-2024 09:38,62,Celta Vigo,53,Athletic Club,1,2,1,W
+363,Granada vs Celta Vigo,2023-24,05-20-2024 11:20,62,Celta Vigo,925,Granada,0,2,1,W
+378,Celta Vigo vs Valencia,2023-24,05-27-2024 11:10,62,Celta Vigo,55,Valencia,1,2,2,D
+382,Celta Vigo vs Deportivo Alaves,2024-25,08-17-2024 08:24,62,Celta Vigo,60,Deportivo Alaves,1,2,1,W
+388,Celta Vigo vs Valencia,2024-25,08-24-2024 05:42,62,Celta Vigo,55,Valencia,1,3,1,W
+414,Osasuna vs Celta Vigo,2024-25,09-09-2024 06:50,62,Celta Vigo,131,Osasuna,0,2,3,L
+421,Celta Vigo vs Real Valladolid,2024-25,09-16-2024 07:04,62,Celta Vigo,58,Real Valladolid,1,3,1,W
+432,Athletic Club vs Celta Vigo,2024-25,09-23-2024 11:50,62,Celta Vigo,53,Athletic Club,0,1,3,L
+441,Celta Vigo vs Atletico,2024-25,09-27-2024 06:28,62,Celta Vigo,63,Atletico,1,0,1,L
+451,Celta Vigo vs Girona,2024-25,09-30-2024 10:48,62,Celta Vigo,2783,Girona,1,1,1,D
+457,Las Palmas vs Celta Vigo,2024-25,10-06-2024 09:45,62,Celta Vigo,838,Las Palmas,0,1,0,W
+466,Celta Vigo vs Real Madrid,2024-25,10-20-2024 12:40,62,Celta Vigo,52,Real Madrid,1,1,2,L
+474,Leganes vs Celta Vigo,2024-25,10-28-2024 07:22,62,Celta Vigo,825,Leganes,0,0,3,L
+487,Celta Vigo vs Getafe,2024-25,11-05-2024 04:34,62,Celta Vigo,819,Getafe,1,1,0,W
+495,Villarreal vs Celta Vigo,2024-25,11-13-2024 11:23,62,Celta Vigo,839,Villarreal,0,3,4,L
+499,Real Betis vs Celta Vigo,2024-25,11-13-2024 15:47,62,Celta Vigo,54,Real Betis,0,2,2,D
+509,Celta Vigo vs Barcelona,2024-25,11-24-2024 12:13,62,Celta Vigo,65,Barcelona,1,2,2,D
+516,Espanyol vs Celta Vigo,2024-25,12-01-2024 08:22,62,Celta Vigo,70,Espanyol,0,1,3,L
+526,Celta Vigo vs Mallorca,2024-25,12-07-2024 10:26,62,Celta Vigo,51,Mallorca,1,2,0,W
+550,Celta Vigo vs Real Sociedad,2024-25,12-22-2024 10:15,62,Celta Vigo,68,Real Sociedad,1,2,0,W
+556,Sevilla vs Celta Vigo,2024-25,01-07-2025 12:59,62,Celta Vigo,67,Sevilla,0,0,1,L
+558,Rayo Vallecano vs Celta Vigo,2024-25,01-11-2025 11:46,62,Celta Vigo,64,Rayo Vallecano,0,1,2,L
+571,Celta Vigo vs Athletic Club,2024-25,01-20-2025 07:35,62,Celta Vigo,53,Athletic Club,1,1,2,L
+585,Deportivo Alaves vs Celta Vigo,2024-25,01-28-2025 08:35,62,Celta Vigo,60,Deportivo Alaves,0,1,1,D
+594,Valencia vs Celta Vigo,2024-25,02-03-2025 17:05,62,Celta Vigo,55,Valencia,0,1,2,L
+598,Celta Vigo vs Real Betis,2024-25,02-09-2025 07:11,62,Celta Vigo,54,Real Betis,1,3,2,W
+611,Atletico vs Celta Vigo,2024-25,02-16-2025 12:16,62,Celta Vigo,63,Atletico,0,1,1,D
+617,Celta Vigo vs Osasuna,2024-25,02-22-2025 06:10,62,Celta Vigo,131,Osasuna,1,1,0,W
+627,Girona vs Celta Vigo,2024-25,03-02-2025 00:10,62,Celta Vigo,2783,Girona,0,2,2,D
+634,Celta Vigo vs Leganes,2024-25,03-09-2025 06:52,62,Celta Vigo,825,Leganes,1,2,1,W
+644,Real Valladolid vs Celta Vigo,2024-25,03-16-2025 05:48,62,Celta Vigo,58,Real Valladolid,0,1,0,W
+663,Celta Vigo vs Las Palmas,2024-25,04-01-2025 10:09,62,Celta Vigo,838,Las Palmas,1,1,1,D
+667,Mallorca vs Celta Vigo,2024-25,04-06-2025 11:45,62,Celta Vigo,51,Mallorca,0,2,1,W
+677,Celta Vigo vs Espanyol,2024-25,04-13-2025 13:38,62,Celta Vigo,70,Espanyol,1,0,2,L
+687,Barcelona vs Celta Vigo,2024-25,04-20-2025 10:16,62,Celta Vigo,65,Barcelona,0,3,4,L
+696,Celta Vigo vs Villarreal,2024-25,04-24-2025 10:09,62,Celta Vigo,839,Villarreal,1,3,0,W
+710,Real Madrid vs Celta Vigo,2024-25,05-05-2025 10:31,62,Celta Vigo,52,Real Madrid,0,2,3,L
+717,Celta Vigo vs Sevilla,2024-25,05-11-2025 11:13,62,Celta Vigo,67,Sevilla,1,3,2,W
+726,Real Sociedad vs Celta Vigo,2024-25,05-14-2025 09:23,62,Celta Vigo,68,Real Sociedad,0,1,0,W
+741,Celta Vigo vs Rayo Vallecano,2024-25,05-19-2025 12:40,62,Celta Vigo,64,Rayo Vallecano,1,1,2,L
+749,Getafe vs Celta Vigo,2024-25,05-25-2025 06:40,62,Celta Vigo,819,Getafe,0,2,1,W
+9,Atletico vs Granada,2023-24,08-15-2023 09:22,63,Atletico,925,Granada,1,3,1,W
+18,Real Betis vs Atletico,2023-24,08-21-2023 14:49,63,Atletico,54,Real Betis,0,0,0,D
+41,Valencia vs Atletico,2023-24,09-17-2023 14:42,63,Atletico,55,Valencia,0,0,3,L
+56,Atletico vs Real Madrid,2023-24,09-25-2023 12:48,63,Atletico,52,Real Madrid,1,3,1,W
+65,Osasuna vs Atletico,2023-24,09-29-2023 14:50,63,Atletico,131,Osasuna,0,2,0,W
+74,Atletico vs Cadiz,2023-24,10-03-2023 16:55,63,Atletico,1354,Cadiz,1,3,2,W
+80,Atletico vs Real Sociedad,2023-24,10-09-2023 09:31,63,Atletico,68,Real Sociedad,1,2,1,W
+91,Celta Vigo vs Atletico,2023-24,10-22-2023 15:34,63,Atletico,62,Celta Vigo,0,3,0,W
+105,Atletico vs Deportivo Alaves,2023-24,10-30-2023 12:58,63,Atletico,60,Deportivo Alaves,1,2,1,W
+107,Las Palmas vs Atletico,2023-24,11-04-2023 10:00,63,Atletico,838,Las Palmas,0,1,2,L
+118,Atletico vs Villarreal,2023-24,11-13-2023 12:10,63,Atletico,839,Villarreal,1,3,1,W
+127,Atletico vs Mallorca,2023-24,11-26-2023 15:57,63,Atletico,51,Mallorca,1,1,0,W
+140,Barcelona vs Atletico,2023-24,12-04-2023 12:44,63,Atletico,65,Barcelona,0,0,1,L
+146,Atletico vs Almeria,2023-24,12-11-2023 07:48,63,Atletico,1799,Almeria,1,2,1,W
+153,Athletic Club vs Atletico,2023-24,12-17-2023 10:11,63,Atletico,53,Athletic Club,0,0,2,L
+165,Atletico vs Getafe,2023-24,12-20-2023 09:14,63,Atletico,819,Getafe,1,3,3,D
+174,Atletico vs Sevilla,2023-24,12-24-2023 13:36,63,Atletico,67,Sevilla,1,1,0,W
+178,Girona vs Atletico,2023-24,01-04-2024 06:25,63,Atletico,2783,Girona,0,3,4,L
+183,Rayo Vallecano vs Atletico,2023-24,01-06-2024 19:37,63,Atletico,64,Rayo Vallecano,0,7,0,W
+205,Granada vs Atletico,2023-24,01-23-2024 09:03,63,Atletico,925,Granada,0,1,0,W
+214,Atletico vs Valencia,2023-24,01-29-2024 08:39,63,Atletico,55,Valencia,1,2,0,W
+218,Atletico vs Rayo Vallecano,2023-24,02-01-2024 11:32,63,Atletico,64,Rayo Vallecano,1,2,1,W
+228,Real Madrid vs Atletico,2023-24,02-05-2024 12:41,63,Atletico,52,Real Madrid,0,1,1,D
+236,Sevilla vs Atletico,2023-24,02-12-2024 07:45,63,Atletico,67,Sevilla,0,0,1,L
+241,Atletico vs Las Palmas,2023-24,02-18-2024 06:50,63,Atletico,838,Las Palmas,1,5,0,W
+253,Almeria vs Atletico,2023-24,02-25-2024 15:14,63,Atletico,1799,Almeria,0,2,2,D
+266,Atletico vs Real Betis,2023-24,03-04-2024 09:44,63,Atletico,54,Real Betis,1,2,1,W
+271,Cadiz vs Atletico,2023-24,03-10-2024 09:46,63,Atletico,1354,Cadiz,0,0,2,L
+287,Atletico vs Barcelona,2023-24,03-18-2024 07:59,63,Atletico,65,Barcelona,1,0,3,L
+298,Villarreal vs Atletico,2023-24,04-02-2024 12:14,63,Atletico,839,Villarreal,0,2,1,W
+301,Atletico vs Girona,2023-24,04-14-2024 00:03,63,Atletico,2783,Girona,1,3,1,W
+316,Deportivo Alaves vs Atletico,2023-24,04-22-2024 13:39,63,Atletico,60,Deportivo Alaves,0,0,2,L
+324,Atletico vs Athletic Club,2023-24,04-28-2024 15:36,63,Atletico,53,Athletic Club,1,3,1,W
+334,Mallorca vs Atletico,2023-24,05-05-2024 14:35,63,Atletico,51,Mallorca,0,1,0,W
+345,Atletico vs Celta Vigo,2023-24,05-13-2024 10:05,63,Atletico,62,Celta Vigo,1,1,0,W
+355,Getafe vs Atletico,2023-24,05-16-2024 11:09,63,Atletico,819,Getafe,0,3,0,W
+365,Atletico vs Osasuna,2023-24,05-20-2024 12:15,63,Atletico,131,Osasuna,1,1,4,L
+371,Real Sociedad vs Atletico,2023-24,05-26-2024 05:53,63,Atletico,68,Real Sociedad,0,2,0,W
+387,Villarreal vs Atletico,2024-25,08-20-2024 09:02,63,Atletico,839,Villarreal,0,2,2,D
+397,Atletico vs Girona,2024-25,08-26-2024 10:01,63,Atletico,2783,Girona,1,3,0,W
+401,Atletico vs Espanyol,2024-25,08-29-2024 12:04,63,Atletico,70,Espanyol,1,0,0,D
+408,Athletic Club vs Atletico,2024-25,09-01-2024 13:25,63,Atletico,53,Athletic Club,0,1,0,W
+420,Atletico vs Valencia,2024-25,09-16-2024 00:43,63,Atletico,55,Valencia,1,3,0,W
+435,Rayo Vallecano vs Atletico,2024-25,09-23-2024 14:09,63,Atletico,64,Rayo Vallecano,0,1,1,D
+441,Celta Vigo vs Atletico,2024-25,09-27-2024 06:28,63,Atletico,62,Celta Vigo,0,1,0,W
+450,Atletico vs Real Madrid,2024-25,09-30-2024 05:17,63,Atletico,52,Real Madrid,1,1,1,D
+460,Real Sociedad vs Atletico,2024-25,10-07-2024 14:40,63,Atletico,68,Real Sociedad,0,1,1,D
+476,Real Betis vs Atletico,2024-25,10-28-2024 11:41,63,Atletico,54,Real Betis,0,0,1,L
+483,Atletico vs Las Palmas,2024-25,11-04-2024 03:51,63,Atletico,838,Las Palmas,1,2,0,W
+494,Mallorca vs Atletico,2024-25,11-11-2024 12:35,63,Atletico,51,Mallorca,0,1,0,W
+501,Atletico vs Leganes,2024-25,11-13-2024 20:54,63,Atletico,825,Leganes,1,3,1,W
+506,Atletico vs Deportivo Alaves,2024-25,11-24-2024 09:32,63,Atletico,60,Deportivo Alaves,1,2,1,W
+517,Real Valladolid vs Atletico,2024-25,12-01-2024 09:09,63,Atletico,58,Real Valladolid,0,5,0,W
+531,Atletico vs Sevilla,2024-25,12-09-2024 09:17,63,Atletico,67,Sevilla,1,4,3,W
+541,Atletico vs Getafe,2024-25,12-16-2024 07:41,63,Atletico,819,Getafe,1,1,0,W
+549,Barcelona vs Atletico,2024-25,12-22-2024 07:28,63,Atletico,65,Barcelona,0,2,1,W
+565,Atletico vs Osasuna,2024-25,01-15-2025 14:08,63,Atletico,131,Osasuna,1,1,0,W
+568,Leganes vs Atletico,2024-25,01-19-2025 11:23,63,Atletico,825,Leganes,0,0,1,L
+578,Atletico vs Villarreal,2024-25,01-26-2025 08:26,63,Atletico,839,Villarreal,1,1,1,D
+588,Atletico vs Mallorca,2024-25,02-02-2025 10:07,63,Atletico,51,Mallorca,1,2,0,W
+600,Real Madrid vs Atletico,2024-25,02-09-2025 12:37,63,Atletico,52,Real Madrid,0,1,1,D
+611,Atletico vs Celta Vigo,2024-25,02-16-2025 12:16,63,Atletico,62,Celta Vigo,1,1,1,D
+619,Valencia vs Atletico,2024-25,02-23-2025 11:41,63,Atletico,55,Valencia,0,3,0,W
+629,Atletico vs Athletic Club,2024-25,03-02-2025 15:01,63,Atletico,53,Athletic Club,1,1,0,W
+637,Getafe vs Atletico,2024-25,03-10-2025 10:03,63,Atletico,819,Getafe,0,1,2,L
+651,Atletico vs Barcelona,2024-25,03-17-2025 14:13,63,Atletico,65,Barcelona,1,2,4,L
+655,Espanyol vs Atletico,2024-25,03-30-2025 12:03,63,Atletico,70,Espanyol,0,1,1,D
+669,Sevilla vs Atletico,2024-25,04-07-2025 11:45,63,Atletico,67,Sevilla,0,2,1,W
+683,Atletico vs Real Valladolid,2024-25,04-15-2025 10:21,63,Atletico,58,Real Valladolid,1,4,2,W
+688,Las Palmas vs Atletico,2024-25,04-20-2025 16:05,63,Atletico,838,Las Palmas,0,0,1,L
+701,Atletico vs Rayo Vallecano,2024-25,04-28-2025 17:36,63,Atletico,64,Rayo Vallecano,1,3,0,W
+706,Deportivo Alaves vs Atletico,2024-25,05-04-2025 08:37,63,Atletico,60,Deportivo Alaves,0,0,0,D
+720,Atletico vs Real Sociedad,2024-25,05-11-2025 15:33,63,Atletico,68,Real Sociedad,1,4,0,W
+732,Osasuna vs Atletico,2024-25,05-16-2025 08:22,63,Atletico,131,Osasuna,0,0,2,L
+739,Atletico vs Real Betis,2024-25,05-19-2025 12:02,63,Atletico,54,Real Betis,1,4,1,W
+752,Girona vs Atletico,2024-25,05-26-2025 05:36,63,Atletico,2783,Girona,0,4,0,W
+1,Almeria vs Rayo Vallecano,2023-24,08-12-2023 09:46,64,Rayo Vallecano,1799,Almeria,0,2,0,W
+20,Granada vs Rayo Vallecano,2023-24,08-22-2023 07:30,64,Rayo Vallecano,925,Granada,0,2,0,W
+35,Real Betis vs Rayo Vallecano,2023-24,09-03-2023 19:10,64,Rayo Vallecano,54,Real Betis,0,0,1,L
+39,Rayo Vallecano vs Deportivo Alaves,2023-24,09-16-2023 10:11,64,Rayo Vallecano,60,Deportivo Alaves,1,2,0,W
+54,Rayo Vallecano vs Villarreal,2023-24,09-25-2023 11:45,64,Rayo Vallecano,839,Villarreal,1,1,1,D
+62,Cadiz vs Rayo Vallecano,2023-24,09-28-2023 10:02,64,Rayo Vallecano,1354,Cadiz,0,0,0,D
+68,Rayo Vallecano vs Mallorca,2023-24,10-01-2023 16:41,64,Rayo Vallecano,51,Mallorca,1,2,2,D
+76,Sevilla vs Rayo Vallecano,2023-24,10-07-2023 22:03,64,Rayo Vallecano,67,Sevilla,0,2,2,D
+92,Las Palmas vs Rayo Vallecano,2023-24,10-23-2023 04:50,64,Rayo Vallecano,838,Las Palmas,0,1,0,W
+103,Rayo Vallecano vs Real Sociedad,2023-24,10-30-2023 10:25,64,Rayo Vallecano,68,Real Sociedad,1,2,2,D
+112,Real Madrid vs Rayo Vallecano,2023-24,11-06-2023 09:58,64,Rayo Vallecano,52,Real Madrid,0,0,0,D
+114,Rayo Vallecano vs Girona,2023-24,11-12-2023 07:45,64,Rayo Vallecano,2783,Girona,1,1,2,L
+124,Rayo Vallecano vs Barcelona,2023-24,11-26-2023 09:39,64,Rayo Vallecano,65,Barcelona,1,1,1,D
+136,Athletic Club vs Rayo Vallecano,2023-24,12-03-2023 10:12,64,Rayo Vallecano,53,Athletic Club,0,0,4,L
+150,Rayo Vallecano vs Celta Vigo,2023-24,12-12-2023 11:37,64,Rayo Vallecano,62,Celta Vigo,1,0,0,D
+151,Osasuna vs Rayo Vallecano,2023-24,12-16-2023 11:08,64,Rayo Vallecano,131,Osasuna,0,0,1,L
+163,Rayo Vallecano vs Valencia,2023-24,12-20-2023 05:31,64,Rayo Vallecano,55,Valencia,1,0,1,L
+183,Rayo Vallecano vs Atletico,2023-24,01-06-2024 19:37,64,Rayo Vallecano,63,Atletico,1,0,7,L
+187,Getafe vs Rayo Vallecano,2023-24,01-08-2024 15:14,64,Rayo Vallecano,819,Getafe,0,2,0,W
+197,Rayo Vallecano vs Las Palmas,2023-24,01-20-2024 23:20,64,Rayo Vallecano,838,Las Palmas,1,0,2,L
+207,Real Sociedad vs Rayo Vallecano,2023-24,01-28-2024 01:34,64,Rayo Vallecano,68,Real Sociedad,0,0,0,D
+218,Atletico vs Rayo Vallecano,2023-24,02-01-2024 11:32,64,Rayo Vallecano,63,Atletico,0,1,2,L
+229,Rayo Vallecano vs Sevilla,2023-24,02-06-2024 09:16,64,Rayo Vallecano,67,Sevilla,1,1,2,L
+237,Mallorca vs Rayo Vallecano,2023-24,02-12-2024 07:59,64,Rayo Vallecano,51,Mallorca,0,1,2,L
+246,Rayo Vallecano vs Real Madrid,2023-24,02-19-2024 08:30,64,Rayo Vallecano,52,Real Madrid,1,1,1,D
+258,Girona vs Rayo Vallecano,2023-24,02-27-2024 09:23,64,Rayo Vallecano,2783,Girona,0,0,3,L
+261,Rayo Vallecano vs Cadiz,2023-24,03-03-2024 14:34,64,Rayo Vallecano,1354,Cadiz,1,1,1,D
+274,Deportivo Alaves vs Rayo Vallecano,2023-24,03-11-2024 06:09,64,Rayo Vallecano,60,Deportivo Alaves,0,0,1,L
+288,Rayo Vallecano vs Real Betis,2023-24,03-18-2024 08:31,64,Rayo Vallecano,54,Real Betis,1,2,0,W
+295,Celta Vigo vs Rayo Vallecano,2023-24,04-01-2024 09:58,64,Rayo Vallecano,62,Celta Vigo,0,0,0,D
+302,Rayo Vallecano vs Getafe,2023-24,04-14-2024 11:36,64,Rayo Vallecano,819,Getafe,1,0,0,D
+312,Rayo Vallecano vs Osasuna,2023-24,04-21-2024 11:05,64,Rayo Vallecano,131,Osasuna,1,2,1,W
+327,Villarreal vs Rayo Vallecano,2023-24,04-29-2024 10:43,64,Rayo Vallecano,839,Villarreal,0,0,3,L
+339,Rayo Vallecano vs Almeria,2023-24,05-06-2024 11:55,64,Rayo Vallecano,1799,Almeria,1,0,1,L
+346,Valencia vs Rayo Vallecano,2023-24,05-13-2024 11:18,64,Rayo Vallecano,55,Valencia,0,0,0,D
+353,Rayo Vallecano vs Granada,2023-24,05-16-2024 07:42,64,Rayo Vallecano,925,Granada,1,2,1,W
+366,Barcelona vs Rayo Vallecano,2023-24,05-20-2024 12:31,64,Rayo Vallecano,65,Barcelona,0,0,3,L
+374,Rayo Vallecano vs Athletic Club,2023-24,05-26-2024 09:20,64,Rayo Vallecano,53,Athletic Club,1,0,1,L
+384,Real Sociedad vs Rayo Vallecano,2024-25,08-19-2024 09:35,64,Rayo Vallecano,68,Real Sociedad,0,2,1,W
+393,Getafe vs Rayo Vallecano,2024-25,08-25-2024 13:09,64,Rayo Vallecano,819,Getafe,0,0,0,D
+399,Rayo Vallecano vs Barcelona,2024-25,08-28-2024 07:41,64,Rayo Vallecano,65,Barcelona,1,1,2,L
+406,Espanyol vs Rayo Vallecano,2024-25,09-01-2024 12:48,64,Rayo Vallecano,70,Espanyol,0,1,2,L
+424,Rayo Vallecano vs Osasuna,2024-25,09-17-2024 06:19,64,Rayo Vallecano,131,Osasuna,1,3,1,W
+435,Rayo Vallecano vs Atletico,2024-25,09-23-2024 14:09,64,Rayo Vallecano,63,Atletico,1,1,1,D
+439,Girona vs Rayo Vallecano,2024-25,09-26-2024 07:35,64,Rayo Vallecano,2783,Girona,0,0,0,D
+447,Rayo Vallecano vs Leganes,2024-25,09-29-2024 03:10,64,Rayo Vallecano,825,Leganes,1,1,1,D
+456,Real Valladolid vs Rayo Vallecano,2024-25,10-06-2024 02:56,64,Rayo Vallecano,58,Real Valladolid,0,2,1,W
+468,Mallorca vs Rayo Vallecano,2024-25,10-21-2024 07:16,64,Rayo Vallecano,51,Mallorca,0,0,1,L
+479,Rayo Vallecano vs Deportivo Alaves,2024-25,10-30-2024 15:43,64,Rayo Vallecano,60,Deportivo Alaves,1,1,0,W
+488,Rayo Vallecano vs Las Palmas,2024-25,11-09-2024 11:05,64,Rayo Vallecano,838,Las Palmas,1,1,3,L
+512,Sevilla vs Rayo Vallecano,2024-25,11-25-2024 19:34,64,Rayo Vallecano,67,Sevilla,0,0,1,L
+520,Rayo Vallecano vs Athletic Club,2024-25,12-02-2024 08:40,64,Rayo Vallecano,53,Athletic Club,1,1,2,L
+528,Valencia vs Rayo Vallecano,2024-25,12-08-2024 11:58,64,Rayo Vallecano,55,Valencia,0,1,0,W
+539,Rayo Vallecano vs Real Madrid,2024-25,12-15-2024 07:35,64,Rayo Vallecano,52,Real Madrid,1,3,3,D
+545,Villarreal vs Rayo Vallecano,2024-25,12-19-2024 01:40,64,Rayo Vallecano,839,Villarreal,0,1,1,D
+553,Real Betis vs Rayo Vallecano,2024-25,12-23-2024 06:36,64,Rayo Vallecano,54,Real Betis,0,1,1,D
+558,Rayo Vallecano vs Celta Vigo,2024-25,01-11-2025 11:46,64,Rayo Vallecano,62,Celta Vigo,1,2,1,W
+572,Osasuna vs Rayo Vallecano,2024-25,01-20-2025 10:54,64,Rayo Vallecano,131,Osasuna,0,1,1,D
+581,Rayo Vallecano vs Girona,2024-25,01-27-2025 00:31,64,Rayo Vallecano,2783,Girona,1,2,1,W
+586,Leganes vs Rayo Vallecano,2024-25,02-01-2025 13:02,64,Rayo Vallecano,825,Leganes,0,1,0,W
+597,Rayo Vallecano vs Real Valladolid,2024-25,02-08-2025 11:00,64,Rayo Vallecano,58,Real Valladolid,1,1,0,W
+616,Barcelona vs Rayo Vallecano,2024-25,02-18-2025 08:43,64,Rayo Vallecano,65,Barcelona,0,0,1,L
+618,Rayo Vallecano vs Villarreal,2024-25,02-23-2025 11:08,64,Rayo Vallecano,839,Villarreal,1,0,1,L
+630,Rayo Vallecano vs Sevilla,2024-25,03-02-2025 15:11,64,Rayo Vallecano,67,Sevilla,1,1,1,D
+638,Real Madrid vs Rayo Vallecano,2024-25,03-10-2025 10:54,64,Rayo Vallecano,52,Real Madrid,0,1,2,L
+650,Rayo Vallecano vs Real Sociedad,2024-25,03-17-2025 11:43,64,Rayo Vallecano,68,Real Sociedad,1,2,2,D
+656,Deportivo Alaves vs Rayo Vallecano,2024-25,03-30-2025 13:14,64,Rayo Vallecano,60,Deportivo Alaves,0,2,0,W
+664,Rayo Vallecano vs Espanyol,2024-25,04-05-2025 07:32,64,Rayo Vallecano,70,Espanyol,1,0,4,L
+682,Athletic Club vs Rayo Vallecano,2024-25,04-14-2025 11:58,64,Rayo Vallecano,53,Athletic Club,0,1,3,L
+685,Rayo Vallecano vs Valencia,2024-25,04-20-2025 07:41,64,Rayo Vallecano,55,Valencia,1,1,1,D
+701,Atletico vs Rayo Vallecano,2024-25,04-28-2025 17:36,64,Rayo Vallecano,63,Atletico,0,0,3,L
+705,Rayo Vallecano vs Getafe,2024-25,05-03-2025 10:54,64,Rayo Vallecano,819,Getafe,1,1,0,W
+715,Las Palmas vs Rayo Vallecano,2024-25,05-10-2025 10:17,64,Rayo Vallecano,838,Las Palmas,0,1,0,W
+731,Rayo Vallecano vs Real Betis,2024-25,05-16-2025 06:55,64,Rayo Vallecano,54,Real Betis,1,2,2,D
+741,Celta Vigo vs Rayo Vallecano,2024-25,05-19-2025 12:40,64,Rayo Vallecano,62,Celta Vigo,0,2,1,W
+751,Rayo Vallecano vs Mallorca,2024-25,05-25-2025 15:19,64,Rayo Vallecano,51,Mallorca,1,0,0,D
+7,Getafe vs Barcelona,2023-24,08-14-2023 12:53,65,Barcelona,819,Getafe,0,0,0,D
+16,Barcelona vs Cadiz,2023-24,08-21-2023 13:08,65,Barcelona,1354,Cadiz,1,2,0,W
+26,Villarreal vs Barcelona,2023-24,08-28-2023 13:47,65,Barcelona,839,Villarreal,0,4,3,W
+38,Osasuna vs Barcelona,2023-24,09-04-2023 14:50,65,Barcelona,131,Osasuna,0,2,1,W
+43,Barcelona vs Real Betis,2023-24,09-17-2023 19:45,65,Barcelona,54,Real Betis,1,5,0,W
+51,Barcelona vs Celta Vigo,2023-24,09-24-2023 16:27,65,Barcelona,62,Celta Vigo,1,3,2,W
+59,Mallorca vs Barcelona,2023-24,09-27-2023 09:30,65,Barcelona,51,Mallorca,0,2,2,D
+66,Barcelona vs Sevilla,2023-24,09-30-2023 09:37,65,Barcelona,67,Sevilla,1,1,0,W
+83,Granada vs Barcelona,2023-24,10-09-2023 13:10,65,Barcelona,925,Granada,0,2,2,D
+98,Barcelona vs Real Madrid,2023-24,10-29-2023 08:59,65,Barcelona,52,Real Madrid,1,1,2,L
+102,Barcelona vs Athletic Club,2023-24,10-30-2023 10:04,65,Barcelona,53,Athletic Club,1,1,0,W
+110,Real Sociedad vs Barcelona,2023-24,11-05-2023 15:24,65,Barcelona,68,Real Sociedad,0,1,0,W
+117,Barcelona vs Deportivo Alaves,2023-24,11-13-2023 09:30,65,Barcelona,60,Deportivo Alaves,1,2,1,W
+124,Rayo Vallecano vs Barcelona,2023-24,11-26-2023 09:39,65,Barcelona,64,Rayo Vallecano,0,1,1,D
+140,Barcelona vs Atletico,2023-24,12-04-2023 12:44,65,Barcelona,63,Atletico,1,1,0,W
+149,Barcelona vs Girona,2023-24,12-11-2023 10:42,65,Barcelona,2783,Girona,1,2,4,L
+155,Valencia vs Barcelona,2023-24,12-17-2023 11:36,65,Barcelona,55,Valencia,0,1,1,D
+166,Barcelona vs Almeria,2023-24,12-21-2023 08:28,65,Barcelona,1799,Almeria,1,3,2,W
+182,Las Palmas vs Barcelona,2023-24,01-05-2024 09:54,65,Barcelona,838,Las Palmas,0,2,1,W
+204,Real Betis vs Barcelona,2023-24,01-22-2024 11:20,65,Barcelona,54,Real Betis,0,4,2,W
+209,Barcelona vs Villarreal,2023-24,01-28-2024 09:44,65,Barcelona,839,Villarreal,1,3,5,L
+217,Barcelona vs Osasuna,2023-24,02-01-2024 11:18,65,Barcelona,131,Osasuna,1,1,0,W
+223,Deportivo Alaves vs Barcelona,2023-24,02-04-2024 12:47,65,Barcelona,60,Deportivo Alaves,0,3,1,W
+238,Barcelona vs Granada,2023-24,02-12-2024 09:32,65,Barcelona,925,Granada,1,3,3,D
+244,Celta Vigo vs Barcelona,2023-24,02-18-2024 13:12,65,Barcelona,62,Celta Vigo,0,2,1,W
+252,Barcelona vs Getafe,2023-24,02-25-2024 13:53,65,Barcelona,819,Getafe,1,4,0,W
+267,Athletic Club vs Barcelona,2023-24,03-04-2024 10:11,65,Barcelona,53,Athletic Club,0,0,0,D
+269,Barcelona vs Mallorca,2023-24,03-09-2024 08:33,65,Barcelona,51,Mallorca,1,1,0,W
+287,Atletico vs Barcelona,2023-24,03-18-2024 07:59,65,Barcelona,63,Atletico,0,3,0,W
+293,Barcelona vs Las Palmas,2023-24,03-31-2024 15:44,65,Barcelona,838,Las Palmas,1,1,0,W
+304,Cadiz vs Barcelona,2023-24,04-14-2024 13:55,65,Barcelona,1354,Cadiz,0,1,0,W
+317,Real Madrid vs Barcelona,2023-24,04-22-2024 15:16,65,Barcelona,52,Real Madrid,0,2,3,L
+329,Barcelona vs Valencia,2023-24,04-30-2024 02:19,65,Barcelona,55,Valencia,1,4,2,W
+333,Girona vs Barcelona,2023-24,05-05-2024 14:21,65,Barcelona,2783,Girona,0,2,4,L
+348,Barcelona vs Real Sociedad,2023-24,05-14-2024 07:49,65,Barcelona,68,Real Sociedad,1,2,0,W
+357,Almeria vs Barcelona,2023-24,05-17-2024 08:56,65,Barcelona,1799,Almeria,0,2,0,W
+366,Barcelona vs Rayo Vallecano,2023-24,05-20-2024 12:31,65,Barcelona,64,Rayo Vallecano,1,3,0,W
+379,Sevilla vs Barcelona,2023-24,05-27-2024 11:26,65,Barcelona,67,Sevilla,0,2,1,W
+383,Valencia vs Barcelona,2024-25,08-18-2024 09:23,65,Barcelona,55,Valencia,0,2,1,W
+391,Barcelona vs Athletic Club,2024-25,08-25-2024 11:50,65,Barcelona,53,Athletic Club,1,2,1,W
+399,Rayo Vallecano vs Barcelona,2024-25,08-28-2024 07:41,65,Barcelona,64,Rayo Vallecano,0,2,1,W
+405,Barcelona vs Real Valladolid,2024-25,09-01-2024 07:48,65,Barcelona,58,Real Valladolid,1,7,0,W
+422,Girona vs Barcelona,2024-25,09-16-2024 10:31,65,Barcelona,2783,Girona,0,4,1,W
+434,Villarreal vs Barcelona,2024-25,09-23-2024 13:05,65,Barcelona,839,Villarreal,0,5,1,W
+440,Barcelona vs Getafe,2024-25,09-26-2024 11:27,65,Barcelona,819,Getafe,1,1,0,W
+448,Osasuna vs Barcelona,2024-25,09-29-2024 12:57,65,Barcelona,131,Osasuna,0,2,4,L
+462,Deportivo Alaves vs Barcelona,2024-25,10-08-2024 13:54,65,Barcelona,60,Deportivo Alaves,0,3,0,W
+470,Barcelona vs Sevilla,2024-25,10-21-2024 12:30,65,Barcelona,67,Sevilla,1,5,1,W
+473,Real Madrid vs Barcelona,2024-25,10-27-2024 13:26,65,Barcelona,52,Real Madrid,0,4,0,W
+484,Barcelona vs Espanyol,2024-25,11-04-2024 05:35,65,Barcelona,70,Espanyol,1,3,1,W
+493,Real Sociedad vs Barcelona,2024-25,11-11-2024 11:48,65,Barcelona,68,Real Sociedad,0,0,1,L
+509,Celta Vigo vs Barcelona,2024-25,11-24-2024 12:13,65,Barcelona,62,Celta Vigo,0,2,2,D
+514,Barcelona vs Las Palmas,2024-25,12-01-2024 01:55,65,Barcelona,838,Las Palmas,1,1,2,L
+524,Mallorca vs Barcelona,2024-25,12-04-2024 11:05,65,Barcelona,51,Mallorca,0,5,1,W
+527,Real Betis vs Barcelona,2024-25,12-08-2024 11:10,65,Barcelona,54,Real Betis,0,2,2,D
+543,Barcelona vs Leganes,2024-25,12-16-2024 09:10,65,Barcelona,825,Leganes,1,0,1,L
+549,Barcelona vs Atletico,2024-25,12-22-2024 07:28,65,Barcelona,63,Atletico,1,1,2,L
+570,Getafe vs Barcelona,2024-25,01-19-2025 13:16,65,Barcelona,819,Getafe,0,1,1,D
+584,Barcelona vs Valencia,2024-25,01-27-2025 08:49,65,Barcelona,55,Valencia,1,7,1,W
+591,Barcelona vs Deportivo Alaves,2024-25,02-03-2025 05:15,65,Barcelona,60,Deportivo Alaves,1,1,0,W
+605,Sevilla vs Barcelona,2024-25,02-10-2025 08:17,65,Barcelona,67,Sevilla,0,4,1,W
+616,Barcelona vs Rayo Vallecano,2024-25,02-18-2025 08:43,65,Barcelona,64,Rayo Vallecano,1,1,0,W
+620,Las Palmas vs Barcelona,2024-25,02-23-2025 11:54,65,Barcelona,838,Las Palmas,0,2,0,W
+633,Barcelona vs Real Sociedad,2024-25,03-08-2025 08:13,65,Barcelona,68,Real Sociedad,1,4,0,W
+651,Atletico vs Barcelona,2024-25,03-17-2025 14:13,65,Barcelona,63,Atletico,0,4,2,W
+653,Barcelona vs Osasuna,2024-25,03-28-2025 06:56,65,Barcelona,131,Osasuna,1,3,0,W
+660,Barcelona vs Girona,2024-25,03-31-2025 09:23,65,Barcelona,2783,Girona,1,4,1,W
+668,Barcelona vs Real Betis,2024-25,04-06-2025 12:35,65,Barcelona,54,Real Betis,1,1,1,D
+678,Leganes vs Barcelona,2024-25,04-13-2025 15:18,65,Barcelona,825,Leganes,0,1,0,W
+687,Barcelona vs Celta Vigo,2024-25,04-20-2025 10:16,65,Barcelona,62,Celta Vigo,1,4,3,W
+694,Barcelona vs Mallorca,2024-25,04-23-2025 11:22,65,Barcelona,51,Mallorca,1,1,0,W
+709,Real Valladolid vs Barcelona,2024-25,05-04-2025 15:41,65,Barcelona,58,Real Valladolid,0,2,1,W
+723,Barcelona vs Real Madrid,2024-25,05-12-2025 12:20,65,Barcelona,52,Real Madrid,1,4,3,W
+733,Espanyol vs Barcelona,2024-25,05-16-2025 10:54,65,Barcelona,70,Espanyol,0,2,0,W
+737,Barcelona vs Villarreal,2024-25,05-19-2025 10:56,65,Barcelona,839,Villarreal,1,2,3,L
+753,Athletic Club vs Barcelona,2024-25,05-26-2025 11:12,65,Barcelona,53,Athletic Club,0,3,0,W
+2,Sevilla vs Valencia,2023-24,08-12-2023 10:13,67,Sevilla,55,Valencia,1,1,2,L
+19,Deportivo Alaves vs Sevilla,2023-24,08-22-2023 06:45,67,Sevilla,60,Deportivo Alaves,0,3,4,L
+25,Sevilla vs Girona,2023-24,08-27-2023 20:03,67,Sevilla,2783,Girona,1,1,2,L
+45,Sevilla vs Las Palmas,2023-24,09-18-2023 10:36,67,Sevilla,838,Las Palmas,1,1,0,W
+50,Osasuna vs Sevilla,2023-24,09-24-2023 16:03,67,Sevilla,131,Osasuna,0,0,0,D
+58,Sevilla vs Almeria,2023-24,09-27-2023 08:16,67,Sevilla,1799,Almeria,1,5,1,W
+66,Barcelona vs Sevilla,2023-24,09-30-2023 09:37,67,Sevilla,65,Barcelona,0,0,1,L
+76,Sevilla vs Rayo Vallecano,2023-24,10-07-2023 22:03,67,Sevilla,64,Rayo Vallecano,1,2,2,D
+90,Sevilla vs Real Madrid,2023-24,10-22-2023 12:25,67,Sevilla,52,Real Madrid,1,1,1,D
+100,Cadiz vs Sevilla,2023-24,10-29-2023 14:54,67,Sevilla,1354,Cadiz,0,2,2,D
+109,Celta Vigo vs Sevilla,2023-24,11-05-2023 15:23,67,Sevilla,62,Celta Vigo,0,1,1,D
+116,Sevilla vs Real Betis,2023-24,11-13-2023 09:29,67,Sevilla,54,Real Betis,1,1,1,D
+131,Real Sociedad vs Sevilla,2023-24,11-27-2023 10:04,67,Sevilla,68,Real Sociedad,0,1,2,L
+138,Sevilla vs Villarreal,2023-24,12-03-2023 20:34,67,Sevilla,839,Villarreal,1,1,1,D
+147,Mallorca vs Sevilla,2023-24,12-11-2023 08:44,67,Sevilla,51,Mallorca,0,0,1,L
+154,Sevilla vs Getafe,2023-24,12-17-2023 11:03,67,Sevilla,819,Getafe,1,0,3,L
+164,Granada vs Sevilla,2023-24,12-20-2023 08:20,67,Sevilla,925,Granada,0,3,0,W
+174,Atletico vs Sevilla,2023-24,12-24-2023 13:36,67,Sevilla,63,Atletico,0,0,1,L
+186,Sevilla vs Athletic Club,2023-24,01-08-2024 12:20,67,Sevilla,53,Athletic Club,1,0,2,L
+188,Sevilla vs Deportivo Alaves,2023-24,01-13-2024 06:25,67,Sevilla,60,Deportivo Alaves,1,2,3,L
+213,Sevilla vs Osasuna,2023-24,01-29-2024 06:51,67,Sevilla,131,Osasuna,1,1,1,D
+229,Rayo Vallecano vs Sevilla,2023-24,02-06-2024 09:16,67,Sevilla,64,Rayo Vallecano,0,2,1,W
+236,Sevilla vs Atletico,2023-24,02-12-2024 07:45,67,Sevilla,63,Atletico,1,1,0,W
+243,Valencia vs Sevilla,2023-24,02-18-2024 13:08,67,Sevilla,55,Valencia,0,0,0,D
+257,Real Madrid vs Sevilla,2023-24,02-26-2024 10:19,67,Sevilla,52,Real Madrid,0,0,1,L
+260,Sevilla vs Real Sociedad,2023-24,03-03-2024 10:07,67,Sevilla,68,Real Sociedad,1,3,2,W
+278,Almeria vs Sevilla,2023-24,03-12-2024 07:25,67,Sevilla,1799,Almeria,0,2,2,D
+286,Sevilla vs Celta Vigo,2023-24,03-18-2024 06:58,67,Sevilla,62,Celta Vigo,1,1,2,L
+290,Getafe vs Sevilla,2023-24,03-31-2024 09:46,67,Sevilla,819,Getafe,0,1,0,W
+305,Las Palmas vs Sevilla,2023-24,04-15-2024 06:50,67,Sevilla,838,Las Palmas,0,2,0,W
+318,Sevilla vs Mallorca,2023-24,04-23-2024 07:37,67,Sevilla,51,Mallorca,1,2,1,W
+328,Real Betis vs Sevilla,2023-24,04-29-2024 11:56,67,Sevilla,54,Real Betis,0,1,1,D
+338,Sevilla vs Granada,2023-24,05-06-2024 11:25,67,Sevilla,925,Granada,1,3,0,W
+342,Villarreal vs Sevilla,2023-24,05-12-2024 12:16,67,Sevilla,839,Villarreal,0,2,3,L
+352,Sevilla vs Cadiz,2023-24,05-16-2024 07:17,67,Sevilla,1354,Cadiz,1,0,1,L
+362,Athletic Club vs Sevilla,2023-24,05-20-2024 11:03,67,Sevilla,53,Athletic Club,0,0,2,L
+379,Sevilla vs Barcelona,2023-24,05-27-2024 11:26,67,Sevilla,65,Barcelona,1,1,2,L
+380,Girona vs Sevilla,2023-24,03-11-2025 06:53,67,Sevilla,2783,Girona,0,1,5,L
+389,Sevilla vs Villarreal,2024-25,08-24-2024 11:04,67,Sevilla,839,Villarreal,1,1,2,L
+398,Mallorca vs Sevilla,2024-25,08-28-2024 07:17,67,Sevilla,51,Mallorca,0,0,0,D
+411,Sevilla vs Girona,2024-25,09-02-2024 10:11,67,Sevilla,2783,Girona,1,0,2,L
+419,Sevilla vs Getafe,2024-25,09-15-2024 14:45,67,Sevilla,819,Getafe,1,1,0,W
+428,Deportivo Alaves vs Sevilla,2024-25,09-21-2024 12:38,67,Sevilla,60,Deportivo Alaves,0,1,2,L
+461,Sevilla vs Real Betis,2024-25,10-07-2024 17:29,67,Sevilla,54,Real Betis,1,1,0,W
+470,Barcelona vs Sevilla,2024-25,10-21-2024 12:30,67,Sevilla,65,Barcelona,0,1,5,L
+472,Espanyol vs Sevilla,2024-25,10-26-2024 09:48,67,Sevilla,70,Espanyol,0,2,0,W
+485,Sevilla vs Real Sociedad,2024-25,11-04-2024 06:13,67,Sevilla,68,Real Sociedad,1,0,2,L
+491,Leganes vs Sevilla,2024-25,11-10-2024 14:13,67,Sevilla,825,Leganes,0,0,1,L
+498,Sevilla vs Real Valladolid,2024-25,11-13-2024 15:30,67,Sevilla,58,Real Valladolid,1,2,1,W
+512,Sevilla vs Rayo Vallecano,2024-25,11-25-2024 19:34,67,Sevilla,64,Rayo Vallecano,1,1,0,W
+523,Sevilla vs Osasuna,2024-25,12-03-2024 03:37,67,Sevilla,131,Osasuna,1,1,1,D
+531,Atletico vs Sevilla,2024-25,12-09-2024 09:17,67,Sevilla,63,Atletico,0,3,4,L
+556,Sevilla vs Celta Vigo,2024-25,01-07-2025 12:59,67,Sevilla,62,Celta Vigo,1,1,0,W
+562,Sevilla vs Valencia,2024-25,01-12-2025 10:29,67,Sevilla,55,Valencia,1,1,1,D
+567,Girona vs Sevilla,2024-25,01-19-2025 07:28,67,Sevilla,2783,Girona,0,2,1,W
+575,Athletic Club vs Sevilla,2024-25,01-23-2025 14:22,67,Sevilla,53,Athletic Club,0,1,1,D
+579,Sevilla vs Espanyol,2024-25,01-26-2025 09:53,67,Sevilla,70,Espanyol,1,1,1,D
+587,Getafe vs Sevilla,2024-25,02-02-2025 04:49,67,Sevilla,819,Getafe,0,0,0,D
+605,Sevilla vs Barcelona,2024-25,02-10-2025 08:17,67,Sevilla,65,Barcelona,1,1,4,L
+612,Real Valladolid vs Sevilla,2024-25,02-17-2025 03:58,67,Sevilla,58,Real Valladolid,0,4,0,W
+624,Sevilla vs Mallorca,2024-25,02-25-2025 06:14,67,Sevilla,51,Mallorca,1,1,1,D
+630,Rayo Vallecano vs Sevilla,2024-25,03-02-2025 15:11,67,Sevilla,64,Rayo Vallecano,0,1,1,D
+641,Real Sociedad vs Sevilla,2024-25,03-10-2025 13:52,67,Sevilla,68,Real Sociedad,0,1,0,W
+648,Sevilla vs Athletic Club,2024-25,03-17-2025 10:06,67,Sevilla,53,Athletic Club,1,0,1,L
+661,Real Betis vs Sevilla,2024-25,03-31-2025 10:28,67,Sevilla,54,Real Betis,0,1,2,L
+669,Sevilla vs Atletico,2024-25,04-07-2025 11:45,67,Sevilla,63,Atletico,1,1,2,L
+674,Valencia vs Sevilla,2024-25,04-12-2025 11:47,67,Sevilla,55,Valencia,0,0,1,L
+691,Sevilla vs Deportivo Alaves,2024-25,04-21-2025 15:53,67,Sevilla,60,Deportivo Alaves,1,1,1,D
+698,Osasuna vs Sevilla,2024-25,04-25-2025 11:39,67,Sevilla,131,Osasuna,0,0,1,L
+714,Sevilla vs Leganes,2024-25,05-09-2025 00:09,67,Sevilla,825,Leganes,1,2,2,D
+717,Celta Vigo vs Sevilla,2024-25,05-11-2025 11:13,67,Sevilla,62,Celta Vigo,0,2,3,L
+727,Sevilla vs Las Palmas,2024-25,05-14-2025 10:10,67,Sevilla,838,Las Palmas,1,1,0,W
+744,Sevilla vs Real Madrid,2024-25,05-19-2025 16:36,67,Sevilla,52,Real Madrid,1,0,2,L
+754,Villarreal vs Sevilla,2024-25,05-26-2025 20:29,67,Sevilla,839,Villarreal,0,2,4,L
+756,Real Madrid vs Sevilla,2024-25,06-02-2025 23:13,67,Sevilla,52,Real Madrid,0,2,4,L
+758,Las Palmas vs Sevilla,2024-25,06-03-2025 17:35,67,Sevilla,838,Las Palmas,0,2,2,D
+3,Real Sociedad vs Girona,2023-24,08-13-2023 09:33,68,Real Sociedad,2783,Girona,1,1,1,D
+13,Real Sociedad vs Celta Vigo,2023-24,08-20-2023 13:40,68,Real Sociedad,62,Celta Vigo,1,1,1,D
+21,Las Palmas vs Real Sociedad,2023-24,08-26-2023 11:33,68,Real Sociedad,838,Las Palmas,0,0,0,D
+32,Real Sociedad vs Granada,2023-24,09-03-2023 10:20,68,Real Sociedad,925,Granada,1,5,3,W
+47,Real Madrid vs Real Sociedad,2023-24,09-18-2023 11:33,68,Real Sociedad,52,Real Madrid,0,1,2,L
+53,Real Sociedad vs Getafe,2023-24,09-25-2023 11:12,68,Real Sociedad,819,Getafe,1,4,3,W
+69,Real Sociedad vs Athletic Club,2023-24,10-01-2023 17:48,68,Real Sociedad,53,Athletic Club,1,3,0,W
+80,Atletico vs Real Sociedad,2023-24,10-09-2023 09:31,68,Real Sociedad,63,Atletico,0,1,2,L
+88,Real Sociedad vs Mallorca,2023-24,10-22-2023 08:42,68,Real Sociedad,51,Mallorca,1,1,0,W
+103,Rayo Vallecano vs Real Sociedad,2023-24,10-30-2023 10:25,68,Real Sociedad,64,Rayo Vallecano,0,2,2,D
+110,Real Sociedad vs Barcelona,2023-24,11-05-2023 15:24,68,Real Sociedad,65,Barcelona,1,0,1,L
+122,Almeria vs Real Sociedad,2023-24,11-16-2023 13:13,68,Real Sociedad,1799,Almeria,0,3,1,W
+131,Real Sociedad vs Sevilla,2023-24,11-27-2023 10:04,68,Real Sociedad,67,Sevilla,1,2,1,W
+134,Osasuna vs Real Sociedad,2023-24,12-03-2023 04:19,68,Real Sociedad,131,Osasuna,0,1,1,D
+156,Real Sociedad vs Real Betis,2023-24,12-18-2023 08:55,68,Real Sociedad,54,Real Betis,1,0,0,D
+160,Villarreal vs Real Sociedad,2023-24,12-18-2023 13:15,68,Real Sociedad,839,Villarreal,0,3,0,W
+170,Cadiz vs Real Sociedad,2023-24,12-22-2023 05:00,68,Real Sociedad,1354,Cadiz,0,0,0,D
+175,Real Sociedad vs Deportivo Alaves,2023-24,01-03-2024 10:23,68,Real Sociedad,60,Deportivo Alaves,1,1,1,D
+185,Valencia vs Real Sociedad,2023-24,01-06-2024 19:40,68,Real Sociedad,55,Valencia,0,1,0,W
+192,Athletic Club vs Real Sociedad,2023-24,01-14-2024 11:06,68,Real Sociedad,53,Athletic Club,0,1,2,L
+200,Celta Vigo vs Real Sociedad,2023-24,01-21-2024 10:08,68,Real Sociedad,62,Celta Vigo,0,1,0,W
+207,Real Sociedad vs Rayo Vallecano,2023-24,01-28-2024 01:34,68,Real Sociedad,64,Rayo Vallecano,1,0,0,D
+224,Girona vs Real Sociedad,2023-24,02-04-2024 15:05,68,Real Sociedad,2783,Girona,0,0,0,D
+231,Real Sociedad vs Osasuna,2023-24,02-11-2024 09:26,68,Real Sociedad,131,Osasuna,1,0,1,L
+248,Mallorca vs Real Sociedad,2023-24,02-19-2024 08:42,68,Real Sociedad,51,Mallorca,0,2,1,W
+250,Real Sociedad vs Villarreal,2023-24,02-24-2024 13:10,68,Real Sociedad,839,Villarreal,1,1,3,L
+260,Sevilla vs Real Sociedad,2023-24,03-03-2024 10:07,68,Real Sociedad,67,Sevilla,0,2,3,L
+272,Granada vs Real Sociedad,2023-24,03-10-2024 10:27,68,Real Sociedad,925,Granada,0,3,2,W
+279,Real Sociedad vs Cadiz,2023-24,03-16-2024 10:28,68,Real Sociedad,1354,Cadiz,1,2,0,W
+294,Deportivo Alaves vs Real Sociedad,2023-24,04-01-2024 07:01,68,Real Sociedad,60,Deportivo Alaves,0,1,0,W
+308,Real Sociedad vs Almeria,2023-24,04-15-2024 11:50,68,Real Sociedad,1799,Almeria,1,2,2,D
+314,Getafe vs Real Sociedad,2023-24,04-22-2024 09:41,68,Real Sociedad,819,Getafe,0,1,1,D
+320,Real Sociedad vs Real Madrid,2023-24,04-27-2024 10:05,68,Real Sociedad,52,Real Madrid,1,0,1,L
+331,Real Sociedad vs Las Palmas,2023-24,05-05-2024 11:11,68,Real Sociedad,838,Las Palmas,1,2,0,W
+348,Barcelona vs Real Sociedad,2023-24,05-14-2024 07:49,68,Real Sociedad,65,Barcelona,0,0,2,L
+358,Real Sociedad vs Valencia,2023-24,05-17-2024 13:11,68,Real Sociedad,55,Valencia,1,1,0,W
+367,Real Betis vs Real Sociedad,2023-24,05-20-2024 13:02,68,Real Sociedad,54,Real Betis,0,2,0,W
+371,Real Sociedad vs Atletico,2023-24,05-26-2024 05:53,68,Real Sociedad,63,Atletico,1,0,2,L
+384,Real Sociedad vs Rayo Vallecano,2024-25,08-19-2024 09:35,68,Real Sociedad,64,Rayo Vallecano,1,1,2,L
+392,Espanyol vs Real Sociedad,2024-25,08-25-2024 12:48,68,Real Sociedad,70,Espanyol,0,1,0,W
+402,Real Sociedad vs Deportivo Alaves,2024-25,08-29-2024 19:15,68,Real Sociedad,60,Deportivo Alaves,1,1,2,L
+413,Getafe vs Real Sociedad,2024-25,09-02-2024 12:50,68,Real Sociedad,819,Getafe,0,0,0,D
+418,Real Sociedad vs Real Madrid,2024-25,09-15-2024 13:41,68,Real Sociedad,52,Real Madrid,1,0,2,L
+425,Mallorca vs Real Sociedad,2024-25,09-18-2024 09:55,68,Real Sociedad,51,Mallorca,0,0,1,L
+429,Real Valladolid vs Real Sociedad,2024-25,09-22-2024 09:10,68,Real Sociedad,58,Real Valladolid,0,0,0,D
+446,Real Sociedad vs Valencia,2024-25,09-28-2024 23:18,68,Real Sociedad,55,Valencia,1,3,0,W
+460,Real Sociedad vs Atletico,2024-25,10-07-2024 14:40,68,Real Sociedad,63,Atletico,1,1,1,D
+467,Girona vs Real Sociedad,2024-25,10-20-2024 12:48,68,Real Sociedad,2783,Girona,0,1,0,W
+477,Real Sociedad vs Osasuna,2024-25,10-28-2024 14:40,68,Real Sociedad,131,Osasuna,1,0,2,L
+485,Sevilla vs Real Sociedad,2024-25,11-04-2024 06:13,68,Real Sociedad,67,Sevilla,0,2,0,W
+493,Real Sociedad vs Barcelona,2024-25,11-11-2024 11:48,68,Real Sociedad,65,Barcelona,1,1,0,W
+510,Athletic Club vs Real Sociedad,2024-25,11-25-2024 07:29,68,Real Sociedad,53,Athletic Club,0,0,1,L
+522,Real Sociedad vs Real Betis,2024-25,12-02-2024 09:55,68,Real Sociedad,54,Real Betis,1,2,0,W
+534,Leganes vs Real Sociedad,2024-25,12-12-2024 11:35,68,Real Sociedad,825,Leganes,0,3,0,W
+544,Real Sociedad vs Las Palmas,2024-25,12-16-2024 10:14,68,Real Sociedad,838,Las Palmas,1,0,0,D
+550,Celta Vigo vs Real Sociedad,2024-25,12-22-2024 10:15,68,Real Sociedad,62,Celta Vigo,0,0,2,L
+564,Real Sociedad vs Villarreal,2024-25,01-14-2025 07:59,68,Real Sociedad,839,Villarreal,1,1,0,W
+582,Real Sociedad vs Getafe,2024-25,01-27-2025 06:31,68,Real Sociedad,819,Getafe,1,0,3,L
+593,Osasuna vs Real Sociedad,2024-25,02-03-2025 09:21,68,Real Sociedad,131,Osasuna,0,1,2,L
+603,Real Sociedad vs Espanyol,2024-25,02-10-2025 06:13,68,Real Sociedad,70,Espanyol,1,2,1,W
+614,Real Betis vs Real Sociedad,2024-25,02-17-2025 11:40,68,Real Sociedad,54,Real Betis,0,0,3,L
+623,Real Sociedad vs Leganes,2024-25,02-24-2025 13:52,68,Real Sociedad,825,Leganes,1,3,0,W
+633,Barcelona vs Real Sociedad,2024-25,03-08-2025 08:13,68,Real Sociedad,65,Barcelona,0,0,4,L
+641,Real Sociedad vs Sevilla,2024-25,03-10-2025 13:52,68,Real Sociedad,67,Sevilla,1,0,1,L
+650,Rayo Vallecano vs Real Sociedad,2024-25,03-17-2025 11:43,68,Real Sociedad,64,Rayo Vallecano,0,2,2,D
+654,Real Sociedad vs Real Valladolid,2024-25,03-30-2025 09:02,68,Real Sociedad,58,Real Valladolid,1,2,1,W
+670,Las Palmas vs Real Sociedad,2024-25,04-07-2025 12:34,68,Real Sociedad,838,Las Palmas,0,3,1,W
+675,Real Sociedad vs Mallorca,2024-25,04-13-2025 06:37,68,Real Sociedad,51,Mallorca,1,0,2,L
+690,Villarreal vs Real Sociedad,2024-25,04-21-2025 13:14,68,Real Sociedad,839,Villarreal,0,2,2,D
+704,Deportivo Alaves vs Real Sociedad,2024-25,05-01-2025 15:27,68,Real Sociedad,60,Deportivo Alaves,0,0,1,L
+712,Real Sociedad vs Athletic Club,2024-25,05-05-2025 13:08,68,Real Sociedad,53,Athletic Club,1,0,0,D
+720,Atletico vs Real Sociedad,2024-25,05-11-2025 15:33,68,Real Sociedad,63,Atletico,0,0,4,L
+726,Real Sociedad vs Celta Vigo,2024-25,05-14-2025 09:23,68,Real Sociedad,62,Celta Vigo,1,0,1,L
+740,Real Sociedad vs Girona,2024-25,05-19-2025 12:03,68,Real Sociedad,2783,Girona,1,3,2,W
+746,Real Madrid vs Real Sociedad,2024-25,05-25-2025 01:26,68,Real Sociedad,52,Real Madrid,0,0,2,L
+760,Valencia vs Real Sociedad,2024-25,08-01-2025 09:24,68,Real Sociedad,55,Valencia,0,0,1,L
+386,Real Valladolid vs Espanyol,2024-25,08-20-2024 06:59,70,Espanyol,58,Real Valladolid,0,0,1,L
+392,Espanyol vs Real Sociedad,2024-25,08-25-2024 12:48,70,Espanyol,68,Real Sociedad,1,0,1,L
+401,Atletico vs Espanyol,2024-25,08-29-2024 12:04,70,Espanyol,63,Atletico,0,0,0,D
+406,Espanyol vs Rayo Vallecano,2024-25,09-01-2024 12:48,70,Espanyol,64,Rayo Vallecano,1,2,1,W
+417,Espanyol vs Deportivo Alaves,2024-25,09-15-2024 10:16,70,Espanyol,60,Deportivo Alaves,1,3,2,W
+443,Espanyol vs Villarreal,2024-25,09-27-2024 08:45,70,Espanyol,839,Villarreal,1,1,2,L
+449,Real Betis vs Espanyol,2024-25,09-29-2024 19:30,70,Espanyol,54,Real Betis,0,0,1,L
+458,Espanyol vs Mallorca,2024-25,10-06-2024 09:51,70,Espanyol,51,Mallorca,1,2,1,W
+464,Athletic Club vs Espanyol,2024-25,10-20-2024 06:58,70,Espanyol,53,Athletic Club,0,1,4,L
+472,Espanyol vs Sevilla,2024-25,10-26-2024 09:48,70,Espanyol,67,Sevilla,1,0,2,L
+484,Barcelona vs Espanyol,2024-25,11-04-2024 05:35,70,Espanyol,65,Barcelona,0,1,3,L
+497,Real Madrid vs Espanyol,2024-25,11-13-2024 14:18,70,Espanyol,52,Real Madrid,0,1,4,L
+508,Girona vs Espanyol,2024-25,11-24-2024 10:55,70,Espanyol,2783,Girona,0,1,4,L
+516,Espanyol vs Celta Vigo,2024-25,12-01-2024 08:22,70,Espanyol,62,Celta Vigo,1,3,1,W
+533,Getafe vs Espanyol,2024-25,12-10-2024 10:48,70,Espanyol,819,Getafe,0,0,1,L
+538,Espanyol vs Osasuna,2024-25,12-15-2024 05:53,70,Espanyol,131,Osasuna,1,0,0,D
+546,Espanyol vs Valencia,2024-25,12-19-2024 08:56,70,Espanyol,55,Valencia,1,1,1,D
+554,Las Palmas vs Espanyol,2024-25,12-23-2024 10:13,70,Espanyol,838,Las Palmas,0,0,1,L
+561,Espanyol vs Leganes,2024-25,01-12-2025 09:50,70,Espanyol,825,Leganes,1,1,1,D
+566,Espanyol vs Real Valladolid,2024-25,01-18-2025 10:20,70,Espanyol,58,Real Valladolid,1,2,1,W
+579,Sevilla vs Espanyol,2024-25,01-26-2025 09:53,70,Espanyol,67,Sevilla,0,1,1,D
+590,Espanyol vs Real Madrid,2024-25,02-02-2025 11:18,70,Espanyol,52,Real Madrid,1,1,0,W
+603,Real Sociedad vs Espanyol,2024-25,02-10-2025 06:13,70,Espanyol,68,Real Sociedad,0,1,2,L
+613,Espanyol vs Athletic Club,2024-25,02-17-2025 05:27,70,Espanyol,53,Athletic Club,1,1,1,D
+625,Deportivo Alaves vs Espanyol,2024-25,02-25-2025 18:58,70,Espanyol,60,Deportivo Alaves,0,1,0,W
+642,Espanyol vs Girona,2024-25,03-11-2025 07:09,70,Espanyol,2783,Girona,1,1,1,D
+645,Mallorca vs Espanyol,2024-25,03-16-2025 09:03,70,Espanyol,51,Mallorca,0,1,2,L
+655,Espanyol vs Atletico,2024-25,03-30-2025 12:03,70,Espanyol,63,Atletico,1,1,1,D
+664,Rayo Vallecano vs Espanyol,2024-25,04-05-2025 07:32,70,Espanyol,64,Rayo Vallecano,0,4,0,W
+677,Celta Vigo vs Espanyol,2024-25,04-13-2025 13:38,70,Espanyol,62,Celta Vigo,0,2,0,W
+684,Espanyol vs Getafe,2024-25,04-19-2025 08:22,70,Espanyol,819,Getafe,1,1,0,W
+700,Villarreal vs Espanyol,2024-25,04-28-2025 13:00,70,Espanyol,839,Villarreal,0,0,1,L
+702,Valencia vs Espanyol,2024-25,05-01-2025 15:00,70,Espanyol,55,Valencia,0,1,1,D
+711,Espanyol vs Real Betis,2024-25,05-05-2025 12:39,70,Espanyol,54,Real Betis,1,1,2,L
+721,Leganes vs Espanyol,2024-25,05-12-2025 07:53,70,Espanyol,825,Leganes,0,2,3,L
+733,Espanyol vs Barcelona,2024-25,05-16-2025 10:54,70,Espanyol,65,Barcelona,1,0,2,L
+742,Osasuna vs Espanyol,2024-25,05-19-2025 13:11,70,Espanyol,131,Osasuna,0,0,2,L
+748,Espanyol vs Las Palmas,2024-25,05-25-2025 05:59,70,Espanyol,838,Las Palmas,1,2,0,W
+5,Celta Vigo vs Osasuna,2023-24,08-14-2023 12:13,131,Osasuna,62,Celta Vigo,0,2,0,W
+15,Osasuna vs Athletic Club,2023-24,08-20-2023 18:56,131,Osasuna,53,Athletic Club,1,0,2,L
+27,Valencia vs Osasuna,2023-24,08-28-2023 13:53,131,Osasuna,55,Valencia,0,2,1,W
+38,Osasuna vs Barcelona,2023-24,09-04-2023 14:50,131,Osasuna,65,Barcelona,1,1,2,L
+46,Getafe vs Osasuna,2023-24,09-18-2023 10:38,131,Osasuna,819,Getafe,0,2,3,L
+50,Osasuna vs Sevilla,2023-24,09-24-2023 16:03,131,Osasuna,67,Sevilla,1,0,0,D
+65,Osasuna vs Atletico,2023-24,09-29-2023 14:50,131,Osasuna,63,Atletico,1,0,2,L
+71,Deportivo Alaves vs Osasuna,2023-24,10-02-2023 08:39,131,Osasuna,60,Deportivo Alaves,0,2,0,W
+78,Real Madrid vs Osasuna,2023-24,10-08-2023 12:47,131,Osasuna,52,Real Madrid,0,0,4,L
+87,Osasuna vs Granada,2023-24,10-21-2023 11:38,131,Osasuna,925,Granada,1,2,0,W
+101,Real Betis vs Osasuna,2023-24,10-30-2023 09:43,131,Osasuna,54,Real Betis,0,1,2,L
+108,Osasuna vs Girona,2023-24,11-05-2023 07:33,131,Osasuna,2783,Girona,1,2,4,L
+121,Osasuna vs Las Palmas,2023-24,11-16-2023 12:50,131,Osasuna,838,Las Palmas,1,1,1,D
+128,Villarreal vs Osasuna,2023-24,11-26-2023 21:27,131,Osasuna,839,Villarreal,0,1,3,L
+134,Osasuna vs Real Sociedad,2023-24,12-03-2023 04:19,131,Osasuna,68,Real Sociedad,1,1,1,D
+148,Cadiz vs Osasuna,2023-24,12-11-2023 10:39,131,Osasuna,1354,Cadiz,0,1,1,D
+151,Osasuna vs Rayo Vallecano,2023-24,12-16-2023 11:08,131,Osasuna,64,Rayo Vallecano,1,1,0,W
+173,Mallorca vs Osasuna,2023-24,12-22-2023 08:44,131,Osasuna,51,Mallorca,0,2,3,L
+181,Osasuna vs Almeria,2023-24,01-05-2024 08:02,131,Osasuna,1799,Almeria,1,1,0,W
+202,Osasuna vs Getafe,2023-24,01-22-2024 06:45,131,Osasuna,819,Getafe,1,3,2,W
+213,Sevilla vs Osasuna,2023-24,01-29-2024 06:51,131,Osasuna,67,Sevilla,0,1,1,D
+217,Barcelona vs Osasuna,2023-24,02-01-2024 11:18,131,Osasuna,65,Barcelona,0,0,1,L
+227,Osasuna vs Celta Vigo,2023-24,02-05-2024 08:45,131,Osasuna,62,Celta Vigo,1,0,3,L
+231,Real Sociedad vs Osasuna,2023-24,02-11-2024 09:26,131,Osasuna,68,Real Sociedad,0,1,0,W
+242,Osasuna vs Cadiz,2023-24,02-18-2024 09:40,131,Osasuna,1354,Cadiz,1,2,0,W
+256,Las Palmas vs Osasuna,2023-24,02-26-2024 09:19,131,Osasuna,838,Las Palmas,0,1,1,D
+268,Osasuna vs Deportivo Alaves,2023-24,03-05-2024 07:35,131,Osasuna,60,Deportivo Alaves,1,1,0,W
+273,Girona vs Osasuna,2023-24,03-10-2024 10:32,131,Osasuna,2783,Girona,0,0,2,L
+281,Osasuna vs Real Madrid,2023-24,03-17-2024 10:48,131,Osasuna,52,Real Madrid,1,2,4,L
+291,Almeria vs Osasuna,2023-24,03-31-2024 14:28,131,Osasuna,1799,Almeria,0,3,0,W
+309,Osasuna vs Valencia,2023-24,04-16-2024 13:45,131,Osasuna,55,Valencia,1,0,1,L
+312,Rayo Vallecano vs Osasuna,2023-24,04-21-2024 11:05,131,Osasuna,64,Rayo Vallecano,0,1,2,L
+326,Granada vs Osasuna,2023-24,04-29-2024 08:51,131,Osasuna,925,Granada,0,0,3,L
+335,Osasuna vs Real Betis,2023-24,05-06-2024 09:50,131,Osasuna,54,Real Betis,1,0,2,L
+343,Athletic Club vs Osasuna,2023-24,05-12-2024 13:38,131,Osasuna,53,Athletic Club,0,2,2,D
+349,Osasuna vs Mallorca,2023-24,05-15-2024 07:18,131,Osasuna,51,Mallorca,1,1,1,D
+365,Atletico vs Osasuna,2023-24,05-20-2024 12:15,131,Osasuna,63,Atletico,0,4,1,W
+372,Osasuna vs Villarreal,2023-24,05-26-2024 08:17,131,Osasuna,839,Villarreal,1,1,1,D
+390,Osasuna vs Mallorca,2024-25,08-25-2024 11:33,131,Osasuna,51,Mallorca,1,1,0,W
+403,Girona vs Osasuna,2024-25,08-30-2024 05:44,131,Osasuna,2783,Girona,0,0,4,L
+414,Osasuna vs Celta Vigo,2024-25,09-09-2024 06:50,131,Osasuna,62,Celta Vigo,1,3,2,W
+424,Rayo Vallecano vs Osasuna,2024-25,09-17-2024 06:19,131,Osasuna,64,Rayo Vallecano,0,1,3,L
+430,Osasuna vs Las Palmas,2024-25,09-22-2024 09:41,131,Osasuna,838,Las Palmas,1,2,1,W
+437,Valencia vs Osasuna,2024-25,09-25-2024 00:55,131,Osasuna,55,Valencia,0,0,0,D
+448,Osasuna vs Barcelona,2024-25,09-29-2024 12:57,131,Osasuna,65,Barcelona,1,4,2,W
+454,Getafe vs Osasuna,2024-25,10-05-2024 17:22,131,Osasuna,819,Getafe,0,1,1,D
+465,Osasuna vs Real Betis,2024-25,10-20-2024 11:32,131,Osasuna,54,Real Betis,1,1,2,L
+477,Real Sociedad vs Osasuna,2024-25,10-28-2024 14:40,131,Osasuna,68,Real Sociedad,0,2,0,W
+489,Real Madrid vs Osasuna,2024-25,11-10-2024 03:07,131,Osasuna,52,Real Madrid,0,0,4,L
+496,Osasuna vs Leganes,2024-25,11-13-2024 12:27,131,Osasuna,825,Leganes,1,1,1,D
+518,Osasuna vs Villarreal,2024-25,12-01-2024 15:10,131,Osasuna,839,Villarreal,1,2,2,D
+523,Sevilla vs Osasuna,2024-25,12-03-2024 03:37,131,Osasuna,67,Sevilla,0,1,1,D
+532,Osasuna vs Deportivo Alaves,2024-25,12-09-2024 11:42,131,Osasuna,60,Deportivo Alaves,1,2,2,D
+538,Espanyol vs Osasuna,2024-25,12-15-2024 05:53,131,Osasuna,70,Espanyol,0,0,0,D
+552,Osasuna vs Athletic Club,2024-25,12-22-2024 23:54,131,Osasuna,53,Athletic Club,1,1,2,L
+565,Atletico vs Osasuna,2024-25,01-15-2025 14:08,131,Osasuna,63,Atletico,0,0,1,L
+572,Osasuna vs Rayo Vallecano,2024-25,01-20-2025 10:54,131,Osasuna,64,Rayo Vallecano,1,1,1,D
+576,Las Palmas vs Osasuna,2024-25,01-25-2025 04:38,131,Osasuna,838,Las Palmas,0,1,1,D
+593,Osasuna vs Real Sociedad,2024-25,02-03-2025 09:21,131,Osasuna,68,Real Sociedad,1,2,1,W
+596,Osasuna vs Real Valladolid,2024-25,02-06-2025 21:33,131,Osasuna,58,Real Valladolid,1,1,0,W
+606,Mallorca vs Osasuna,2024-25,02-11-2025 08:25,131,Osasuna,51,Mallorca,0,1,1,D
+609,Osasuna vs Real Madrid,2024-25,02-16-2025 10:22,131,Osasuna,52,Real Madrid,1,1,1,D
+617,Celta Vigo vs Osasuna,2024-25,02-22-2025 06:10,131,Osasuna,62,Celta Vigo,0,0,1,L
+649,Osasuna vs Getafe,2024-25,03-17-2025 11:16,131,Osasuna,819,Getafe,1,1,2,L
+653,Barcelona vs Osasuna,2024-25,03-28-2025 06:56,131,Osasuna,65,Barcelona,0,0,3,L
+662,Athletic Club vs Osasuna,2024-25,03-31-2025 10:51,131,Osasuna,53,Athletic Club,0,0,0,D
+673,Leganes vs Osasuna,2024-25,04-08-2025 09:53,131,Osasuna,825,Leganes,0,1,1,D
+679,Osasuna vs Girona,2024-25,04-14-2025 08:05,131,Osasuna,2783,Girona,1,2,1,W
+689,Real Valladolid vs Osasuna,2024-25,04-21-2025 11:52,131,Osasuna,58,Real Valladolid,0,3,2,W
+698,Osasuna vs Sevilla,2024-25,04-25-2025 11:39,131,Osasuna,67,Sevilla,1,1,0,W
+707,Villarreal vs Osasuna,2024-25,05-04-2025 09:42,131,Osasuna,839,Villarreal,0,2,4,L
+724,Real Betis vs Osasuna,2024-25,05-12-2025 14:31,131,Osasuna,54,Real Betis,0,1,1,D
+732,Osasuna vs Atletico,2024-25,05-16-2025 08:22,131,Osasuna,63,Atletico,1,2,0,W
+742,Osasuna vs Espanyol,2024-25,05-19-2025 13:11,131,Osasuna,70,Espanyol,1,2,0,W
+750,Deportivo Alaves vs Osasuna,2024-25,05-25-2025 08:47,131,Osasuna,60,Deportivo Alaves,0,1,1,D
+759,Osasuna vs Valencia,2024-25,07-29-2025 13:30,131,Osasuna,55,Valencia,1,3,3,D
+7,Getafe vs Barcelona,2023-24,08-14-2023 12:53,819,Getafe,65,Barcelona,1,0,0,D
+17,Girona vs Getafe,2023-24,08-21-2023 13:42,819,Getafe,2783,Girona,0,0,3,L
+29,Getafe vs Deportivo Alaves,2023-24,08-29-2023 09:49,819,Getafe,60,Deportivo Alaves,1,1,0,W
+33,Real Madrid vs Getafe,2023-24,09-03-2023 16:14,819,Getafe,52,Real Madrid,0,1,2,L
+46,Getafe vs Osasuna,2023-24,09-18-2023 10:38,819,Getafe,131,Osasuna,1,3,2,W
+53,Real Sociedad vs Getafe,2023-24,09-25-2023 11:12,819,Getafe,68,Real Sociedad,0,3,4,L
+61,Athletic Club vs Getafe,2023-24,09-28-2023 09:36,819,Getafe,53,Athletic Club,0,2,2,D
+67,Getafe vs Villarreal,2023-24,10-01-2023 09:16,819,Getafe,839,Villarreal,1,0,0,D
+82,Celta Vigo vs Getafe,2023-24,10-09-2023 12:39,819,Getafe,62,Celta Vigo,0,2,2,D
+89,Getafe vs Real Betis,2023-24,10-22-2023 11:09,819,Getafe,54,Real Betis,1,1,1,D
+99,Mallorca vs Getafe,2023-24,10-29-2023 11:57,819,Getafe,51,Mallorca,0,0,0,D
+120,Granada vs Getafe,2023-24,11-16-2023 12:04,819,Getafe,925,Granada,0,1,1,D
+125,Getafe vs Almeria,2023-24,11-26-2023 15:05,819,Getafe,1799,Almeria,1,2,1,W
+143,Getafe vs Valencia,2023-24,12-09-2023 07:09,819,Getafe,55,Valencia,1,1,0,W
+154,Sevilla vs Getafe,2023-24,12-17-2023 11:03,819,Getafe,67,Sevilla,0,3,0,W
+165,Atletico vs Getafe,2023-24,12-20-2023 09:14,819,Getafe,63,Atletico,0,3,3,D
+172,Las Palmas vs Getafe,2023-24,12-22-2023 08:41,819,Getafe,838,Las Palmas,0,0,2,L
+187,Getafe vs Rayo Vallecano,2023-24,01-08-2024 15:14,819,Getafe,64,Rayo Vallecano,1,0,2,L
+202,Osasuna vs Getafe,2023-24,01-22-2024 06:45,819,Getafe,131,Osasuna,0,2,3,L
+215,Getafe vs Granada,2023-24,01-30-2024 05:55,819,Getafe,925,Granada,1,2,0,W
+216,Getafe vs Cadiz,2023-24,01-30-2024 17:01,819,Getafe,1354,Cadiz,1,1,0,W
+219,Getafe vs Real Madrid,2023-24,02-02-2024 09:32,819,Getafe,52,Real Madrid,1,0,2,L
+226,Real Betis vs Getafe,2023-24,02-05-2024 07:25,819,Getafe,54,Real Betis,0,1,1,D
+235,Getafe vs Celta Vigo,2023-24,02-12-2024 04:26,819,Getafe,62,Celta Vigo,1,3,2,W
+240,Villarreal vs Getafe,2023-24,02-17-2024 06:19,819,Getafe,839,Villarreal,0,1,1,D
+252,Barcelona vs Getafe,2023-24,02-25-2024 13:53,819,Getafe,65,Barcelona,0,0,4,L
+262,Getafe vs Las Palmas,2023-24,03-03-2024 14:38,819,Getafe,838,Las Palmas,1,3,3,D
+270,Valencia vs Getafe,2023-24,03-10-2024 06:38,819,Getafe,55,Valencia,0,0,1,L
+282,Getafe vs Girona,2023-24,03-17-2024 11:18,819,Getafe,2783,Girona,1,1,0,W
+290,Getafe vs Sevilla,2023-24,03-31-2024 09:46,819,Getafe,67,Sevilla,1,0,1,L
+302,Rayo Vallecano vs Getafe,2023-24,04-14-2024 11:36,819,Getafe,64,Rayo Vallecano,0,0,0,D
+314,Getafe vs Real Sociedad,2023-24,04-22-2024 09:41,819,Getafe,68,Real Sociedad,1,1,1,D
+322,Almeria vs Getafe,2023-24,04-28-2024 13:22,819,Getafe,1799,Almeria,0,3,1,W
+330,Getafe vs Athletic Club,2023-24,05-04-2024 09:22,819,Getafe,53,Athletic Club,1,0,2,L
+344,Cadiz vs Getafe,2023-24,05-12-2024 16:52,819,Getafe,1354,Cadiz,0,0,1,L
+355,Getafe vs Atletico,2023-24,05-16-2024 11:09,819,Getafe,63,Atletico,1,0,3,L
+359,Deportivo Alaves vs Getafe,2023-24,05-19-2024 13:37,819,Getafe,60,Deportivo Alaves,0,0,1,L
+376,Getafe vs Mallorca,2023-24,05-27-2024 01:34,819,Getafe,51,Mallorca,1,1,2,L
+381,Athletic Club vs Getafe,2024-25,08-16-2024 09:00,819,Getafe,53,Athletic Club,0,1,1,D
+393,Getafe vs Rayo Vallecano,2024-25,08-25-2024 13:09,819,Getafe,64,Rayo Vallecano,1,0,0,D
+413,Getafe vs Real Sociedad,2024-25,09-02-2024 12:50,819,Getafe,68,Real Sociedad,1,0,0,D
+419,Sevilla vs Getafe,2024-25,09-15-2024 14:45,819,Getafe,67,Sevilla,0,0,1,L
+426,Real Betis vs Getafe,2024-25,09-19-2024 04:56,819,Getafe,54,Real Betis,0,1,2,L
+433,Getafe vs Leganes,2024-25,09-23-2024 12:44,819,Getafe,825,Leganes,1,1,1,D
+440,Barcelona vs Getafe,2024-25,09-26-2024 11:27,819,Getafe,65,Barcelona,0,0,1,L
+445,Getafe vs Deportivo Alaves,2024-25,09-28-2024 20:28,819,Getafe,60,Deportivo Alaves,1,2,0,W
+454,Getafe vs Osasuna,2024-25,10-05-2024 17:22,819,Getafe,131,Osasuna,1,1,1,D
+469,Villarreal vs Getafe,2024-25,10-21-2024 11:14,819,Getafe,839,Villarreal,0,1,1,D
+475,Getafe vs Valencia,2024-25,10-28-2024 08:49,819,Getafe,55,Valencia,1,1,1,D
+487,Celta Vigo vs Getafe,2024-25,11-05-2024 04:34,819,Getafe,62,Celta Vigo,0,0,1,L
+500,Getafe vs Girona,2024-25,11-13-2024 15:47,819,Getafe,2783,Girona,1,0,1,L
+504,Getafe vs Real Valladolid,2024-25,11-23-2024 05:06,819,Getafe,58,Real Valladolid,1,2,0,W
+521,Real Madrid vs Getafe,2024-25,12-02-2024 09:01,819,Getafe,52,Real Madrid,0,0,2,L
+533,Getafe vs Espanyol,2024-25,12-10-2024 10:48,819,Getafe,70,Espanyol,1,1,0,W
+541,Atletico vs Getafe,2024-25,12-16-2024 07:41,819,Getafe,63,Atletico,0,0,1,L
+548,Getafe vs Mallorca,2024-25,12-22-2024 04:52,819,Getafe,51,Mallorca,1,0,1,L
+563,Las Palmas vs Getafe,2024-25,01-13-2025 09:30,819,Getafe,838,Las Palmas,0,2,1,W
+570,Getafe vs Barcelona,2024-25,01-19-2025 13:16,819,Getafe,65,Barcelona,1,1,1,D
+582,Real Sociedad vs Getafe,2024-25,01-27-2025 06:31,819,Getafe,68,Real Sociedad,0,3,0,W
+587,Getafe vs Sevilla,2024-25,02-02-2025 04:49,819,Getafe,67,Sevilla,1,0,0,D
+604,Deportivo Alaves vs Getafe,2024-25,02-10-2025 07:25,819,Getafe,60,Deportivo Alaves,0,1,0,W
+607,Girona vs Getafe,2024-25,02-15-2025 10:59,819,Getafe,2783,Girona,0,2,1,W
+631,Leganes vs Getafe,2024-25,03-03-2025 00:10,819,Getafe,825,Leganes,0,0,1,L
+637,Getafe vs Atletico,2024-25,03-10-2025 10:03,819,Getafe,63,Atletico,1,2,1,W
+649,Osasuna vs Getafe,2024-25,03-17-2025 11:16,819,Getafe,131,Osasuna,0,2,1,W
+658,Getafe vs Villarreal,2024-25,03-31-2025 00:39,819,Getafe,839,Villarreal,1,1,2,L
+672,Real Valladolid vs Getafe,2024-25,04-07-2025 13:46,819,Getafe,58,Real Valladolid,0,4,0,W
+676,Getafe vs Las Palmas,2024-25,04-13-2025 10:56,819,Getafe,838,Las Palmas,1,1,3,L
+684,Espanyol vs Getafe,2024-25,04-19-2025 08:22,819,Getafe,70,Espanyol,0,0,1,L
+703,Getafe vs Real Madrid,2024-25,05-01-2025 15:20,819,Getafe,52,Real Madrid,1,0,1,L
+705,Rayo Vallecano vs Getafe,2024-25,05-03-2025 10:54,819,Getafe,64,Rayo Vallecano,0,0,1,L
+716,Valencia vs Getafe,2024-25,05-11-2025 10:27,819,Getafe,55,Valencia,0,0,3,L
+734,Getafe vs Athletic Club,2024-25,05-16-2025 11:08,819,Getafe,53,Athletic Club,1,0,2,L
+738,Mallorca vs Getafe,2024-25,05-19-2025 11:22,819,Getafe,51,Mallorca,0,2,1,W
+749,Getafe vs Celta Vigo,2024-25,05-25-2025 06:40,819,Getafe,62,Celta Vigo,1,1,2,L
+755,Getafe vs Real Betis,2024-25,05-28-2025 11:31,819,Getafe,54,Real Betis,1,1,2,L
+395,Leganes vs Las Palmas,2024-25,08-26-2024 08:28,825,Leganes,838,Las Palmas,1,2,1,W
+409,Leganes vs Mallorca,2024-25,09-01-2024 14:23,825,Leganes,51,Mallorca,1,0,1,L
+415,Real Betis vs Leganes,2024-25,09-14-2024 08:15,825,Leganes,54,Real Betis,0,0,2,L
+427,Leganes vs Athletic Club,2024-25,09-20-2024 08:23,825,Leganes,53,Athletic Club,1,0,2,L
+433,Getafe vs Leganes,2024-25,09-23-2024 12:44,825,Leganes,819,Getafe,0,1,1,D
+447,Rayo Vallecano vs Leganes,2024-25,09-29-2024 03:10,825,Leganes,64,Rayo Vallecano,0,1,1,D
+453,Leganes vs Valencia,2024-25,10-04-2024 22:06,825,Leganes,55,Valencia,1,0,0,D
+474,Leganes vs Celta Vigo,2024-25,10-28-2024 07:22,825,Leganes,62,Celta Vigo,1,3,0,W
+482,Girona vs Leganes,2024-25,11-03-2024 14:47,825,Leganes,2783,Girona,0,3,4,L
+491,Leganes vs Sevilla,2024-25,11-10-2024 14:13,825,Leganes,67,Sevilla,1,1,0,W
+496,Osasuna vs Leganes,2024-25,11-13-2024 12:27,825,Leganes,131,Osasuna,0,1,1,D
+501,Atletico vs Leganes,2024-25,11-13-2024 20:54,825,Leganes,63,Atletico,0,1,3,L
+502,Real Valladolid vs Leganes,2024-25,11-16-2024 22:24,825,Leganes,58,Real Valladolid,0,0,0,D
+511,Leganes vs Real Madrid,2024-25,11-25-2024 09:38,825,Leganes,52,Real Madrid,1,0,3,L
+515,Deportivo Alaves vs Leganes,2024-25,12-01-2024 07:46,825,Leganes,60,Deportivo Alaves,0,1,1,D
+534,Leganes vs Real Sociedad,2024-25,12-12-2024 11:35,825,Leganes,68,Real Sociedad,1,0,3,L
+543,Barcelona vs Leganes,2024-25,12-16-2024 09:10,825,Leganes,65,Barcelona,0,1,0,W
+557,Leganes vs Villarreal,2024-25,01-07-2025 13:22,825,Leganes,839,Villarreal,1,2,5,L
+561,Espanyol vs Leganes,2024-25,01-12-2025 09:50,825,Leganes,70,Espanyol,0,1,1,D
+568,Leganes vs Atletico,2024-25,01-19-2025 11:23,825,Leganes,63,Atletico,1,1,0,W
+583,Athletic Club vs Leganes,2024-25,01-27-2025 07:22,825,Leganes,53,Athletic Club,0,0,0,D
+586,Leganes vs Rayo Vallecano,2024-25,02-01-2025 13:02,825,Leganes,64,Rayo Vallecano,1,0,1,L
+602,Valencia vs Leganes,2024-25,02-10-2025 04:14,825,Leganes,55,Valencia,0,0,2,L
+608,Leganes vs Deportivo Alaves,2024-25,02-16-2025 04:38,825,Leganes,60,Deportivo Alaves,1,3,3,D
+623,Real Sociedad vs Leganes,2024-25,02-24-2025 13:52,825,Leganes,68,Real Sociedad,0,0,3,L
+631,Leganes vs Getafe,2024-25,03-03-2025 00:10,825,Leganes,819,Getafe,1,1,0,W
+634,Celta Vigo vs Leganes,2024-25,03-09-2025 06:52,825,Leganes,62,Celta Vigo,0,1,2,L
+652,Leganes vs Real Betis,2024-25,03-20-2025 12:30,825,Leganes,54,Real Betis,1,2,3,L
+657,Real Madrid vs Leganes,2024-25,03-30-2025 13:32,825,Leganes,52,Real Madrid,0,2,3,L
+673,Leganes vs Osasuna,2024-25,04-08-2025 09:53,825,Leganes,131,Osasuna,1,1,1,D
+678,Leganes vs Barcelona,2024-25,04-13-2025 15:18,825,Leganes,65,Barcelona,1,0,1,L
+686,Mallorca vs Leganes,2024-25,04-20-2025 09:08,825,Leganes,51,Mallorca,0,0,0,D
+697,Leganes vs Girona,2024-25,04-25-2025 10:50,825,Leganes,2783,Girona,1,1,1,D
+714,Sevilla vs Leganes,2024-25,05-09-2025 00:09,825,Leganes,67,Sevilla,0,2,2,D
+721,Leganes vs Espanyol,2024-25,05-12-2025 07:53,825,Leganes,70,Espanyol,1,3,2,W
+729,Villarreal vs Leganes,2024-25,05-15-2025 12:44,825,Leganes,839,Villarreal,0,0,3,L
+735,Las Palmas vs Leganes,2024-25,05-19-2025 10:00,825,Leganes,838,Las Palmas,0,1,0,W
+747,Leganes vs Real Valladolid,2024-25,05-25-2025 04:54,825,Leganes,58,Real Valladolid,1,3,0,W
+10,Las Palmas vs Mallorca,2023-24,08-15-2023 12:00,838,Las Palmas,51,Mallorca,1,1,1,D
+12,Valencia vs Las Palmas,2023-24,08-19-2023 15:18,838,Las Palmas,55,Valencia,0,0,1,L
+21,Las Palmas vs Real Sociedad,2023-24,08-26-2023 11:33,838,Las Palmas,68,Real Sociedad,1,0,0,D
+36,Girona vs Las Palmas,2023-24,09-04-2023 10:20,838,Las Palmas,2783,Girona,0,0,1,L
+45,Sevilla vs Las Palmas,2023-24,09-18-2023 10:36,838,Las Palmas,67,Sevilla,0,0,1,L
+57,Las Palmas vs Granada,2023-24,09-25-2023 13:43,838,Las Palmas,925,Granada,1,1,0,W
+60,Real Madrid vs Las Palmas,2023-24,09-28-2023 08:09,838,Las Palmas,52,Real Madrid,0,0,2,L
+73,Las Palmas vs Celta Vigo,2023-24,10-03-2023 12:42,838,Las Palmas,62,Celta Vigo,1,2,1,W
+86,Villarreal vs Las Palmas,2023-24,10-16-2023 12:23,838,Las Palmas,839,Villarreal,0,2,1,W
+92,Las Palmas vs Rayo Vallecano,2023-24,10-23-2023 04:50,838,Las Palmas,64,Rayo Vallecano,1,0,1,L
+97,Almeria vs Las Palmas,2023-24,10-29-2023 06:50,838,Las Palmas,1799,Almeria,0,2,1,W
+107,Las Palmas vs Atletico,2023-24,11-04-2023 10:00,838,Las Palmas,63,Atletico,1,2,1,W
+121,Osasuna vs Las Palmas,2023-24,11-16-2023 12:50,838,Las Palmas,131,Osasuna,0,1,1,D
+130,Real Betis vs Las Palmas,2023-24,11-27-2023 10:00,838,Las Palmas,54,Real Betis,0,0,1,L
+144,Deportivo Alaves vs Las Palmas,2023-24,12-10-2023 07:50,838,Las Palmas,60,Deportivo Alaves,0,1,0,W
+159,Las Palmas vs Cadiz,2023-24,12-18-2023 12:13,838,Las Palmas,1354,Cadiz,1,1,1,D
+167,Athletic Club vs Las Palmas,2023-24,12-21-2023 11:09,838,Las Palmas,53,Athletic Club,0,0,1,L
+172,Las Palmas vs Getafe,2023-24,12-22-2023 08:41,838,Las Palmas,819,Getafe,1,2,0,W
+182,Las Palmas vs Barcelona,2023-24,01-05-2024 09:54,838,Las Palmas,65,Barcelona,1,1,2,L
+191,Las Palmas vs Villarreal,2023-24,01-14-2024 08:45,838,Las Palmas,839,Villarreal,1,3,0,W
+197,Rayo Vallecano vs Las Palmas,2023-24,01-20-2024 23:20,838,Las Palmas,64,Rayo Vallecano,0,2,0,W
+208,Las Palmas vs Real Madrid,2023-24,01-28-2024 08:46,838,Las Palmas,52,Real Madrid,1,1,2,L
+222,Granada vs Las Palmas,2023-24,02-04-2024 08:55,838,Las Palmas,925,Granada,0,1,1,D
+234,Las Palmas vs Valencia,2023-24,02-11-2024 12:18,838,Las Palmas,55,Valencia,1,2,0,W
+241,Atletico vs Las Palmas,2023-24,02-18-2024 06:50,838,Las Palmas,63,Atletico,0,0,5,L
+256,Las Palmas vs Osasuna,2023-24,02-26-2024 09:19,838,Las Palmas,131,Osasuna,1,1,1,D
+262,Getafe vs Las Palmas,2023-24,03-03-2024 14:38,838,Las Palmas,819,Getafe,0,3,3,D
+275,Las Palmas vs Athletic Club,2023-24,03-11-2024 08:50,838,Las Palmas,53,Athletic Club,1,0,2,L
+285,Las Palmas vs Almeria,2023-24,03-18-2024 06:47,838,Las Palmas,1799,Almeria,1,0,1,L
+293,Barcelona vs Las Palmas,2023-24,03-31-2024 15:44,838,Las Palmas,65,Barcelona,0,0,1,L
+305,Las Palmas vs Sevilla,2023-24,04-15-2024 06:50,838,Las Palmas,67,Sevilla,1,0,2,L
+311,Celta Vigo vs Las Palmas,2023-24,04-21-2024 00:44,838,Las Palmas,62,Celta Vigo,0,1,4,L
+321,Las Palmas vs Girona,2023-24,04-28-2024 07:56,838,Las Palmas,2783,Girona,1,0,2,L
+331,Real Sociedad vs Las Palmas,2023-24,05-05-2024 11:11,838,Las Palmas,68,Real Sociedad,0,0,2,L
+341,Mallorca vs Las Palmas,2023-24,05-12-2024 11:50,838,Las Palmas,51,Mallorca,0,0,1,L
+356,Las Palmas vs Real Betis,2023-24,05-17-2024 08:14,838,Las Palmas,54,Real Betis,1,2,2,D
+360,Cadiz vs Las Palmas,2023-24,05-20-2024 09:33,838,Las Palmas,1354,Cadiz,0,0,0,D
+377,Las Palmas vs Deportivo Alaves,2023-24,05-27-2024 04:41,838,Las Palmas,60,Deportivo Alaves,1,1,1,D
+395,Leganes vs Las Palmas,2024-25,08-26-2024 08:28,838,Las Palmas,825,Leganes,0,1,2,L
+404,Las Palmas vs Real Madrid,2024-25,08-30-2024 12:33,838,Las Palmas,52,Real Madrid,1,1,1,D
+410,Deportivo Alaves vs Las Palmas,2024-25,09-02-2024 09:29,838,Las Palmas,60,Deportivo Alaves,0,0,2,L
+423,Las Palmas vs Athletic Club,2024-25,09-16-2024 11:07,838,Las Palmas,53,Athletic Club,1,2,3,L
+430,Osasuna vs Las Palmas,2024-25,09-22-2024 09:41,838,Las Palmas,131,Osasuna,0,1,2,L
+442,Las Palmas vs Real Betis,2024-25,09-27-2024 08:16,838,Las Palmas,54,Real Betis,1,1,1,D
+452,Villarreal vs Las Palmas,2024-25,10-01-2024 01:52,838,Las Palmas,839,Villarreal,0,1,3,L
+457,Las Palmas vs Celta Vigo,2024-25,10-06-2024 09:45,838,Las Palmas,62,Celta Vigo,1,0,1,L
+471,Valencia vs Las Palmas,2024-25,10-23-2024 15:13,838,Las Palmas,55,Valencia,0,3,2,W
+480,Las Palmas vs Girona,2024-25,10-31-2024 14:56,838,Las Palmas,2783,Girona,1,1,0,W
+483,Atletico vs Las Palmas,2024-25,11-04-2024 03:51,838,Las Palmas,63,Atletico,0,0,2,L
+488,Rayo Vallecano vs Las Palmas,2024-25,11-09-2024 11:05,838,Las Palmas,64,Rayo Vallecano,0,3,1,W
+507,Las Palmas vs Mallorca,2024-25,11-24-2024 10:21,838,Las Palmas,51,Mallorca,1,2,3,L
+514,Barcelona vs Las Palmas,2024-25,12-01-2024 01:55,838,Las Palmas,65,Barcelona,0,2,1,W
+535,Las Palmas vs Real Valladolid,2024-25,12-13-2024 10:36,838,Las Palmas,58,Real Valladolid,1,2,1,W
+544,Real Sociedad vs Las Palmas,2024-25,12-16-2024 10:14,838,Las Palmas,68,Real Sociedad,0,0,0,D
+554,Las Palmas vs Espanyol,2024-25,12-23-2024 10:13,838,Las Palmas,70,Espanyol,1,1,0,W
+563,Las Palmas vs Getafe,2024-25,01-13-2025 09:30,838,Las Palmas,819,Getafe,1,1,2,L
+574,Real Madrid vs Las Palmas,2024-25,01-22-2025 09:25,838,Las Palmas,52,Real Madrid,0,1,4,L
+576,Las Palmas vs Osasuna,2024-25,01-25-2025 04:38,838,Las Palmas,131,Osasuna,1,1,1,D
+595,Girona vs Las Palmas,2024-25,02-04-2025 09:14,838,Las Palmas,2783,Girona,0,1,2,L
+601,Las Palmas vs Villarreal,2024-25,02-09-2025 17:41,838,Las Palmas,839,Villarreal,1,1,2,L
+615,Mallorca vs Las Palmas,2024-25,02-17-2025 12:45,838,Las Palmas,51,Mallorca,0,1,3,L
+620,Las Palmas vs Barcelona,2024-25,02-23-2025 11:54,838,Las Palmas,65,Barcelona,1,0,2,L
+626,Real Valladolid vs Las Palmas,2024-25,03-01-2025 09:20,838,Las Palmas,58,Real Valladolid,0,1,1,D
+640,Real Betis vs Las Palmas,2024-25,03-10-2025 12:58,838,Las Palmas,54,Real Betis,0,0,1,L
+643,Las Palmas vs Deportivo Alaves,2024-25,03-15-2025 07:51,838,Las Palmas,60,Deportivo Alaves,1,2,2,D
+663,Celta Vigo vs Las Palmas,2024-25,04-01-2025 10:09,838,Las Palmas,62,Celta Vigo,0,1,1,D
+670,Las Palmas vs Real Sociedad,2024-25,04-07-2025 12:34,838,Las Palmas,68,Real Sociedad,1,1,3,L
+676,Getafe vs Las Palmas,2024-25,04-13-2025 10:56,838,Las Palmas,819,Getafe,0,3,1,W
+688,Las Palmas vs Atletico,2024-25,04-20-2025 16:05,838,Las Palmas,63,Atletico,1,1,0,W
+695,Athletic Club vs Las Palmas,2024-25,04-24-2025 07:29,838,Las Palmas,53,Athletic Club,0,0,1,L
+708,Las Palmas vs Valencia,2024-25,05-04-2025 15:09,838,Las Palmas,55,Valencia,1,2,3,L
+715,Las Palmas vs Rayo Vallecano,2024-25,05-10-2025 10:17,838,Las Palmas,64,Rayo Vallecano,1,0,1,L
+727,Sevilla vs Las Palmas,2024-25,05-14-2025 10:10,838,Las Palmas,67,Sevilla,0,0,1,L
+735,Las Palmas vs Leganes,2024-25,05-19-2025 10:00,838,Las Palmas,825,Leganes,1,0,1,L
+748,Espanyol vs Las Palmas,2024-25,05-25-2025 05:59,838,Las Palmas,70,Espanyol,0,0,2,L
+758,Las Palmas vs Sevilla,2024-25,06-03-2025 17:35,838,Las Palmas,67,Sevilla,1,2,2,D
+6,Villarreal vs Real Betis,2023-24,08-14-2023 12:16,839,Villarreal,54,Real Betis,1,1,2,L
+11,Mallorca vs Villarreal,2023-24,08-19-2023 09:50,839,Villarreal,51,Mallorca,0,1,0,W
+26,Villarreal vs Barcelona,2023-24,08-28-2023 13:47,839,Villarreal,65,Barcelona,1,3,4,L
+30,Cadiz vs Villarreal,2023-24,09-02-2023 06:47,839,Villarreal,1354,Cadiz,0,1,3,L
+44,Villarreal vs Almeria,2023-24,09-18-2023 08:53,839,Villarreal,1799,Almeria,1,2,1,W
+54,Rayo Vallecano vs Villarreal,2023-24,09-25-2023 11:45,839,Villarreal,64,Rayo Vallecano,0,1,1,D
+67,Getafe vs Villarreal,2023-24,10-01-2023 09:16,839,Villarreal,819,Getafe,0,0,0,D
+85,Villarreal vs Girona,2023-24,10-10-2023 14:55,839,Villarreal,2783,Girona,1,1,2,L
+86,Villarreal vs Las Palmas,2023-24,10-16-2023 12:23,839,Villarreal,838,Las Palmas,1,1,2,L
+95,Villarreal vs Deportivo Alaves,2023-24,10-24-2023 12:32,839,Villarreal,60,Deportivo Alaves,1,1,1,D
+106,Granada vs Villarreal,2023-24,10-31-2023 14:09,839,Villarreal,925,Granada,0,3,2,W
+111,Villarreal vs Athletic Club,2023-24,11-06-2023 08:29,839,Villarreal,53,Athletic Club,1,2,3,L
+118,Atletico vs Villarreal,2023-24,11-13-2023 12:10,839,Villarreal,63,Atletico,0,1,3,L
+128,Villarreal vs Osasuna,2023-24,11-26-2023 21:27,839,Villarreal,131,Osasuna,1,3,1,W
+138,Sevilla vs Villarreal,2023-24,12-03-2023 20:34,839,Villarreal,67,Sevilla,0,1,1,D
+158,Real Madrid vs Villarreal,2023-24,12-18-2023 10:33,839,Villarreal,52,Real Madrid,0,1,4,L
+160,Villarreal vs Real Sociedad,2023-24,12-18-2023 13:15,839,Villarreal,68,Real Sociedad,1,0,3,L
+168,Villarreal vs Celta Vigo,2023-24,12-21-2023 12:29,839,Villarreal,62,Celta Vigo,1,3,2,W
+176,Valencia vs Villarreal,2023-24,01-03-2024 12:29,839,Villarreal,55,Valencia,0,1,3,L
+191,Las Palmas vs Villarreal,2023-24,01-14-2024 08:45,839,Villarreal,838,Las Palmas,0,0,3,L
+198,Villarreal vs Mallorca,2023-24,01-21-2024 07:25,839,Villarreal,51,Mallorca,1,1,1,D
+209,Barcelona vs Villarreal,2023-24,01-28-2024 09:44,839,Villarreal,65,Barcelona,0,5,3,W
+225,Villarreal vs Cadiz,2023-24,02-05-2024 06:01,839,Villarreal,1354,Cadiz,1,0,0,D
+233,Deportivo Alaves vs Villarreal,2023-24,02-11-2024 12:18,839,Villarreal,60,Deportivo Alaves,0,1,1,D
+240,Villarreal vs Getafe,2023-24,02-17-2024 06:19,839,Villarreal,819,Getafe,1,1,1,D
+250,Real Sociedad vs Villarreal,2023-24,02-24-2024 13:10,839,Villarreal,68,Real Sociedad,0,3,1,W
+264,Villarreal vs Granada,2023-24,03-04-2024 05:41,839,Villarreal,925,Granada,1,5,1,W
+277,Real Betis vs Villarreal,2023-24,03-11-2024 10:07,839,Villarreal,54,Real Betis,0,3,2,W
+284,Villarreal vs Valencia,2023-24,03-18-2024 06:46,839,Villarreal,55,Valencia,1,1,0,W
+298,Villarreal vs Atletico,2023-24,04-02-2024 12:14,839,Villarreal,63,Atletico,1,1,2,L
+307,Athletic Club vs Villarreal,2023-24,04-15-2024 11:24,839,Villarreal,53,Athletic Club,0,1,1,D
+315,Almeria vs Villarreal,2023-24,04-22-2024 10:37,839,Villarreal,1799,Almeria,0,2,1,W
+327,Villarreal vs Rayo Vallecano,2023-24,04-29-2024 10:43,839,Villarreal,64,Rayo Vallecano,1,3,0,W
+337,Celta Vigo vs Villarreal,2023-24,05-06-2024 10:39,839,Villarreal,62,Celta Vigo,0,2,3,L
+342,Villarreal vs Sevilla,2023-24,05-12-2024 12:16,839,Villarreal,67,Sevilla,1,3,2,W
+350,Girona vs Villarreal,2023-24,05-15-2024 07:53,839,Villarreal,2783,Girona,0,1,0,W
+364,Villarreal vs Real Madrid,2023-24,05-20-2024 11:37,839,Villarreal,52,Real Madrid,1,4,4,D
+372,Osasuna vs Villarreal,2023-24,05-26-2024 08:17,839,Villarreal,131,Osasuna,0,1,1,D
+387,Villarreal vs Atletico,2024-25,08-20-2024 09:02,839,Villarreal,63,Atletico,1,2,2,D
+389,Sevilla vs Villarreal,2024-25,08-24-2024 11:04,839,Villarreal,67,Sevilla,0,2,1,W
+407,Valencia vs Villarreal,2024-25,09-01-2024 13:21,839,Villarreal,55,Valencia,0,1,1,D
+416,Mallorca vs Villarreal,2024-25,09-15-2024 06:49,839,Villarreal,51,Mallorca,0,2,1,W
+434,Villarreal vs Barcelona,2024-25,09-23-2024 13:05,839,Villarreal,65,Barcelona,1,1,5,L
+443,Espanyol vs Villarreal,2024-25,09-27-2024 08:45,839,Villarreal,70,Espanyol,0,2,1,W
+452,Villarreal vs Las Palmas,2024-25,10-01-2024 01:52,839,Villarreal,838,Las Palmas,1,3,1,W
+455,Real Madrid vs Villarreal,2024-25,10-06-2024 01:49,839,Villarreal,52,Real Madrid,0,0,2,L
+469,Villarreal vs Getafe,2024-25,10-21-2024 11:14,839,Villarreal,819,Getafe,1,1,1,D
+490,Villarreal vs Deportivo Alaves,2024-25,11-10-2024 12:03,839,Villarreal,60,Deportivo Alaves,1,3,0,W
+495,Villarreal vs Celta Vigo,2024-25,11-13-2024 11:23,839,Villarreal,62,Celta Vigo,1,4,3,W
+503,Real Valladolid vs Villarreal,2024-25,11-16-2024 23:17,839,Villarreal,58,Real Valladolid,0,2,1,W
+518,Osasuna vs Villarreal,2024-25,12-01-2024 15:10,839,Villarreal,131,Osasuna,0,2,2,D
+519,Villarreal vs Girona,2024-25,12-02-2024 03:00,839,Villarreal,2783,Girona,1,2,2,D
+530,Athletic Club vs Villarreal,2024-25,12-09-2024 06:13,839,Villarreal,53,Athletic Club,0,0,2,L
+540,Villarreal vs Real Betis,2024-25,12-16-2024 06:47,839,Villarreal,54,Real Betis,1,1,2,L
+545,Villarreal vs Rayo Vallecano,2024-25,12-19-2024 01:40,839,Villarreal,64,Rayo Vallecano,1,1,1,D
+557,Leganes vs Villarreal,2024-25,01-07-2025 13:22,839,Villarreal,825,Leganes,0,5,2,W
+564,Real Sociedad vs Villarreal,2024-25,01-14-2025 07:59,839,Villarreal,68,Real Sociedad,0,0,1,L
+573,Villarreal vs Mallorca,2024-25,01-21-2025 04:58,839,Villarreal,51,Mallorca,1,4,0,W
+578,Atletico vs Villarreal,2024-25,01-26-2025 08:26,839,Villarreal,63,Atletico,0,1,1,D
+589,Villarreal vs Real Valladolid,2024-25,02-02-2025 10:39,839,Villarreal,58,Real Valladolid,1,5,1,W
+601,Las Palmas vs Villarreal,2024-25,02-09-2025 17:41,839,Villarreal,838,Las Palmas,0,2,1,W
+610,Villarreal vs Valencia,2024-25,02-16-2025 11:28,839,Villarreal,55,Valencia,1,1,1,D
+618,Rayo Vallecano vs Villarreal,2024-25,02-23-2025 11:08,839,Villarreal,64,Rayo Vallecano,0,1,0,W
+635,Deportivo Alaves vs Villarreal,2024-25,03-09-2025 10:08,839,Villarreal,60,Deportivo Alaves,0,0,1,L
+647,Villarreal vs Real Madrid,2024-25,03-16-2025 16:53,839,Villarreal,52,Real Madrid,1,1,2,L
+658,Getafe vs Villarreal,2024-25,03-31-2025 00:39,839,Villarreal,819,Getafe,0,2,1,W
+671,Villarreal vs Athletic Club,2024-25,04-07-2025 13:02,839,Villarreal,53,Athletic Club,1,0,0,D
+681,Real Betis vs Villarreal,2024-25,04-14-2025 10:50,839,Villarreal,54,Real Betis,0,2,1,W
+690,Villarreal vs Real Sociedad,2024-25,04-21-2025 13:14,839,Villarreal,68,Real Sociedad,1,2,2,D
+696,Celta Vigo vs Villarreal,2024-25,04-24-2025 10:09,839,Villarreal,62,Celta Vigo,0,0,3,L
+700,Villarreal vs Espanyol,2024-25,04-28-2025 13:00,839,Villarreal,70,Espanyol,1,1,0,W
+707,Villarreal vs Osasuna,2024-25,05-04-2025 09:42,839,Villarreal,131,Osasuna,1,4,2,W
+718,Girona vs Villarreal,2024-25,05-11-2025 14:43,839,Villarreal,2783,Girona,0,1,0,W
+729,Villarreal vs Leganes,2024-25,05-15-2025 12:44,839,Villarreal,825,Leganes,1,3,0,W
+737,Barcelona vs Villarreal,2024-25,05-19-2025 10:56,839,Villarreal,65,Barcelona,0,3,2,W
+754,Villarreal vs Sevilla,2024-25,05-26-2025 20:29,839,Villarreal,67,Sevilla,1,4,2,W
+9,Atletico vs Granada,2023-24,08-15-2023 09:22,925,Granada,63,Atletico,0,1,3,L
+20,Granada vs Rayo Vallecano,2023-24,08-22-2023 07:30,925,Granada,64,Rayo Vallecano,1,0,2,L
+24,Granada vs Mallorca,2023-24,08-27-2023 18:33,925,Granada,51,Mallorca,1,3,2,W
+32,Real Sociedad vs Granada,2023-24,09-03-2023 10:20,925,Granada,68,Real Sociedad,0,3,5,L
+48,Granada vs Girona,2023-24,09-19-2023 08:38,925,Granada,2783,Girona,1,2,4,L
+57,Las Palmas vs Granada,2023-24,09-25-2023 13:43,925,Granada,838,Las Palmas,0,0,1,L
+63,Granada vs Real Betis,2023-24,09-29-2023 08:29,925,Granada,54,Real Betis,1,1,1,D
+70,Almeria vs Granada,2023-24,10-02-2023 08:18,925,Granada,1799,Almeria,0,3,3,D
+83,Granada vs Barcelona,2023-24,10-09-2023 13:10,925,Granada,65,Barcelona,1,2,2,D
+87,Osasuna vs Granada,2023-24,10-21-2023 11:38,925,Granada,131,Osasuna,0,0,2,L
+106,Granada vs Villarreal,2023-24,10-31-2023 14:09,925,Granada,839,Villarreal,1,2,3,L
+119,Valencia vs Granada,2023-24,11-14-2023 12:20,925,Granada,55,Valencia,0,0,1,L
+120,Granada vs Getafe,2023-24,11-16-2023 12:04,925,Granada,819,Getafe,1,1,1,D
+123,Deportivo Alaves vs Granada,2023-24,11-25-2023 07:03,925,Granada,60,Deportivo Alaves,0,1,3,L
+137,Real Madrid vs Granada,2023-24,12-03-2023 11:11,925,Granada,52,Real Madrid,0,0,2,L
+152,Celta Vigo vs Granada,2023-24,12-16-2023 23:27,925,Granada,62,Celta Vigo,0,0,1,L
+164,Granada vs Sevilla,2023-24,12-20-2023 08:20,925,Granada,67,Sevilla,1,0,3,L
+177,Granada vs Cadiz,2023-24,01-04-2024 04:26,925,Granada,1354,Cadiz,1,2,0,W
+190,Real Betis vs Granada,2023-24,01-14-2024 08:37,925,Granada,54,Real Betis,0,0,1,L
+203,Granada vs Athletic Club,2023-24,01-22-2024 07:21,925,Granada,53,Athletic Club,1,1,1,D
+205,Granada vs Atletico,2023-24,01-23-2024 09:03,925,Granada,63,Atletico,1,0,1,L
+215,Getafe vs Granada,2023-24,01-30-2024 05:55,925,Granada,819,Getafe,0,0,2,L
+222,Granada vs Las Palmas,2023-24,02-04-2024 08:55,925,Granada,838,Las Palmas,1,1,1,D
+238,Barcelona vs Granada,2023-24,02-12-2024 09:32,925,Granada,65,Barcelona,0,3,3,D
+245,Granada vs Almeria,2023-24,02-19-2024 07:16,925,Granada,1799,Almeria,1,1,1,D
+264,Villarreal vs Granada,2023-24,03-04-2024 05:41,925,Granada,839,Villarreal,0,1,5,L
+272,Granada vs Real Sociedad,2023-24,03-10-2024 10:27,925,Granada,68,Real Sociedad,1,2,3,L
+280,Mallorca vs Granada,2023-24,03-17-2024 06:01,925,Granada,51,Mallorca,0,0,1,L
+289,Cadiz vs Granada,2023-24,03-30-2024 11:30,925,Granada,1354,Cadiz,0,0,1,L
+299,Granada vs Valencia,2023-24,04-05-2024 06:23,925,Granada,55,Valencia,1,0,1,L
+306,Granada vs Deportivo Alaves,2023-24,04-15-2024 07:15,925,Granada,60,Deportivo Alaves,1,2,0,W
+310,Athletic Club vs Granada,2023-24,04-20-2024 12:01,925,Granada,53,Athletic Club,0,1,1,D
+326,Granada vs Osasuna,2023-24,04-29-2024 08:51,925,Granada,131,Osasuna,1,3,0,W
+338,Sevilla vs Granada,2023-24,05-06-2024 11:25,925,Granada,67,Sevilla,0,0,3,L
+353,Rayo Vallecano vs Granada,2023-24,05-16-2024 07:42,925,Granada,64,Rayo Vallecano,0,1,2,L
+363,Granada vs Celta Vigo,2023-24,05-20-2024 11:20,925,Granada,62,Celta Vigo,1,1,2,L
+368,Granada vs Real Madrid,2023-24,05-20-2024 16:12,925,Granada,52,Real Madrid,1,0,4,L
+370,Girona vs Granada,2023-24,05-25-2024 10:53,925,Granada,2783,Girona,0,0,7,L
+8,Cadiz vs Deportivo Alaves,2023-24,08-15-2023 07:43,1354,Cadiz,60,Deportivo Alaves,1,1,0,W
+16,Barcelona vs Cadiz,2023-24,08-21-2023 13:08,1354,Cadiz,65,Barcelona,0,0,2,L
+23,Cadiz vs Almeria,2023-24,08-27-2023 16:48,1354,Cadiz,1799,Almeria,1,1,1,D
+30,Cadiz vs Villarreal,2023-24,09-02-2023 06:47,1354,Cadiz,839,Villarreal,1,3,1,W
+40,Athletic Club vs Cadiz,2023-24,09-17-2023 10:10,1354,Cadiz,53,Athletic Club,0,0,3,L
+55,Real Betis vs Cadiz,2023-24,09-25-2023 12:23,1354,Cadiz,54,Real Betis,0,1,1,D
+62,Cadiz vs Rayo Vallecano,2023-24,09-28-2023 10:02,1354,Cadiz,64,Rayo Vallecano,1,0,0,D
+74,Atletico vs Cadiz,2023-24,10-03-2023 16:55,1354,Cadiz,63,Atletico,0,2,3,L
+77,Cadiz vs Girona,2023-24,10-08-2023 08:29,1354,Cadiz,2783,Girona,1,0,1,L
+94,Valencia vs Cadiz,2023-24,10-24-2023 10:25,1354,Cadiz,55,Valencia,0,0,2,L
+100,Cadiz vs Sevilla,2023-24,10-29-2023 14:54,1354,Cadiz,67,Sevilla,1,2,2,D
+129,Cadiz vs Real Madrid,2023-24,11-27-2023 08:44,1354,Cadiz,52,Real Madrid,1,0,3,L
+133,Mallorca vs Cadiz,2023-24,11-30-2023 13:14,1354,Cadiz,51,Mallorca,0,1,1,D
+142,Celta Vigo vs Cadiz,2023-24,12-05-2023 10:06,1354,Cadiz,62,Celta Vigo,0,1,1,D
+148,Cadiz vs Osasuna,2023-24,12-11-2023 10:39,1354,Cadiz,131,Osasuna,1,1,1,D
+159,Las Palmas vs Cadiz,2023-24,12-18-2023 12:13,1354,Cadiz,838,Las Palmas,0,1,1,D
+170,Cadiz vs Real Sociedad,2023-24,12-22-2023 05:00,1354,Cadiz,68,Real Sociedad,1,0,0,D
+177,Granada vs Cadiz,2023-24,01-04-2024 04:26,1354,Cadiz,925,Granada,0,0,2,L
+194,Cadiz vs Valencia,2023-24,01-15-2024 11:24,1354,Cadiz,55,Valencia,1,1,4,L
+196,Deportivo Alaves vs Cadiz,2023-24,01-20-2024 05:45,1354,Cadiz,60,Deportivo Alaves,0,0,1,L
+211,Cadiz vs Athletic Club,2023-24,01-29-2024 05:14,1354,Cadiz,53,Athletic Club,1,0,0,D
+216,Getafe vs Cadiz,2023-24,01-30-2024 17:01,1354,Cadiz,819,Getafe,0,0,1,L
+225,Villarreal vs Cadiz,2023-24,02-05-2024 06:01,1354,Cadiz,839,Villarreal,0,0,0,D
+230,Cadiz vs Real Betis,2023-24,02-10-2024 08:19,1354,Cadiz,54,Real Betis,1,0,2,L
+242,Osasuna vs Cadiz,2023-24,02-18-2024 09:40,1354,Cadiz,131,Osasuna,0,0,2,L
+255,Cadiz vs Celta Vigo,2023-24,02-26-2024 08:53,1354,Cadiz,62,Celta Vigo,1,2,2,D
+261,Rayo Vallecano vs Cadiz,2023-24,03-03-2024 14:34,1354,Cadiz,64,Rayo Vallecano,0,1,1,D
+271,Cadiz vs Atletico,2023-24,03-10-2024 09:46,1354,Cadiz,63,Atletico,1,2,0,W
+279,Real Sociedad vs Cadiz,2023-24,03-16-2024 10:28,1354,Cadiz,68,Real Sociedad,0,0,2,L
+289,Cadiz vs Granada,2023-24,03-30-2024 11:30,1354,Cadiz,925,Granada,1,1,0,W
+304,Cadiz vs Barcelona,2023-24,04-14-2024 13:55,1354,Cadiz,65,Barcelona,1,0,1,L
+313,Girona vs Cadiz,2023-24,04-21-2024 12:34,1354,Cadiz,2783,Girona,0,1,4,L
+325,Cadiz vs Mallorca,2023-24,04-29-2024 07:54,1354,Cadiz,51,Mallorca,1,1,1,D
+332,Real Madrid vs Cadiz,2023-24,05-05-2024 14:10,1354,Cadiz,52,Real Madrid,0,0,3,L
+344,Cadiz vs Getafe,2023-24,05-12-2024 16:52,1354,Cadiz,819,Getafe,1,1,0,W
+352,Sevilla vs Cadiz,2023-24,05-16-2024 07:17,1354,Cadiz,67,Sevilla,0,1,0,W
+360,Cadiz vs Las Palmas,2023-24,05-20-2024 09:33,1354,Cadiz,838,Las Palmas,1,0,0,D
+373,Almeria vs Cadiz,2023-24,05-26-2024 08:37,1354,Cadiz,1799,Almeria,0,1,6,L
+1,Almeria vs Rayo Vallecano,2023-24,08-12-2023 09:46,1799,Almeria,64,Rayo Vallecano,1,0,2,L
+14,Almeria vs Real Madrid,2023-24,08-20-2023 17:33,1799,Almeria,52,Real Madrid,1,1,3,L
+23,Cadiz vs Almeria,2023-24,08-27-2023 16:48,1799,Almeria,1354,Cadiz,0,1,1,D
+31,Almeria vs Celta Vigo,2023-24,09-02-2023 13:42,1799,Almeria,62,Celta Vigo,1,2,3,L
+44,Villarreal vs Almeria,2023-24,09-18-2023 08:53,1799,Almeria,839,Villarreal,0,1,2,L
+52,Almeria vs Valencia,2023-24,09-24-2023 18:28,1799,Almeria,55,Valencia,1,2,2,D
+58,Sevilla vs Almeria,2023-24,09-27-2023 08:16,1799,Almeria,67,Sevilla,0,1,5,L
+70,Almeria vs Granada,2023-24,10-02-2023 08:18,1799,Almeria,925,Granada,1,3,3,D
+75,Athletic Club vs Almeria,2023-24,10-07-2023 08:19,1799,Almeria,53,Athletic Club,0,0,3,L
+93,Girona vs Almeria,2023-24,10-23-2023 08:40,1799,Almeria,2783,Girona,0,2,5,L
+97,Almeria vs Las Palmas,2023-24,10-29-2023 06:50,1799,Almeria,838,Las Palmas,1,1,2,L
+122,Almeria vs Real Sociedad,2023-24,11-16-2023 13:13,1799,Almeria,68,Real Sociedad,1,1,3,L
+125,Getafe vs Almeria,2023-24,11-26-2023 15:05,1799,Almeria,819,Getafe,0,1,2,L
+141,Almeria vs Real Betis,2023-24,12-04-2023 14:37,1799,Almeria,54,Real Betis,1,0,0,D
+146,Atletico vs Almeria,2023-24,12-11-2023 07:48,1799,Almeria,63,Atletico,0,1,2,L
+157,Almeria vs Mallorca,2023-24,12-18-2023 09:19,1799,Almeria,51,Mallorca,1,0,0,D
+166,Barcelona vs Almeria,2023-24,12-21-2023 08:28,1799,Almeria,65,Barcelona,0,2,3,L
+181,Osasuna vs Almeria,2023-24,01-05-2024 08:02,1799,Almeria,131,Osasuna,0,0,1,L
+193,Almeria vs Girona,2023-24,01-15-2024 03:58,1799,Almeria,2783,Girona,1,0,0,D
+195,Deportivo Alaves vs Almeria,2023-24,01-15-2024 13:22,1799,Almeria,60,Deportivo Alaves,0,0,1,L
+201,Real Madrid vs Almeria,2023-24,01-22-2024 05:30,1799,Almeria,52,Real Madrid,0,2,3,L
+206,Almeria vs Deportivo Alaves,2023-24,01-27-2024 07:29,1799,Almeria,60,Deportivo Alaves,1,0,3,L
+221,Valencia vs Almeria,2023-24,02-03-2024 22:06,1799,Almeria,55,Valencia,0,1,2,L
+239,Almeria vs Athletic Club,2023-24,02-13-2024 06:33,1799,Almeria,53,Athletic Club,1,0,0,D
+245,Granada vs Almeria,2023-24,02-19-2024 07:16,1799,Almeria,925,Granada,0,1,1,D
+253,Almeria vs Atletico,2023-24,02-25-2024 15:14,1799,Almeria,63,Atletico,1,2,2,D
+259,Celta Vigo vs Almeria,2023-24,03-02-2024 10:09,1799,Almeria,62,Celta Vigo,0,0,1,L
+278,Almeria vs Sevilla,2023-24,03-12-2024 07:25,1799,Almeria,67,Sevilla,1,2,2,D
+285,Las Palmas vs Almeria,2023-24,03-18-2024 06:47,1799,Almeria,838,Las Palmas,0,1,0,W
+291,Almeria vs Osasuna,2023-24,03-31-2024 14:28,1799,Almeria,131,Osasuna,1,0,3,L
+308,Real Sociedad vs Almeria,2023-24,04-15-2024 11:50,1799,Almeria,68,Real Sociedad,0,2,2,D
+315,Almeria vs Villarreal,2023-24,04-22-2024 10:37,1799,Almeria,839,Villarreal,1,1,2,L
+322,Almeria vs Getafe,2023-24,04-28-2024 13:22,1799,Almeria,819,Getafe,1,1,3,L
+339,Rayo Vallecano vs Almeria,2023-24,05-06-2024 11:55,1799,Almeria,64,Rayo Vallecano,0,1,0,W
+347,Real Betis vs Almeria,2023-24,05-13-2024 13:25,1799,Almeria,54,Real Betis,0,2,3,L
+357,Almeria vs Barcelona,2023-24,05-17-2024 08:56,1799,Almeria,65,Barcelona,1,0,2,L
+361,Mallorca vs Almeria,2023-24,05-20-2024 10:00,1799,Almeria,51,Mallorca,0,2,2,D
+373,Almeria vs Cadiz,2023-24,05-26-2024 08:37,1799,Almeria,1354,Cadiz,1,6,1,W
+3,Real Sociedad vs Girona,2023-24,08-13-2023 09:33,2783,Girona,68,Real Sociedad,0,1,1,D
+17,Girona vs Getafe,2023-24,08-21-2023 13:42,2783,Girona,819,Getafe,1,3,0,W
+25,Sevilla vs Girona,2023-24,08-27-2023 20:03,2783,Girona,67,Sevilla,0,2,1,W
+36,Girona vs Las Palmas,2023-24,09-04-2023 10:20,2783,Girona,838,Las Palmas,1,1,0,W
+48,Granada vs Girona,2023-24,09-19-2023 08:38,2783,Girona,925,Granada,0,4,2,W
+77,Cadiz vs Girona,2023-24,10-08-2023 08:29,2783,Girona,1354,Cadiz,0,1,0,W
+84,Girona vs Real Madrid,2023-24,10-10-2023 14:51,2783,Girona,52,Real Madrid,1,0,3,L
+85,Villarreal vs Girona,2023-24,10-10-2023 14:55,2783,Girona,839,Villarreal,0,2,1,W
+93,Girona vs Almeria,2023-24,10-23-2023 08:40,2783,Girona,1799,Almeria,1,5,2,W
+96,Girona vs Celta Vigo,2023-24,10-28-2023 11:31,2783,Girona,62,Celta Vigo,1,1,0,W
+108,Osasuna vs Girona,2023-24,11-05-2023 07:33,2783,Girona,131,Osasuna,0,4,2,W
+114,Rayo Vallecano vs Girona,2023-24,11-12-2023 07:45,2783,Girona,64,Rayo Vallecano,0,2,1,W
+132,Girona vs Athletic Club,2023-24,11-28-2023 13:13,2783,Girona,53,Athletic Club,1,1,1,D
+135,Girona vs Valencia,2023-24,12-03-2023 08:00,2783,Girona,55,Valencia,1,2,1,W
+149,Barcelona vs Girona,2023-24,12-11-2023 10:42,2783,Girona,65,Barcelona,0,4,2,W
+162,Girona vs Deportivo Alaves,2023-24,12-19-2023 06:58,2783,Girona,60,Deportivo Alaves,1,3,0,W
+169,Real Betis vs Girona,2023-24,12-22-2023 01:46,2783,Girona,54,Real Betis,0,1,1,D
+178,Girona vs Atletico,2023-24,01-04-2024 06:25,2783,Girona,63,Atletico,1,4,3,W
+184,Girona vs Mallorca,2023-24,01-06-2024 19:38,2783,Girona,51,Mallorca,1,5,3,W
+193,Almeria vs Girona,2023-24,01-15-2024 03:58,2783,Girona,1799,Almeria,0,0,0,D
+212,Celta Vigo vs Girona,2023-24,01-29-2024 05:50,2783,Girona,62,Celta Vigo,0,1,0,W
+224,Girona vs Real Sociedad,2023-24,02-04-2024 15:05,2783,Girona,68,Real Sociedad,1,0,0,D
+232,Real Madrid vs Girona,2023-24,02-11-2024 10:04,2783,Girona,52,Real Madrid,0,0,4,L
+249,Athletic Club vs Girona,2023-24,02-20-2024 08:24,2783,Girona,53,Athletic Club,0,2,3,L
+258,Girona vs Rayo Vallecano,2023-24,02-27-2024 09:23,2783,Girona,64,Rayo Vallecano,1,3,0,W
+265,Mallorca vs Girona,2023-24,03-04-2024 07:24,2783,Girona,51,Mallorca,0,0,1,L
+273,Girona vs Osasuna,2023-24,03-10-2024 10:32,2783,Girona,131,Osasuna,1,2,0,W
+282,Getafe vs Girona,2023-24,03-17-2024 11:18,2783,Girona,819,Getafe,0,0,1,L
+296,Girona vs Real Betis,2023-24,04-01-2024 11:40,2783,Girona,54,Real Betis,1,3,2,W
+301,Atletico vs Girona,2023-24,04-14-2024 00:03,2783,Girona,63,Atletico,0,1,3,L
+313,Girona vs Cadiz,2023-24,04-21-2024 12:34,2783,Girona,1354,Cadiz,1,4,1,W
+321,Las Palmas vs Girona,2023-24,04-28-2024 07:56,2783,Girona,838,Las Palmas,0,2,0,W
+333,Girona vs Barcelona,2023-24,05-05-2024 14:21,2783,Girona,65,Barcelona,1,4,2,W
+340,Deportivo Alaves vs Girona,2023-24,05-11-2024 08:13,2783,Girona,60,Deportivo Alaves,0,2,2,D
+350,Girona vs Villarreal,2023-24,05-15-2024 07:53,2783,Girona,839,Villarreal,1,0,1,L
+369,Valencia vs Girona,2023-24,05-21-2024 14:48,2783,Girona,55,Valencia,0,3,1,W
+370,Girona vs Granada,2023-24,05-25-2024 10:53,2783,Girona,925,Granada,1,7,0,W
+380,Girona vs Sevilla,2023-24,03-11-2025 06:53,2783,Girona,67,Sevilla,1,5,1,W
+397,Atletico vs Girona,2024-25,08-26-2024 10:01,2783,Girona,63,Atletico,0,0,3,L
+403,Girona vs Osasuna,2024-25,08-30-2024 05:44,2783,Girona,131,Osasuna,1,4,0,W
+411,Sevilla vs Girona,2024-25,09-02-2024 10:11,2783,Girona,67,Sevilla,0,2,0,W
+422,Girona vs Barcelona,2024-25,09-16-2024 10:31,2783,Girona,65,Barcelona,1,1,4,L
+431,Valencia vs Girona,2024-25,09-22-2024 13:03,2783,Girona,55,Valencia,0,0,2,L
+439,Girona vs Rayo Vallecano,2024-25,09-26-2024 07:35,2783,Girona,64,Rayo Vallecano,1,0,0,D
+451,Celta Vigo vs Girona,2024-25,09-30-2024 10:48,2783,Girona,62,Celta Vigo,0,1,1,D
+459,Girona vs Athletic Club,2024-25,10-07-2024 03:17,2783,Girona,53,Athletic Club,1,2,1,W
+467,Girona vs Real Sociedad,2024-25,10-20-2024 12:48,2783,Girona,68,Real Sociedad,1,0,1,L
+480,Las Palmas vs Girona,2024-25,10-31-2024 14:56,2783,Girona,838,Las Palmas,0,0,1,L
+482,Girona vs Leganes,2024-25,11-03-2024 14:47,2783,Girona,825,Leganes,1,4,3,W
+500,Getafe vs Girona,2024-25,11-13-2024 15:47,2783,Girona,819,Getafe,0,1,0,W
+508,Girona vs Espanyol,2024-25,11-24-2024 10:55,2783,Girona,70,Espanyol,1,4,1,W
+519,Villarreal vs Girona,2024-25,12-02-2024 03:00,2783,Girona,839,Villarreal,0,2,2,D
+529,Girona vs Real Madrid,2024-25,12-08-2024 13:09,2783,Girona,52,Real Madrid,1,0,3,L
+537,Mallorca vs Girona,2024-25,12-15-2024 05:22,2783,Girona,51,Mallorca,0,1,2,L
+547,Girona vs Real Valladolid,2024-25,12-21-2024 04:46,2783,Girona,58,Real Valladolid,1,3,0,W
+559,Deportivo Alaves vs Girona,2024-25,01-12-2025 07:11,2783,Girona,60,Deportivo Alaves,0,1,0,W
+567,Girona vs Sevilla,2024-25,01-19-2025 07:28,2783,Girona,67,Sevilla,1,1,2,L
+581,Rayo Vallecano vs Girona,2024-25,01-27-2025 00:31,2783,Girona,64,Rayo Vallecano,0,1,2,L
+595,Girona vs Las Palmas,2024-25,02-04-2025 09:14,2783,Girona,838,Las Palmas,1,2,1,W
+599,Athletic Club vs Girona,2024-25,02-09-2025 09:39,2783,Girona,53,Athletic Club,0,0,3,L
+607,Girona vs Getafe,2024-25,02-15-2025 10:59,2783,Girona,819,Getafe,1,1,2,L
+622,Real Madrid vs Girona,2024-25,02-24-2025 09:47,2783,Girona,52,Real Madrid,0,0,2,L
+627,Girona vs Celta Vigo,2024-25,03-02-2025 00:10,2783,Girona,62,Celta Vigo,1,2,2,D
+642,Espanyol vs Girona,2024-25,03-11-2025 07:09,2783,Girona,70,Espanyol,0,1,1,D
+646,Girona vs Valencia,2024-25,03-16-2025 11:13,2783,Girona,55,Valencia,1,1,1,D
+660,Barcelona vs Girona,2024-25,03-31-2025 09:23,2783,Girona,65,Barcelona,0,1,4,L
+665,Girona vs Deportivo Alaves,2024-25,04-06-2025 08:20,2783,Girona,60,Deportivo Alaves,1,0,1,L
+679,Osasuna vs Girona,2024-25,04-14-2025 08:05,2783,Girona,131,Osasuna,0,1,2,L
+693,Girona vs Real Betis,2024-25,04-22-2025 19:30,2783,Girona,54,Real Betis,1,1,3,L
+697,Leganes vs Girona,2024-25,04-25-2025 10:50,2783,Girona,825,Leganes,0,1,1,D
+713,Girona vs Mallorca,2024-25,05-06-2025 10:43,2783,Girona,51,Mallorca,1,1,0,W
+718,Girona vs Villarreal,2024-25,05-11-2025 14:43,2783,Girona,839,Villarreal,1,0,1,L
+725,Real Valladolid vs Girona,2024-25,05-14-2025 05:41,2783,Girona,58,Real Valladolid,0,1,0,W
+740,Real Sociedad vs Girona,2024-25,05-19-2025 12:03,2783,Girona,68,Real Sociedad,0,2,3,L
+752,Girona vs Atletico,2024-25,05-26-2025 05:36,2783,Girona,63,Atletico,1,0,4,L
+757,Real Betis vs Girona,2024-25,06-03-2025 17:13,2783,Girona,54,Real Betis,0,1,1,D
